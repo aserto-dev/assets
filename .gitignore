@@ -17,3 +17,11 @@ dist/
 
 # Misc
 .DS_Store
+
+# release tools
+mage.go
+magefile.go
+go.mod
+go.sum
+release.sh
+integrate.sh

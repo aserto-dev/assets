@@ -31,7 +31,9 @@
       "*": {
         "attr": null,
         "roles": [
-          "user"
+          "user",
+          "acmecorp",
+          "sales-engagement-management"
         ],
         "scopes": []
       }

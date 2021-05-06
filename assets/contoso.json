@@ -31,7 +31,9 @@
       "*": {
         "attr": null,
         "roles": [
-          "user"
+          "user",
+          "contoso",
+          "sales-engagement-management"
         ],
         "scopes": []
       }
@@ -79,7 +81,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "sales-engagement-management"
         ],
         "scopes": []
@@ -128,7 +130,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "engineering-operations"
         ],
         "scopes": []
@@ -177,7 +179,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "accounting"
         ],
         "scopes": []
@@ -226,7 +228,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "operations"
         ],
         "scopes": []
@@ -275,7 +277,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "marketing"
         ],
         "scopes": []
@@ -324,7 +326,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "sales"
         ],
         "scopes": []
@@ -373,7 +375,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "marketing"
         ],
         "scopes": []
@@ -422,7 +424,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "sales"
         ],
         "scopes": []
@@ -471,7 +473,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "marketing"
         ],
         "scopes": []
@@ -520,7 +522,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "sales"
         ],
         "scopes": []
@@ -569,7 +571,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "sales"
         ],
         "scopes": []
@@ -618,7 +620,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "sales"
         ],
         "scopes": []
@@ -667,7 +669,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "operations"
         ],
         "scopes": []
@@ -716,7 +718,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "sales"
         ],
         "scopes": []
@@ -765,7 +767,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "operations"
         ],
         "scopes": []
@@ -814,7 +816,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "marketing"
         ],
         "scopes": []
@@ -863,7 +865,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "marketing"
         ],
         "scopes": []
@@ -912,7 +914,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "marketing"
         ],
         "scopes": []
@@ -961,7 +963,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "sales"
         ],
         "scopes": []
@@ -1010,7 +1012,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "sales"
         ],
         "scopes": []
@@ -1059,7 +1061,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "marketing"
         ],
         "scopes": []
@@ -1108,7 +1110,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "sales"
         ],
         "scopes": []
@@ -1157,7 +1159,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "operations"
         ],
         "scopes": []
@@ -1206,7 +1208,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "operations"
         ],
         "scopes": []
@@ -1255,7 +1257,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "operations"
         ],
         "scopes": []
@@ -1304,7 +1306,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "operations"
         ],
         "scopes": []
@@ -1353,7 +1355,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "operations"
         ],
         "scopes": []
@@ -1402,7 +1404,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "operations"
         ],
         "scopes": []
@@ -1451,7 +1453,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "operations"
         ],
         "scopes": []
@@ -1500,7 +1502,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "operations"
         ],
         "scopes": []
@@ -1549,7 +1551,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "operations"
         ],
         "scopes": []
@@ -1598,7 +1600,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "operations"
         ],
         "scopes": []
@@ -1647,7 +1649,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "engineering-operations"
         ],
         "scopes": []
@@ -1696,7 +1698,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "marketing"
         ],
         "scopes": []
@@ -1745,7 +1747,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "strategy-consulting"
         ],
         "scopes": []
@@ -1794,7 +1796,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "engineering-operations"
         ],
         "scopes": []
@@ -1843,7 +1845,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "engineering-operations"
         ],
         "scopes": []
@@ -1892,7 +1894,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "engineering-operations"
         ],
         "scopes": []
@@ -1941,7 +1943,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "engineering-operations"
         ],
         "scopes": []
@@ -1990,7 +1992,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "engineering-operations"
         ],
         "scopes": []
@@ -2039,7 +2041,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "engineering-operations"
         ],
         "scopes": []
@@ -2088,7 +2090,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "engineering-operations"
         ],
         "scopes": []
@@ -2137,7 +2139,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "engineering-operations"
         ],
         "scopes": []
@@ -2186,7 +2188,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "engineering-operations"
         ],
         "scopes": []
@@ -2235,7 +2237,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "sales"
         ],
         "scopes": []
@@ -2284,7 +2286,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "sales"
         ],
         "scopes": []
@@ -2333,7 +2335,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "sales"
         ],
         "scopes": []
@@ -2382,7 +2384,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "sales"
         ],
         "scopes": []
@@ -2431,7 +2433,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "sales"
         ],
         "scopes": []
@@ -2480,7 +2482,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "sales"
         ],
         "scopes": []
@@ -2529,7 +2531,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "human-resources"
         ],
         "scopes": []
@@ -2578,7 +2580,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "senior-management"
         ],
         "scopes": []
@@ -2627,7 +2629,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "sales"
         ],
         "scopes": []
@@ -2676,7 +2678,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "sales"
         ],
         "scopes": []
@@ -2725,7 +2727,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "sales"
         ],
         "scopes": []
@@ -2774,7 +2776,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "sales"
         ],
         "scopes": []
@@ -2823,7 +2825,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "sales"
         ],
         "scopes": []
@@ -2872,7 +2874,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "sales"
         ],
         "scopes": []
@@ -2921,7 +2923,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "sales"
         ],
         "scopes": []
@@ -2970,7 +2972,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "sales"
         ],
         "scopes": []
@@ -3019,7 +3021,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "operations"
         ],
         "scopes": []
@@ -3068,7 +3070,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "sales"
         ],
         "scopes": []
@@ -3117,7 +3119,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "sales-engagement-management"
         ],
         "scopes": []
@@ -3166,7 +3168,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "operations"
         ],
         "scopes": []
@@ -3215,7 +3217,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "project-management"
         ],
         "scopes": []
@@ -3264,7 +3266,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "operations"
         ],
         "scopes": []
@@ -3313,7 +3315,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "sales"
         ],
         "scopes": []
@@ -3362,7 +3364,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "sales"
         ],
         "scopes": []
@@ -3411,7 +3413,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "sales"
         ],
         "scopes": []
@@ -3460,7 +3462,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "sales-engagement-management"
         ],
         "scopes": []
@@ -3509,7 +3511,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "sales-engagement-management"
         ],
         "scopes": []
@@ -3558,7 +3560,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "sales-engagement-management"
         ],
         "scopes": []
@@ -3607,7 +3609,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "sales-engagement-management"
         ],
         "scopes": []
@@ -3656,7 +3658,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "sales-engagement-management"
         ],
         "scopes": []
@@ -3705,7 +3707,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "sales"
         ],
         "scopes": []
@@ -3754,7 +3756,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "sales-engagement-management"
         ],
         "scopes": []
@@ -3803,7 +3805,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "sales"
         ],
         "scopes": []
@@ -3852,7 +3854,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "sales-engagement-management"
         ],
         "scopes": []
@@ -3901,7 +3903,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "sales-engagement-management"
         ],
         "scopes": []
@@ -3950,7 +3952,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "sales-engagement-management"
         ],
         "scopes": []
@@ -3999,7 +4001,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "sales-engagement-management"
         ],
         "scopes": []
@@ -4048,7 +4050,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "executive"
         ],
         "scopes": []
@@ -4097,7 +4099,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "executive"
         ],
         "scopes": []
@@ -4146,7 +4148,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "executive"
         ],
         "scopes": []
@@ -4195,7 +4197,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "senior-management"
         ],
         "scopes": []
@@ -4244,7 +4246,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "cvp-of-it"
         ],
         "scopes": []
@@ -4293,7 +4295,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "senior-management"
         ],
         "scopes": []
@@ -4342,7 +4344,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "senior-management"
         ],
         "scopes": []
@@ -4391,7 +4393,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "senior-management"
         ],
         "scopes": []
@@ -4440,7 +4442,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "sales-engagement-management"
         ],
         "scopes": []
@@ -4489,7 +4491,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "project-management"
         ],
         "scopes": []
@@ -4538,7 +4540,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "operations"
         ],
         "scopes": []
@@ -4587,7 +4589,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "project-management"
         ],
         "scopes": []
@@ -4636,7 +4638,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "project-management"
         ],
         "scopes": []
@@ -4685,7 +4687,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "project-management"
         ],
         "scopes": []
@@ -4734,7 +4736,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "project-management"
         ],
         "scopes": []
@@ -4783,7 +4785,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "project-management"
         ],
         "scopes": []
@@ -4832,7 +4834,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "project-management"
         ],
         "scopes": []
@@ -4881,7 +4883,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "project-management"
         ],
         "scopes": []
@@ -4930,7 +4932,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "project-management"
         ],
         "scopes": []
@@ -4979,7 +4981,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "project-management"
         ],
         "scopes": []
@@ -5028,7 +5030,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "project-management"
         ],
         "scopes": []
@@ -5077,7 +5079,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "project-management"
         ],
         "scopes": []
@@ -5126,7 +5128,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "project-management"
         ],
         "scopes": []
@@ -5175,7 +5177,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "project-management"
         ],
         "scopes": []
@@ -5224,7 +5226,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "sales"
         ],
         "scopes": []
@@ -5273,7 +5275,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "project-management"
         ],
         "scopes": []
@@ -5322,7 +5324,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "project-management"
         ],
         "scopes": []
@@ -5371,7 +5373,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "project-management"
         ],
         "scopes": []
@@ -5420,7 +5422,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "project-management"
         ],
         "scopes": []
@@ -5469,7 +5471,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "project-management"
         ],
         "scopes": []
@@ -5518,7 +5520,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "sales"
         ],
         "scopes": []
@@ -5567,7 +5569,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "project-management"
         ],
         "scopes": []
@@ -5616,7 +5618,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "sales"
         ],
         "scopes": []
@@ -5665,7 +5667,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "sales"
         ],
         "scopes": []
@@ -5714,7 +5716,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "project-management"
         ],
         "scopes": []
@@ -5763,7 +5765,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "sales"
         ],
         "scopes": []
@@ -5812,7 +5814,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "project-management"
         ],
         "scopes": []
@@ -5861,7 +5863,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "strategy-consulting"
         ],
         "scopes": []
@@ -5910,7 +5912,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "content-management-consulting"
         ],
         "scopes": []
@@ -5959,7 +5961,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "strategy-consulting"
         ],
         "scopes": []
@@ -6008,7 +6010,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "strategy-consulting"
         ],
         "scopes": []
@@ -6057,7 +6059,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "strategy-consulting"
         ],
         "scopes": []
@@ -6106,7 +6108,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "strategy-consulting"
         ],
         "scopes": []
@@ -6155,7 +6157,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "strategy-consulting"
         ],
         "scopes": []
@@ -6204,7 +6206,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "strategy-consulting"
         ],
         "scopes": []
@@ -6253,7 +6255,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "strategy-consulting"
         ],
         "scopes": []
@@ -6302,7 +6304,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "strategy-consulting"
         ],
         "scopes": []
@@ -6351,7 +6353,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "strategy-consulting"
         ],
         "scopes": []
@@ -6400,7 +6402,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "strategy-consulting"
         ],
         "scopes": []
@@ -6449,7 +6451,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "accounting"
         ],
         "scopes": []
@@ -6498,7 +6500,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "accounting"
         ],
         "scopes": []
@@ -6547,7 +6549,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "accounting"
         ],
         "scopes": []
@@ -6596,7 +6598,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "strategy-consulting"
         ],
         "scopes": []
@@ -6645,7 +6647,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "1099-contractor"
         ],
         "scopes": []
@@ -6694,7 +6696,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "strategy-consulting"
         ],
         "scopes": []
@@ -6743,7 +6745,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "strategy-consulting"
         ],
         "scopes": []
@@ -6792,7 +6794,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "strategy-consulting"
         ],
         "scopes": []
@@ -6841,7 +6843,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "sales"
         ],
         "scopes": []
@@ -6890,7 +6892,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "strategy-consulting"
         ],
         "scopes": []
@@ -6939,7 +6941,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "engineering-operations"
         ],
         "scopes": []
@@ -6988,7 +6990,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "content-management-consulting"
         ],
         "scopes": []
@@ -7037,7 +7039,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "content-management-consulting"
         ],
         "scopes": []
@@ -7086,7 +7088,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "strategy-consulting"
         ],
         "scopes": []
@@ -7135,7 +7137,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "crm-strategy"
         ],
         "scopes": []
@@ -7184,7 +7186,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "content-management-consulting"
         ],
         "scopes": []
@@ -7233,7 +7235,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "content-management-consulting"
         ],
         "scopes": []
@@ -7282,7 +7284,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "content-management-consulting"
         ],
         "scopes": []
@@ -7331,7 +7333,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "strategy-consulting"
         ],
         "scopes": []
@@ -7380,7 +7382,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "1099-contractor"
         ],
         "scopes": []
@@ -7429,7 +7431,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "accounting"
         ],
         "scopes": []
@@ -7478,7 +7480,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "1099-contractor"
         ],
         "scopes": []
@@ -7527,7 +7529,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "1099-contractor"
         ],
         "scopes": []
@@ -7576,7 +7578,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "1099-contractor"
         ],
         "scopes": []
@@ -7625,7 +7627,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "1099-contractor"
         ],
         "scopes": []
@@ -7674,7 +7676,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "1099-contractor"
         ],
         "scopes": []
@@ -7723,7 +7725,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "1099-contractor"
         ],
         "scopes": []
@@ -7772,7 +7774,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "1099-contractor"
         ],
         "scopes": []
@@ -7821,7 +7823,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "1099-contractor"
         ],
         "scopes": []
@@ -7870,7 +7872,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "1099-contractor"
         ],
         "scopes": []
@@ -7919,7 +7921,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "1099-contractor"
         ],
         "scopes": []
@@ -7968,7 +7970,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "1099-contractor"
         ],
         "scopes": []
@@ -8017,7 +8019,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "1099-contractor"
         ],
         "scopes": []
@@ -8066,7 +8068,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "1099-contractor"
         ],
         "scopes": []
@@ -8115,7 +8117,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "1099-contractor"
         ],
         "scopes": []
@@ -8164,7 +8166,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "accounting"
         ],
         "scopes": []
@@ -8213,7 +8215,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "1099-contractor"
         ],
         "scopes": []
@@ -8262,7 +8264,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "1099-contractor"
         ],
         "scopes": []
@@ -8311,7 +8313,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "1099-contractor"
         ],
         "scopes": []
@@ -8360,7 +8362,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "1099-contractor"
         ],
         "scopes": []
@@ -8409,7 +8411,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "1099-contractor"
         ],
         "scopes": []
@@ -8458,7 +8460,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "1099-contractor"
         ],
         "scopes": []
@@ -8507,7 +8509,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "1099-contractor"
         ],
         "scopes": []
@@ -8556,7 +8558,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "1099-contractor"
         ],
         "scopes": []
@@ -8605,7 +8607,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "1099-contractor"
         ],
         "scopes": []
@@ -8654,7 +8656,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "1099-contractor"
         ],
         "scopes": []
@@ -8703,7 +8705,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "1099-contractor"
         ],
         "scopes": []
@@ -8752,7 +8754,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "1099-contractor"
         ],
         "scopes": []
@@ -8801,7 +8803,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "strategy-consulting"
         ],
         "scopes": []
@@ -8850,7 +8852,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "1099-contractor"
         ],
         "scopes": []
@@ -8899,7 +8901,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "strategy-consulting"
         ],
         "scopes": []
@@ -8948,7 +8950,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "content-management-consulting"
         ],
         "scopes": []
@@ -8997,7 +8999,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "crm-strategy"
         ],
         "scopes": []
@@ -9046,7 +9048,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "engineering-operations"
         ],
         "scopes": []
@@ -9095,7 +9097,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "strategy-consulting"
         ],
         "scopes": []
@@ -9144,7 +9146,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "strategy-consulting"
         ],
         "scopes": []
@@ -9193,7 +9195,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "strategy-consulting"
         ],
         "scopes": []
@@ -9242,7 +9244,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "strategy-consulting"
         ],
         "scopes": []
@@ -9291,7 +9293,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "strategy-consulting"
         ],
         "scopes": []
@@ -9340,7 +9342,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "strategy-consulting"
         ],
         "scopes": []
@@ -9389,7 +9391,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "strategy-consulting"
         ],
         "scopes": []
@@ -9438,7 +9440,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "crm-strategy"
         ],
         "scopes": []
@@ -9487,7 +9489,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "strategy-consulting"
         ],
         "scopes": []
@@ -9536,7 +9538,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "content-management-consulting"
         ],
         "scopes": []
@@ -9585,7 +9587,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "strategy-consulting"
         ],
         "scopes": []
@@ -9634,7 +9636,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "strategy-consulting"
         ],
         "scopes": []
@@ -9683,7 +9685,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "strategy-consulting"
         ],
         "scopes": []
@@ -9732,7 +9734,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "strategy-consulting"
         ],
         "scopes": []
@@ -9781,7 +9783,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "strategy-consulting"
         ],
         "scopes": []
@@ -9830,7 +9832,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "crm-strategy"
         ],
         "scopes": []
@@ -9879,7 +9881,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "crm-strategy"
         ],
         "scopes": []
@@ -9928,7 +9930,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "crm-strategy"
         ],
         "scopes": []
@@ -9977,7 +9979,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "engineering-operations"
         ],
         "scopes": []
@@ -10026,7 +10028,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "creative"
         ],
         "scopes": []
@@ -10075,7 +10077,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "engineering-operations"
         ],
         "scopes": []
@@ -10124,7 +10126,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "engineering-operations"
         ],
         "scopes": []
@@ -10173,7 +10175,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "engineering-operations"
         ],
         "scopes": []
@@ -10222,7 +10224,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "engineering-operations"
         ],
         "scopes": []
@@ -10271,7 +10273,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "strategy-consulting"
         ],
         "scopes": []
@@ -10320,7 +10322,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "content-management-consulting"
         ],
         "scopes": []
@@ -10369,7 +10371,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "content-management-consulting"
         ],
         "scopes": []
@@ -10418,7 +10420,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "content-management-consulting"
         ],
         "scopes": []
@@ -10467,7 +10469,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "content-management-consulting"
         ],
         "scopes": []
@@ -10516,7 +10518,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "content-management-consulting"
         ],
         "scopes": []
@@ -10565,7 +10567,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "crm-strategy"
         ],
         "scopes": []
@@ -10614,7 +10616,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "content-management-consulting"
         ],
         "scopes": []
@@ -10663,7 +10665,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "crm-strategy"
         ],
         "scopes": []
@@ -10712,7 +10714,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "content-management-consulting"
         ],
         "scopes": []
@@ -10761,7 +10763,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "content-management-consulting"
         ],
         "scopes": []
@@ -10810,7 +10812,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "content-management-consulting"
         ],
         "scopes": []
@@ -10859,7 +10861,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "content-management-consulting"
         ],
         "scopes": []
@@ -10908,7 +10910,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "content-management-consulting"
         ],
         "scopes": []
@@ -10957,7 +10959,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "crm-strategy"
         ],
         "scopes": []
@@ -11006,7 +11008,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "project-management"
         ],
         "scopes": []
@@ -11055,7 +11057,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "operations"
         ],
         "scopes": []
@@ -11104,7 +11106,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "engineering-operations"
         ],
         "scopes": []
@@ -11153,7 +11155,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "engineering-operations"
         ],
         "scopes": []
@@ -11202,7 +11204,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "operations"
         ],
         "scopes": []
@@ -11251,7 +11253,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "strategy-consulting"
         ],
         "scopes": []
@@ -11300,7 +11302,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "project-management"
         ],
         "scopes": []
@@ -11349,7 +11351,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "sales-engagement-management"
         ],
         "scopes": []
@@ -11398,7 +11400,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "sales"
         ],
         "scopes": []
@@ -11447,7 +11449,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "operations"
         ],
         "scopes": []
@@ -11496,7 +11498,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "strategy-consulting"
         ],
         "scopes": []
@@ -11545,7 +11547,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "project-management"
         ],
         "scopes": []
@@ -11594,7 +11596,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "content-management-consulting"
         ],
         "scopes": []
@@ -11643,7 +11645,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "marketing"
         ],
         "scopes": []
@@ -11692,7 +11694,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "project-management"
         ],
         "scopes": []
@@ -11741,7 +11743,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "senior-management"
         ],
         "scopes": []
@@ -11790,7 +11792,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "sales"
         ],
         "scopes": []
@@ -11839,7 +11841,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "human-resources"
         ],
         "scopes": []
@@ -11888,7 +11890,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "strategy-consulting"
         ],
         "scopes": []
@@ -11937,7 +11939,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "sales-engagement-management"
         ],
         "scopes": []
@@ -11986,7 +11988,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "marketing"
         ],
         "scopes": []
@@ -12035,7 +12037,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "project-management"
         ],
         "scopes": []
@@ -12084,7 +12086,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "strategy-consulting"
         ],
         "scopes": []
@@ -12133,7 +12135,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "sales"
         ],
         "scopes": []
@@ -12182,7 +12184,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "operations"
         ],
         "scopes": []
@@ -12231,7 +12233,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "sales"
         ],
         "scopes": []
@@ -12280,7 +12282,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "senior-management"
         ],
         "scopes": []
@@ -12329,7 +12331,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "operations"
         ],
         "scopes": []
@@ -12378,7 +12380,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "sales"
         ],
         "scopes": []
@@ -12427,7 +12429,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "sales"
         ],
         "scopes": []
@@ -12476,7 +12478,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "senior-management"
         ],
         "scopes": []
@@ -12525,7 +12527,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "sales-engagement-management"
         ],
         "scopes": []
@@ -12574,7 +12576,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "sales"
         ],
         "scopes": []
@@ -12623,7 +12625,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "strategy-consulting"
         ],
         "scopes": []
@@ -12672,7 +12674,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "sales-engagement-management"
         ],
         "scopes": []
@@ -12721,7 +12723,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "executive"
         ],
         "scopes": []
@@ -12770,7 +12772,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "strategy-consulting"
         ],
         "scopes": []
@@ -12819,7 +12821,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "human-resources"
         ],
         "scopes": []
@@ -12868,7 +12870,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "executive"
         ],
         "scopes": []
@@ -12917,7 +12919,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "sales"
         ],
         "scopes": []
@@ -12966,7 +12968,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "accounting"
         ],
         "scopes": []
@@ -13015,7 +13017,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "executive"
         ],
         "scopes": []
@@ -13064,7 +13066,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "engineering"
         ],
         "scopes": []
@@ -13113,7 +13115,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "operations"
         ],
         "scopes": []
@@ -13162,7 +13164,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "project-management"
         ],
         "scopes": []
@@ -13211,7 +13213,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "project-management"
         ],
         "scopes": []
@@ -13260,7 +13262,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "operations"
         ],
         "scopes": []
@@ -13309,7 +13311,7 @@
         "attr": null,
         "roles": [
           "user",
-          "acmecorp",
+          "contoso",
           "executive"
         ],
         "scopes": []

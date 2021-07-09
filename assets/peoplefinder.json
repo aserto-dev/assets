@@ -31,7 +31,8 @@
       "properties": {
         "department": "Sales Engagement Management",
         "manager": "2bfaa552-d9a5-41e9-a6c3-5be62b4433c8",
-        "title": "Salesperson"
+        "title": "Salesperson",
+        "phone": "+1-804-555-3383"
       },
       "roles": [
         "user",
@@ -45,7 +46,8 @@
         "properties": {
           "department": "Sales Engagement Management",
           "manager": "2bfaa552-d9a5-41e9-a6c3-5be62b4433c8",
-          "title": "Salesperson"
+          "title": "Salesperson",
+          "phone": "+1-804-555-3383"
         },
         "roles": [
           "viewer"
@@ -89,7 +91,8 @@
       "properties": {
         "department": "Sales Engagement Management",
         "manager": "2bfaa552-d9a5-41e9-a6c3-5be62b4433c8",
-        "title": "Salesperson"
+        "title": "Salesperson",
+        "phone": "+1-206-555-9004"
       },
       "roles": [
         "user",
@@ -103,7 +106,8 @@
         "properties": {
           "department": "Sales Engagement Management",
           "manager": "2bfaa552-d9a5-41e9-a6c3-5be62b4433c8",
-          "title": "Salesperson"
+          "title": "Salesperson",
+          "phone": "+1-206-555-9004"
         },
         "roles": [
           "viewer"
@@ -147,7 +151,8 @@
       "properties": {
         "department": "Engineering Operations",
         "manager": "33d6a6a2-3615-4f0c-aa26-c15016432a24",
-        "title": "Senior Engineer"
+        "title": "Senior Engineer",
+        "phone": "+1-206-555-9003"
       },
       "roles": [
         "user",
@@ -161,7 +166,8 @@
         "properties": {
           "department": "Engineering Operations",
           "manager": "33d6a6a2-3615-4f0c-aa26-c15016432a24",
-          "title": "Senior Engineer"
+          "title": "Senior Engineer",
+          "phone": "+1-206-555-9003"
         },
         "roles": [
           "viewer"
@@ -205,7 +211,8 @@
       "properties": {
         "department": "Accounting",
         "manager": "7db937b4-a31a-448f-bc54-7b871e609506",
-        "title": "Accountant"
+        "title": "Accountant",
+        "phone": "+1-206-555-9002"
       },
       "roles": [
         "user",
@@ -219,7 +226,8 @@
         "properties": {
           "department": "Accounting",
           "manager": "7db937b4-a31a-448f-bc54-7b871e609506",
-          "title": "Accountant"
+          "title": "Accountant",
+          "phone": "+1-206-555-9002"
         },
         "roles": [
           "viewer"
@@ -263,7 +271,8 @@
       "properties": {
         "department": "Operations",
         "manager": "a528dc1d-0042-484d-81cb-dc58c95d8147",
-        "title": "IT Manager"
+        "title": "IT Manager",
+        "phone": "+1-206-555-9001"
       },
       "roles": [
         "user",
@@ -277,7 +286,8 @@
         "properties": {
           "department": "Operations",
           "manager": "a528dc1d-0042-484d-81cb-dc58c95d8147",
-          "title": "IT Manager"
+          "title": "IT Manager",
+          "phone": "+1-206-555-9001"
         },
         "roles": [
           "admin"
@@ -321,7 +331,8 @@
       "properties": {
         "department": "Marketing",
         "manager": "7139b430-f5e4-4dc2-8b1f-1921b54f42a5",
-        "title": "Marketing Specialist"
+        "title": "Marketing Specialist",
+        "phone": "+1-206-555-9000"
       },
       "roles": [
         "user",
@@ -335,7 +346,8 @@
         "properties": {
           "department": "Marketing",
           "manager": "7139b430-f5e4-4dc2-8b1f-1921b54f42a5",
-          "title": "Marketing Specialist"
+          "title": "Marketing Specialist",
+          "phone": "+1-206-555-9000"
         },
         "roles": [
           "viewer"
@@ -379,7 +391,8 @@
       "properties": {
         "department": "Sales",
         "manager": "309409a4-150e-44e3-93c5-f08458b243ee",
-        "title": "Salesperson"
+        "title": "Salesperson",
+        "phone": "+1-026-555-8454"
       },
       "roles": [
         "user",
@@ -393,7 +406,8 @@
         "properties": {
           "department": "Sales",
           "manager": "309409a4-150e-44e3-93c5-f08458b243ee",
-          "title": "Salesperson"
+          "title": "Salesperson",
+          "phone": "+1-026-555-8454"
         },
         "roles": [
           "viewer"
@@ -437,7 +451,8 @@
       "properties": {
         "department": "Marketing",
         "manager": "7139b430-f5e4-4dc2-8b1f-1921b54f42a5",
-        "title": "Marketing Specialist"
+        "title": "Marketing Specialist",
+        "phone": "+1-206-555-6811"
       },
       "roles": [
         "user",
@@ -451,7 +466,8 @@
         "properties": {
           "department": "Marketing",
           "manager": "7139b430-f5e4-4dc2-8b1f-1921b54f42a5",
-          "title": "Marketing Specialist"
+          "title": "Marketing Specialist",
+          "phone": "+1-206-555-6811"
         },
         "roles": [
           "viewer"
@@ -495,7 +511,8 @@
       "properties": {
         "department": "Sales",
         "manager": "2bfaa552-d9a5-41e9-a6c3-5be62b4433c8",
-        "title": "Salesperson"
+        "title": "Salesperson",
+        "phone": "+1-860-555-4516"
       },
       "roles": [
         "user",
@@ -509,7 +526,8 @@
         "properties": {
           "department": "Sales",
           "manager": "2bfaa552-d9a5-41e9-a6c3-5be62b4433c8",
-          "title": "Salesperson"
+          "title": "Salesperson",
+          "phone": "+1-860-555-4516"
         },
         "roles": [
           "viewer"
@@ -553,7 +571,8 @@
       "properties": {
         "department": "Marketing",
         "manager": "7139b430-f5e4-4dc2-8b1f-1921b54f42a5",
-        "title": "Marketing Specialist"
+        "title": "Marketing Specialist",
+        "phone": "+1-206-555-1214"
       },
       "roles": [
         "user",
@@ -567,7 +586,8 @@
         "properties": {
           "department": "Marketing",
           "manager": "7139b430-f5e4-4dc2-8b1f-1921b54f42a5",
-          "title": "Marketing Specialist"
+          "title": "Marketing Specialist",
+          "phone": "+1-206-555-1214"
         },
         "roles": [
           "viewer"
@@ -611,7 +631,8 @@
       "properties": {
         "department": "Sales",
         "manager": "4d339518-1c4e-46dd-8024-829f555b1562",
-        "title": "Salesperson"
+        "title": "Salesperson",
+        "phone": "+1-404-555-2693"
       },
       "roles": [
         "user",
@@ -625,7 +646,8 @@
         "properties": {
           "department": "Sales",
           "manager": "4d339518-1c4e-46dd-8024-829f555b1562",
-          "title": "Salesperson"
+          "title": "Salesperson",
+          "phone": "+1-404-555-2693"
         },
         "roles": [
           "viewer"
@@ -669,7 +691,8 @@
       "properties": {
         "department": "Sales",
         "manager": "2bfaa552-d9a5-41e9-a6c3-5be62b4433c8",
-        "title": "Salesperson"
+        "title": "Salesperson",
+        "phone": "+1-617-555-2429"
       },
       "roles": [
         "user",
@@ -683,7 +706,8 @@
         "properties": {
           "department": "Sales",
           "manager": "2bfaa552-d9a5-41e9-a6c3-5be62b4433c8",
-          "title": "Salesperson"
+          "title": "Salesperson",
+          "phone": "+1-617-555-2429"
         },
         "roles": [
           "viewer"
@@ -727,7 +751,8 @@
       "properties": {
         "department": "Sales",
         "manager": "309409a4-150e-44e3-93c5-f08458b243ee",
-        "title": "Salesperson"
+        "title": "Salesperson",
+        "phone": "+1-312-555-9181"
       },
       "roles": [
         "user",
@@ -741,7 +766,8 @@
         "properties": {
           "department": "Sales",
           "manager": "309409a4-150e-44e3-93c5-f08458b243ee",
-          "title": "Salesperson"
+          "title": "Salesperson",
+          "phone": "+1-312-555-9181"
         },
         "roles": [
           "viewer"
@@ -785,7 +811,8 @@
       "properties": {
         "department": "Operations",
         "manager": "b1bb9fc3-dcb0-4328-8d91-6d88ee78bc2d",
-        "title": "Procurement Manager"
+        "title": "Procurement Manager",
+        "phone": "+1-206-555-4515"
       },
       "roles": [
         "user",
@@ -799,7 +826,8 @@
         "properties": {
           "department": "Operations",
           "manager": "b1bb9fc3-dcb0-4328-8d91-6d88ee78bc2d",
-          "title": "Procurement Manager"
+          "title": "Procurement Manager",
+          "phone": "+1-206-555-4515"
         },
         "roles": [
           "admin"
@@ -843,7 +871,8 @@
       "properties": {
         "department": "Sales",
         "manager": "7e28daa4-228f-46fc-b8f1-f35d7e4ed03e",
-        "title": "Salesperson"
+        "title": "Salesperson",
+        "phone": "+1-91-555-8595"
       },
       "roles": [
         "user",
@@ -857,7 +886,8 @@
         "properties": {
           "department": "Sales",
           "manager": "7e28daa4-228f-46fc-b8f1-f35d7e4ed03e",
-          "title": "Salesperson"
+          "title": "Salesperson",
+          "phone": "+1-91-555-8595"
         },
         "roles": [
           "viewer"
@@ -901,7 +931,8 @@
       "properties": {
         "department": "Operations",
         "manager": "a528dc1d-0042-484d-81cb-dc58c95d8147",
-        "title": "IT Manager"
+        "title": "IT Manager",
+        "phone": "+1-206-555-3325"
       },
       "roles": [
         "user",
@@ -915,7 +946,8 @@
         "properties": {
           "department": "Operations",
           "manager": "a528dc1d-0042-484d-81cb-dc58c95d8147",
-          "title": "IT Manager"
+          "title": "IT Manager",
+          "phone": "+1-206-555-3325"
         },
         "roles": [
           "admin"
@@ -959,7 +991,8 @@
       "properties": {
         "department": "Marketing",
         "manager": "7139b430-f5e4-4dc2-8b1f-1921b54f42a5",
-        "title": "Marketing Specialist"
+        "title": "Marketing Specialist",
+        "phone": "+1-206-555-8951"
       },
       "roles": [
         "user",
@@ -973,7 +1006,8 @@
         "properties": {
           "department": "Marketing",
           "manager": "7139b430-f5e4-4dc2-8b1f-1921b54f42a5",
-          "title": "Marketing Specialist"
+          "title": "Marketing Specialist",
+          "phone": "+1-206-555-8951"
         },
         "roles": [
           "viewer"
@@ -1017,7 +1051,8 @@
       "properties": {
         "department": "Marketing",
         "manager": "7139b430-f5e4-4dc2-8b1f-1921b54f42a5",
-        "title": "Marketing Specialist"
+        "title": "Marketing Specialist",
+        "phone": "+1-206-555-2312"
       },
       "roles": [
         "user",
@@ -1031,7 +1066,8 @@
         "properties": {
           "department": "Marketing",
           "manager": "7139b430-f5e4-4dc2-8b1f-1921b54f42a5",
-          "title": "Marketing Specialist"
+          "title": "Marketing Specialist",
+          "phone": "+1-206-555-2312"
         },
         "roles": [
           "viewer"
@@ -1075,7 +1111,8 @@
       "properties": {
         "department": "Marketing",
         "manager": "7139b430-f5e4-4dc2-8b1f-1921b54f42a5",
-        "title": "Marketing Specialist"
+        "title": "Marketing Specialist",
+        "phone": "+1-206-555-8834"
       },
       "roles": [
         "user",
@@ -1089,7 +1126,8 @@
         "properties": {
           "department": "Marketing",
           "manager": "7139b430-f5e4-4dc2-8b1f-1921b54f42a5",
-          "title": "Marketing Specialist"
+          "title": "Marketing Specialist",
+          "phone": "+1-206-555-8834"
         },
         "roles": [
           "viewer"
@@ -1133,7 +1171,8 @@
       "properties": {
         "department": "Sales",
         "manager": "6a11df26-6b53-4baf-b3c8-25add379d21f",
-        "title": "Salesperson"
+        "title": "Salesperson",
+        "phone": "+1-206-555-3654"
       },
       "roles": [
         "user",
@@ -1147,7 +1186,8 @@
         "properties": {
           "department": "Sales",
           "manager": "6a11df26-6b53-4baf-b3c8-25add379d21f",
-          "title": "Salesperson"
+          "title": "Salesperson",
+          "phone": "+1-206-555-3654"
         },
         "roles": [
           "viewer"
@@ -1191,7 +1231,8 @@
       "properties": {
         "department": "Sales",
         "manager": "6a11df26-6b53-4baf-b3c8-25add379d21f",
-        "title": "Salesperson"
+        "title": "Salesperson",
+        "phone": "+1-108-5-7862"
       },
       "roles": [
         "user",
@@ -1205,7 +1246,8 @@
         "properties": {
           "department": "Sales",
           "manager": "6a11df26-6b53-4baf-b3c8-25add379d21f",
-          "title": "Salesperson"
+          "title": "Salesperson",
+          "phone": "+1-108-5-7862"
         },
         "roles": [
           "viewer"
@@ -1249,7 +1291,8 @@
       "properties": {
         "department": "Marketing",
         "manager": "7139b430-f5e4-4dc2-8b1f-1921b54f42a5",
-        "title": "Public Relations Specialist"
+        "title": "Public Relations Specialist",
+        "phone": "+1-206-555-2416"
       },
       "roles": [
         "user",
@@ -1263,7 +1306,8 @@
         "properties": {
           "department": "Marketing",
           "manager": "7139b430-f5e4-4dc2-8b1f-1921b54f42a5",
-          "title": "Public Relations Specialist"
+          "title": "Public Relations Specialist",
+          "phone": "+1-206-555-2416"
         },
         "roles": [
           "viewer"
@@ -1307,7 +1351,8 @@
       "properties": {
         "department": "Sales",
         "manager": "309409a4-150e-44e3-93c5-f08458b243ee",
-        "title": "Salesperson"
+        "title": "Salesperson",
+        "phone": "+1-413-555-3855"
       },
       "roles": [
         "user",
@@ -1321,7 +1366,8 @@
         "properties": {
           "department": "Sales",
           "manager": "309409a4-150e-44e3-93c5-f08458b243ee",
-          "title": "Salesperson"
+          "title": "Salesperson",
+          "phone": "+1-413-555-3855"
         },
         "roles": [
           "viewer"
@@ -1365,7 +1411,8 @@
       "properties": {
         "department": "Operations",
         "manager": "a528dc1d-0042-484d-81cb-dc58c95d8147",
-        "title": "IT Manager"
+        "title": "IT Manager",
+        "phone": "+1-206-555-9541"
       },
       "roles": [
         "user",
@@ -1379,7 +1426,8 @@
         "properties": {
           "department": "Operations",
           "manager": "a528dc1d-0042-484d-81cb-dc58c95d8147",
-          "title": "IT Manager"
+          "title": "IT Manager",
+          "phone": "+1-206-555-9541"
         },
         "roles": [
           "admin"
@@ -1423,7 +1471,8 @@
       "properties": {
         "department": "Operations",
         "manager": "a528dc1d-0042-484d-81cb-dc58c95d8147",
-        "title": "IT Manager"
+        "title": "IT Manager",
+        "phone": "+1-206-555-7455"
       },
       "roles": [
         "user",
@@ -1437,7 +1486,8 @@
         "properties": {
           "department": "Operations",
           "manager": "a528dc1d-0042-484d-81cb-dc58c95d8147",
-          "title": "IT Manager"
+          "title": "IT Manager",
+          "phone": "+1-206-555-7455"
         },
         "roles": [
           "admin"
@@ -1481,7 +1531,8 @@
       "properties": {
         "department": "Operations",
         "manager": "a528dc1d-0042-484d-81cb-dc58c95d8147",
-        "title": "IT Manager"
+        "title": "IT Manager",
+        "phone": "+1-206-555-5567"
       },
       "roles": [
         "user",
@@ -1495,7 +1546,8 @@
         "properties": {
           "department": "Operations",
           "manager": "a528dc1d-0042-484d-81cb-dc58c95d8147",
-          "title": "IT Manager"
+          "title": "IT Manager",
+          "phone": "+1-206-555-5567"
         },
         "roles": [
           "admin"
@@ -1539,7 +1591,8 @@
       "properties": {
         "department": "Operations",
         "manager": "c9b92bc2-af45-453d-a6cf-00ce57cbdc3d",
-        "title": "Manager"
+        "title": "Manager",
+        "phone": "+1-206-555-5934"
       },
       "roles": [
         "user",
@@ -1553,7 +1606,8 @@
         "properties": {
           "department": "Operations",
           "manager": "c9b92bc2-af45-453d-a6cf-00ce57cbdc3d",
-          "title": "Manager"
+          "title": "Manager",
+          "phone": "+1-206-555-5934"
         },
         "roles": [
           "admin"
@@ -1597,7 +1651,8 @@
       "properties": {
         "department": "Operations",
         "manager": "c9b92bc2-af45-453d-a6cf-00ce57cbdc3d",
-        "title": "Manager"
+        "title": "Manager",
+        "phone": "+1-206-555-1298"
       },
       "roles": [
         "user",
@@ -1611,7 +1666,8 @@
         "properties": {
           "department": "Operations",
           "manager": "c9b92bc2-af45-453d-a6cf-00ce57cbdc3d",
-          "title": "Manager"
+          "title": "Manager",
+          "phone": "+1-206-555-1298"
         },
         "roles": [
           "admin"
@@ -1655,7 +1711,8 @@
       "properties": {
         "department": "Operations",
         "manager": "c9b92bc2-af45-453d-a6cf-00ce57cbdc3d",
-        "title": "Manager"
+        "title": "Manager",
+        "phone": "+1-206-555-9867"
       },
       "roles": [
         "user",
@@ -1669,7 +1726,8 @@
         "properties": {
           "department": "Operations",
           "manager": "c9b92bc2-af45-453d-a6cf-00ce57cbdc3d",
-          "title": "Manager"
+          "title": "Manager",
+          "phone": "+1-206-555-9867"
         },
         "roles": [
           "admin"
@@ -1713,7 +1771,8 @@
       "properties": {
         "department": "Operations",
         "manager": "a29140f9-13c6-4849-9890-0687072dece8",
-        "title": "Manager"
+        "title": "Manager",
+        "phone": "+1-206-555-7649"
       },
       "roles": [
         "user",
@@ -1727,7 +1786,8 @@
         "properties": {
           "department": "Operations",
           "manager": "a29140f9-13c6-4849-9890-0687072dece8",
-          "title": "Manager"
+          "title": "Manager",
+          "phone": "+1-206-555-7649"
         },
         "roles": [
           "admin"
@@ -1771,7 +1831,8 @@
       "properties": {
         "department": "Operations",
         "manager": "a29140f9-13c6-4849-9890-0687072dece8",
-        "title": "Manager"
+        "title": "Manager",
+        "phone": "+1-206-555-1393"
       },
       "roles": [
         "user",
@@ -1785,7 +1846,8 @@
         "properties": {
           "department": "Operations",
           "manager": "a29140f9-13c6-4849-9890-0687072dece8",
-          "title": "Manager"
+          "title": "Manager",
+          "phone": "+1-206-555-1393"
         },
         "roles": [
           "admin"
@@ -1829,7 +1891,8 @@
       "properties": {
         "department": "Operations",
         "manager": "a29140f9-13c6-4849-9890-0687072dece8",
-        "title": "Manager"
+        "title": "Manager",
+        "phone": "+1-206-555-7698"
       },
       "roles": [
         "user",
@@ -1843,7 +1906,8 @@
         "properties": {
           "department": "Operations",
           "manager": "a29140f9-13c6-4849-9890-0687072dece8",
-          "title": "Manager"
+          "title": "Manager",
+          "phone": "+1-206-555-7698"
         },
         "roles": [
           "admin"
@@ -1887,7 +1951,8 @@
       "properties": {
         "department": "Operations",
         "manager": "a29140f9-13c6-4849-9890-0687072dece8",
-        "title": "Manager"
+        "title": "Manager",
+        "phone": "+1-206-555-3556"
       },
       "roles": [
         "user",
@@ -1901,7 +1966,8 @@
         "properties": {
           "department": "Operations",
           "manager": "a29140f9-13c6-4849-9890-0687072dece8",
-          "title": "Manager"
+          "title": "Manager",
+          "phone": "+1-206-555-3556"
         },
         "roles": [
           "admin"
@@ -1945,7 +2011,8 @@
       "properties": {
         "department": "Engineering Operations",
         "manager": "33d6a6a2-3615-4f0c-aa26-c15016432a24",
-        "title": "Engineer"
+        "title": "Engineer",
+        "phone": "+1-206-555-8835"
       },
       "roles": [
         "user",
@@ -1959,7 +2026,8 @@
         "properties": {
           "department": "Engineering Operations",
           "manager": "33d6a6a2-3615-4f0c-aa26-c15016432a24",
-          "title": "Engineer"
+          "title": "Engineer",
+          "phone": "+1-206-555-8835"
         },
         "roles": [
           "viewer"
@@ -2003,7 +2071,8 @@
       "properties": {
         "department": "Marketing",
         "manager": "7139b430-f5e4-4dc2-8b1f-1921b54f42a5",
-        "title": "Marketing Specialist"
+        "title": "Marketing Specialist",
+        "phone": "+1-206-555-9269"
       },
       "roles": [
         "user",
@@ -2017,7 +2086,8 @@
         "properties": {
           "department": "Marketing",
           "manager": "7139b430-f5e4-4dc2-8b1f-1921b54f42a5",
-          "title": "Marketing Specialist"
+          "title": "Marketing Specialist",
+          "phone": "+1-206-555-9269"
         },
         "roles": [
           "viewer"
@@ -2061,7 +2131,8 @@
       "properties": {
         "department": "Strategy Consulting",
         "manager": "6884a642-9966-442a-ac80-6dfed9442a5b",
-        "title": "Strategy Consultant"
+        "title": "Strategy Consultant",
+        "phone": "+1-206-555-9538"
       },
       "roles": [
         "user",
@@ -2075,7 +2146,8 @@
         "properties": {
           "department": "Strategy Consulting",
           "manager": "6884a642-9966-442a-ac80-6dfed9442a5b",
-          "title": "Strategy Consultant"
+          "title": "Strategy Consultant",
+          "phone": "+1-206-555-9538"
         },
         "roles": [
           "viewer"
@@ -2119,7 +2191,8 @@
       "properties": {
         "department": "Engineering Operations",
         "manager": "33d6a6a2-3615-4f0c-aa26-c15016432a24",
-        "title": "Engineer"
+        "title": "Engineer",
+        "phone": "+1-206-555-6132"
       },
       "roles": [
         "user",
@@ -2133,7 +2206,8 @@
         "properties": {
           "department": "Engineering Operations",
           "manager": "33d6a6a2-3615-4f0c-aa26-c15016432a24",
-          "title": "Engineer"
+          "title": "Engineer",
+          "phone": "+1-206-555-6132"
         },
         "roles": [
           "viewer"
@@ -2177,7 +2251,8 @@
       "properties": {
         "department": "Engineering Operations",
         "manager": "33d6a6a2-3615-4f0c-aa26-c15016432a24",
-        "title": "Engineer"
+        "title": "Engineer",
+        "phone": "+1-206-555-7444"
       },
       "roles": [
         "user",
@@ -2191,7 +2266,8 @@
         "properties": {
           "department": "Engineering Operations",
           "manager": "33d6a6a2-3615-4f0c-aa26-c15016432a24",
-          "title": "Engineer"
+          "title": "Engineer",
+          "phone": "+1-206-555-7444"
         },
         "roles": [
           "viewer"
@@ -2235,7 +2311,8 @@
       "properties": {
         "department": "Engineering Operations",
         "manager": "33d6a6a2-3615-4f0c-aa26-c15016432a24",
-        "title": "Engineer"
+        "title": "Engineer",
+        "phone": "+1-206-555-1211"
       },
       "roles": [
         "user",
@@ -2249,7 +2326,8 @@
         "properties": {
           "department": "Engineering Operations",
           "manager": "33d6a6a2-3615-4f0c-aa26-c15016432a24",
-          "title": "Engineer"
+          "title": "Engineer",
+          "phone": "+1-206-555-1211"
         },
         "roles": [
           "viewer"
@@ -2293,7 +2371,8 @@
       "properties": {
         "department": "Engineering Operations",
         "manager": "33d6a6a2-3615-4f0c-aa26-c15016432a24",
-        "title": "Senior Engineer"
+        "title": "Senior Engineer",
+        "phone": "+1-206-555-9244"
       },
       "roles": [
         "user",
@@ -2307,7 +2386,8 @@
         "properties": {
           "department": "Engineering Operations",
           "manager": "33d6a6a2-3615-4f0c-aa26-c15016432a24",
-          "title": "Senior Engineer"
+          "title": "Senior Engineer",
+          "phone": "+1-206-555-9244"
         },
         "roles": [
           "viewer"
@@ -2351,7 +2431,8 @@
       "properties": {
         "department": "Engineering Operations",
         "manager": "33d6a6a2-3615-4f0c-aa26-c15016432a24",
-        "title": "Senior Engineer"
+        "title": "Senior Engineer",
+        "phone": "+1-206-555-2732"
       },
       "roles": [
         "user",
@@ -2365,7 +2446,8 @@
         "properties": {
           "department": "Engineering Operations",
           "manager": "33d6a6a2-3615-4f0c-aa26-c15016432a24",
-          "title": "Senior Engineer"
+          "title": "Senior Engineer",
+          "phone": "+1-206-555-2732"
         },
         "roles": [
           "viewer"
@@ -2409,7 +2491,8 @@
       "properties": {
         "department": "Engineering Operations",
         "manager": "33d6a6a2-3615-4f0c-aa26-c15016432a24",
-        "title": "Senior Engineer"
+        "title": "Senior Engineer",
+        "phone": "+1-206-555-9351"
       },
       "roles": [
         "user",
@@ -2423,7 +2506,8 @@
         "properties": {
           "department": "Engineering Operations",
           "manager": "33d6a6a2-3615-4f0c-aa26-c15016432a24",
-          "title": "Senior Engineer"
+          "title": "Senior Engineer",
+          "phone": "+1-206-555-9351"
         },
         "roles": [
           "viewer"
@@ -2467,7 +2551,8 @@
       "properties": {
         "department": "Engineering Operations",
         "manager": "33d6a6a2-3615-4f0c-aa26-c15016432a24",
-        "title": "Senior Engineer"
+        "title": "Senior Engineer",
+        "phone": "+1-206-555-2318"
       },
       "roles": [
         "user",
@@ -2481,7 +2566,8 @@
         "properties": {
           "department": "Engineering Operations",
           "manager": "33d6a6a2-3615-4f0c-aa26-c15016432a24",
-          "title": "Senior Engineer"
+          "title": "Senior Engineer",
+          "phone": "+1-206-555-2318"
         },
         "roles": [
           "viewer"
@@ -2525,7 +2611,8 @@
       "properties": {
         "department": "Engineering Operations",
         "manager": "33d6a6a2-3615-4f0c-aa26-c15016432a24",
-        "title": "Senior Engineer"
+        "title": "Senior Engineer",
+        "phone": "+1-206-555-5651"
       },
       "roles": [
         "user",
@@ -2539,7 +2626,8 @@
         "properties": {
           "department": "Engineering Operations",
           "manager": "33d6a6a2-3615-4f0c-aa26-c15016432a24",
-          "title": "Senior Engineer"
+          "title": "Senior Engineer",
+          "phone": "+1-206-555-5651"
         },
         "roles": [
           "viewer"
@@ -2583,7 +2671,8 @@
       "properties": {
         "department": "Engineering Operations",
         "manager": "33d6a6a2-3615-4f0c-aa26-c15016432a24",
-        "title": "Senior Engineer"
+        "title": "Senior Engineer",
+        "phone": "+1-206-555-6941"
       },
       "roles": [
         "user",
@@ -2597,7 +2686,8 @@
         "properties": {
           "department": "Engineering Operations",
           "manager": "33d6a6a2-3615-4f0c-aa26-c15016432a24",
-          "title": "Senior Engineer"
+          "title": "Senior Engineer",
+          "phone": "+1-206-555-6941"
         },
         "roles": [
           "viewer"
@@ -2641,7 +2731,8 @@
       "properties": {
         "department": "Sales",
         "manager": "7e28daa4-228f-46fc-b8f1-f35d7e4ed03e",
-        "title": "Salesperson"
+        "title": "Salesperson",
+        "phone": "+1-206-555-1785"
       },
       "roles": [
         "user",
@@ -2655,7 +2746,8 @@
         "properties": {
           "department": "Sales",
           "manager": "7e28daa4-228f-46fc-b8f1-f35d7e4ed03e",
-          "title": "Salesperson"
+          "title": "Salesperson",
+          "phone": "+1-206-555-1785"
         },
         "roles": [
           "viewer"
@@ -2699,7 +2791,8 @@
       "properties": {
         "department": "Sales",
         "manager": "4d339518-1c4e-46dd-8024-829f555b1562",
-        "title": "Salesperson"
+        "title": "Salesperson",
+        "phone": "+1-714-555-4825"
       },
       "roles": [
         "user",
@@ -2713,7 +2806,8 @@
         "properties": {
           "department": "Sales",
           "manager": "4d339518-1c4e-46dd-8024-829f555b1562",
-          "title": "Salesperson"
+          "title": "Salesperson",
+          "phone": "+1-714-555-4825"
         },
         "roles": [
           "viewer"
@@ -2757,7 +2851,8 @@
       "properties": {
         "department": "Sales",
         "manager": "2bfaa552-d9a5-41e9-a6c3-5be62b4433c8",
-        "title": "Salesperson"
+        "title": "Salesperson",
+        "phone": "+1-206-555-1422"
       },
       "roles": [
         "user",
@@ -2771,7 +2866,8 @@
         "properties": {
           "department": "Sales",
           "manager": "2bfaa552-d9a5-41e9-a6c3-5be62b4433c8",
-          "title": "Salesperson"
+          "title": "Salesperson",
+          "phone": "+1-206-555-1422"
         },
         "roles": [
           "viewer"
@@ -2815,7 +2911,8 @@
       "properties": {
         "department": "Sales",
         "manager": "7e28daa4-228f-46fc-b8f1-f35d7e4ed03e",
-        "title": "Salesperson"
+        "title": "Salesperson",
+        "phone": "+1-2555-4845"
       },
       "roles": [
         "user",
@@ -2829,7 +2926,8 @@
         "properties": {
           "department": "Sales",
           "manager": "7e28daa4-228f-46fc-b8f1-f35d7e4ed03e",
-          "title": "Salesperson"
+          "title": "Salesperson",
+          "phone": "+1-2555-4845"
         },
         "roles": [
           "viewer"
@@ -2873,7 +2971,8 @@
       "properties": {
         "department": "Sales",
         "manager": "6a11df26-6b53-4baf-b3c8-25add379d21f",
-        "title": "Salesperson"
+        "title": "Salesperson",
+        "phone": "+1-509-555-3766"
       },
       "roles": [
         "user",
@@ -2887,7 +2986,8 @@
         "properties": {
           "department": "Sales",
           "manager": "6a11df26-6b53-4baf-b3c8-25add379d21f",
-          "title": "Salesperson"
+          "title": "Salesperson",
+          "phone": "+1-509-555-3766"
         },
         "roles": [
           "viewer"
@@ -2931,7 +3031,8 @@
       "properties": {
         "department": "Sales",
         "manager": "4d339518-1c4e-46dd-8024-829f555b1562",
-        "title": "Salesperson"
+        "title": "Salesperson",
+        "phone": "+1-201-555-8474"
       },
       "roles": [
         "user",
@@ -2945,7 +3046,8 @@
         "properties": {
           "department": "Sales",
           "manager": "4d339518-1c4e-46dd-8024-829f555b1562",
-          "title": "Salesperson"
+          "title": "Salesperson",
+          "phone": "+1-201-555-8474"
         },
         "roles": [
           "viewer"
@@ -2989,7 +3091,8 @@
       "properties": {
         "department": "Human Resources",
         "manager": "d24e5009-dcf1-4d20-9aa3-874a83283cf0",
-        "title": "HR Specialist"
+        "title": "HR Specialist",
+        "phone": "+1-206-555-1437"
       },
       "roles": [
         "user",
@@ -3003,7 +3106,8 @@
         "properties": {
           "department": "Human Resources",
           "manager": "d24e5009-dcf1-4d20-9aa3-874a83283cf0",
-          "title": "HR Specialist"
+          "title": "HR Specialist",
+          "phone": "+1-206-555-1437"
         },
         "roles": [
           "viewer"
@@ -3047,7 +3151,8 @@
       "properties": {
         "department": "Senior Management",
         "manager": "81066423-effe-4a10-aa35-4aa10ae0510c",
-        "title": "Sr. Account Manager"
+        "title": "Sr. Account Manager",
+        "phone": "+1-425-555-0174"
       },
       "roles": [
         "user",
@@ -3061,7 +3166,8 @@
         "properties": {
           "department": "Senior Management",
           "manager": "81066423-effe-4a10-aa35-4aa10ae0510c",
-          "title": "Sr. Account Manager"
+          "title": "Sr. Account Manager",
+          "phone": "+1-425-555-0174"
         },
         "roles": [
           "viewer"
@@ -3105,7 +3211,8 @@
       "properties": {
         "department": "Sales",
         "manager": "7e28daa4-228f-46fc-b8f1-f35d7e4ed03e",
-        "title": "Salesperson"
+        "title": "Salesperson",
+        "phone": "+1-541-555-2668"
       },
       "roles": [
         "user",
@@ -3119,7 +3226,8 @@
         "properties": {
           "department": "Sales",
           "manager": "7e28daa4-228f-46fc-b8f1-f35d7e4ed03e",
-          "title": "Salesperson"
+          "title": "Salesperson",
+          "phone": "+1-541-555-2668"
         },
         "roles": [
           "viewer"
@@ -3163,7 +3271,8 @@
       "properties": {
         "department": "Sales",
         "manager": "4d339518-1c4e-46dd-8024-829f555b1562",
-        "title": "Salesperson"
+        "title": "Salesperson",
+        "phone": "+1-213-555-3269"
       },
       "roles": [
         "user",
@@ -3177,7 +3286,8 @@
         "properties": {
           "department": "Sales",
           "manager": "4d339518-1c4e-46dd-8024-829f555b1562",
-          "title": "Salesperson"
+          "title": "Salesperson",
+          "phone": "+1-213-555-3269"
         },
         "roles": [
           "viewer"
@@ -3221,7 +3331,8 @@
       "properties": {
         "department": "Sales",
         "manager": "2bfaa552-d9a5-41e9-a6c3-5be62b4433c8",
-        "title": "Salesperson"
+        "title": "Salesperson",
+        "phone": "+1-850-555-5277"
       },
       "roles": [
         "user",
@@ -3235,7 +3346,8 @@
         "properties": {
           "department": "Sales",
           "manager": "2bfaa552-d9a5-41e9-a6c3-5be62b4433c8",
-          "title": "Salesperson"
+          "title": "Salesperson",
+          "phone": "+1-850-555-5277"
         },
         "roles": [
           "viewer"
@@ -3279,7 +3391,8 @@
       "properties": {
         "department": "Sales",
         "manager": "4d339518-1c4e-46dd-8024-829f555b1562",
-        "title": "Salesperson"
+        "title": "Salesperson",
+        "phone": "+1-214-555-1812"
       },
       "roles": [
         "user",
@@ -3293,7 +3406,8 @@
         "properties": {
           "department": "Sales",
           "manager": "4d339518-1c4e-46dd-8024-829f555b1562",
-          "title": "Salesperson"
+          "title": "Salesperson",
+          "phone": "+1-214-555-1812"
         },
         "roles": [
           "viewer"
@@ -3337,7 +3451,8 @@
       "properties": {
         "department": "Sales",
         "manager": "6a11df26-6b53-4baf-b3c8-25add379d21f",
-        "title": "Salesperson"
+        "title": "Salesperson",
+        "phone": "+1-607-555-6337"
       },
       "roles": [
         "user",
@@ -3351,7 +3466,8 @@
         "properties": {
           "department": "Sales",
           "manager": "6a11df26-6b53-4baf-b3c8-25add379d21f",
-          "title": "Salesperson"
+          "title": "Salesperson",
+          "phone": "+1-607-555-6337"
         },
         "roles": [
           "viewer"
@@ -3395,7 +3511,8 @@
       "properties": {
         "department": "Sales",
         "manager": "6a11df26-6b53-4baf-b3c8-25add379d21f",
-        "title": "Salesperson"
+        "title": "Salesperson",
+        "phone": "+1-607-555-4568"
       },
       "roles": [
         "user",
@@ -3409,7 +3526,8 @@
         "properties": {
           "department": "Sales",
           "manager": "6a11df26-6b53-4baf-b3c8-25add379d21f",
-          "title": "Salesperson"
+          "title": "Salesperson",
+          "phone": "+1-607-555-4568"
         },
         "roles": [
           "viewer"
@@ -3453,7 +3571,8 @@
       "properties": {
         "department": "Sales",
         "manager": "7e28daa4-228f-46fc-b8f1-f35d7e4ed03e",
-        "title": "Salesperson"
+        "title": "Salesperson",
+        "phone": "+1-212-555-2538"
       },
       "roles": [
         "user",
@@ -3467,7 +3586,8 @@
         "properties": {
           "department": "Sales",
           "manager": "7e28daa4-228f-46fc-b8f1-f35d7e4ed03e",
-          "title": "Salesperson"
+          "title": "Salesperson",
+          "phone": "+1-212-555-2538"
         },
         "roles": [
           "viewer"
@@ -3511,7 +3631,8 @@
       "properties": {
         "department": "Sales",
         "manager": "2bfaa552-d9a5-41e9-a6c3-5be62b4433c8",
-        "title": "Salesperson"
+        "title": "Salesperson",
+        "phone": "+1-425-555-9296"
       },
       "roles": [
         "user",
@@ -3525,7 +3646,8 @@
         "properties": {
           "department": "Sales",
           "manager": "2bfaa552-d9a5-41e9-a6c3-5be62b4433c8",
-          "title": "Salesperson"
+          "title": "Salesperson",
+          "phone": "+1-425-555-9296"
         },
         "roles": [
           "viewer"
@@ -3569,7 +3691,8 @@
       "properties": {
         "department": "Operations",
         "manager": "b1bb9fc3-dcb0-4328-8d91-6d88ee78bc2d",
-        "title": "Procurement Manager"
+        "title": "Procurement Manager",
+        "phone": "+1-206-555-4932"
       },
       "roles": [
         "user",
@@ -3583,7 +3706,8 @@
         "properties": {
           "department": "Operations",
           "manager": "b1bb9fc3-dcb0-4328-8d91-6d88ee78bc2d",
-          "title": "Procurement Manager"
+          "title": "Procurement Manager",
+          "phone": "+1-206-555-4932"
         },
         "roles": [
           "admin"
@@ -3627,7 +3751,8 @@
       "properties": {
         "department": "Sales",
         "manager": "309409a4-150e-44e3-93c5-f08458b243ee",
-        "title": "Salesperson"
+        "title": "Salesperson",
+        "phone": "+1-206-555-4629"
       },
       "roles": [
         "user",
@@ -3641,7 +3766,8 @@
         "properties": {
           "department": "Sales",
           "manager": "309409a4-150e-44e3-93c5-f08458b243ee",
-          "title": "Salesperson"
+          "title": "Salesperson",
+          "phone": "+1-206-555-4629"
         },
         "roles": [
           "viewer"
@@ -3685,7 +3811,8 @@
       "properties": {
         "department": "Sales Engagement Management",
         "manager": "6a11df26-6b53-4baf-b3c8-25add379d21f",
-        "title": "Salesperson"
+        "title": "Salesperson",
+        "phone": "+1-214-555-4151"
       },
       "roles": [
         "user",
@@ -3699,7 +3826,8 @@
         "properties": {
           "department": "Sales Engagement Management",
           "manager": "6a11df26-6b53-4baf-b3c8-25add379d21f",
-          "title": "Salesperson"
+          "title": "Salesperson",
+          "phone": "+1-214-555-4151"
         },
         "roles": [
           "viewer"
@@ -3743,7 +3871,8 @@
       "properties": {
         "department": "Operations",
         "manager": "a29140f9-13c6-4849-9890-0687072dece8",
-        "title": "Manager"
+        "title": "Manager",
+        "phone": "+1-206-555-4542"
       },
       "roles": [
         "user",
@@ -3757,7 +3886,8 @@
         "properties": {
           "department": "Operations",
           "manager": "a29140f9-13c6-4849-9890-0687072dece8",
-          "title": "Manager"
+          "title": "Manager",
+          "phone": "+1-206-555-4542"
         },
         "roles": [
           "admin"
@@ -3801,7 +3931,8 @@
       "properties": {
         "department": "Project Management",
         "manager": "acacc661-f71d-490a-9cb8-0b7bdfe7c669",
-        "title": "Project Manager"
+        "title": "Project Manager",
+        "phone": "+1-206-555-3164"
       },
       "roles": [
         "user",
@@ -3815,7 +3946,8 @@
         "properties": {
           "department": "Project Management",
           "manager": "acacc661-f71d-490a-9cb8-0b7bdfe7c669",
-          "title": "Project Manager"
+          "title": "Project Manager",
+          "phone": "+1-206-555-3164"
         },
         "roles": [
           "viewer"
@@ -3859,7 +3991,8 @@
       "properties": {
         "department": "Operations",
         "manager": "a528dc1d-0042-484d-81cb-dc58c95d8147",
-        "title": "IT Manager"
+        "title": "IT Manager",
+        "phone": "+1-206-555-1739"
       },
       "roles": [
         "user",
@@ -3873,7 +4006,8 @@
         "properties": {
           "department": "Operations",
           "manager": "a528dc1d-0042-484d-81cb-dc58c95d8147",
-          "title": "IT Manager"
+          "title": "IT Manager",
+          "phone": "+1-206-555-1739"
         },
         "roles": [
           "admin"
@@ -3917,7 +4051,8 @@
       "properties": {
         "department": "Sales",
         "manager": "7e28daa4-228f-46fc-b8f1-f35d7e4ed03e",
-        "title": "Salesperson"
+        "title": "Salesperson",
+        "phone": "+1-410-555-3839"
       },
       "roles": [
         "user",
@@ -3931,7 +4066,8 @@
         "properties": {
           "department": "Sales",
           "manager": "7e28daa4-228f-46fc-b8f1-f35d7e4ed03e",
-          "title": "Salesperson"
+          "title": "Salesperson",
+          "phone": "+1-410-555-3839"
         },
         "roles": [
           "viewer"
@@ -3975,7 +4111,8 @@
       "properties": {
         "department": "Sales",
         "manager": "7e28daa4-228f-46fc-b8f1-f35d7e4ed03e",
-        "title": "Salesperson"
+        "title": "Salesperson",
+        "phone": "+1-201-555-5625"
       },
       "roles": [
         "user",
@@ -3989,7 +4126,8 @@
         "properties": {
           "department": "Sales",
           "manager": "7e28daa4-228f-46fc-b8f1-f35d7e4ed03e",
-          "title": "Salesperson"
+          "title": "Salesperson",
+          "phone": "+1-201-555-5625"
         },
         "roles": [
           "viewer"
@@ -4033,7 +4171,8 @@
       "properties": {
         "department": "Sales",
         "manager": "7e28daa4-228f-46fc-b8f1-f35d7e4ed03e",
-        "title": "Salesperson"
+        "title": "Salesperson",
+        "phone": "+1-213-555-1265"
       },
       "roles": [
         "user",
@@ -4047,7 +4186,8 @@
         "properties": {
           "department": "Sales",
           "manager": "7e28daa4-228f-46fc-b8f1-f35d7e4ed03e",
-          "title": "Salesperson"
+          "title": "Salesperson",
+          "phone": "+1-213-555-1265"
         },
         "roles": [
           "viewer"
@@ -4091,7 +4231,8 @@
       "properties": {
         "department": "Sales Engagement Management",
         "manager": "2bfaa552-d9a5-41e9-a6c3-5be62b4433c8",
-        "title": "Salesperson"
+        "title": "Salesperson",
+        "phone": "+1-804-555-3648"
       },
       "roles": [
         "user",
@@ -4105,7 +4246,8 @@
         "properties": {
           "department": "Sales Engagement Management",
           "manager": "2bfaa552-d9a5-41e9-a6c3-5be62b4433c8",
-          "title": "Salesperson"
+          "title": "Salesperson",
+          "phone": "+1-804-555-3648"
         },
         "roles": [
           "viewer"
@@ -4149,7 +4291,8 @@
       "properties": {
         "department": "Sales Engagement Management",
         "manager": "2bfaa552-d9a5-41e9-a6c3-5be62b4433c8",
-        "title": "Salesperson"
+        "title": "Salesperson",
+        "phone": "+1-804-555-5958"
       },
       "roles": [
         "user",
@@ -4163,7 +4306,8 @@
         "properties": {
           "department": "Sales Engagement Management",
           "manager": "2bfaa552-d9a5-41e9-a6c3-5be62b4433c8",
-          "title": "Salesperson"
+          "title": "Salesperson",
+          "phone": "+1-804-555-5958"
         },
         "roles": [
           "viewer"
@@ -4207,7 +4351,8 @@
       "properties": {
         "department": "Sales Engagement Management",
         "manager": "2bfaa552-d9a5-41e9-a6c3-5be62b4433c8",
-        "title": "Salesperson"
+        "title": "Salesperson",
+        "phone": "+1-804-555-2465"
       },
       "roles": [
         "user",
@@ -4221,7 +4366,8 @@
         "properties": {
           "department": "Sales Engagement Management",
           "manager": "2bfaa552-d9a5-41e9-a6c3-5be62b4433c8",
-          "title": "Salesperson"
+          "title": "Salesperson",
+          "phone": "+1-804-555-2465"
         },
         "roles": [
           "viewer"
@@ -4265,7 +4411,8 @@
       "properties": {
         "department": "Sales Engagement Management",
         "manager": "309409a4-150e-44e3-93c5-f08458b243ee",
-        "title": "Salesperson"
+        "title": "Salesperson",
+        "phone": "+1-701-555-7818"
       },
       "roles": [
         "user",
@@ -4279,7 +4426,8 @@
         "properties": {
           "department": "Sales Engagement Management",
           "manager": "309409a4-150e-44e3-93c5-f08458b243ee",
-          "title": "Salesperson"
+          "title": "Salesperson",
+          "phone": "+1-701-555-7818"
         },
         "roles": [
           "viewer"
@@ -4323,7 +4471,8 @@
       "properties": {
         "department": "Sales Engagement Management",
         "manager": "309409a4-150e-44e3-93c5-f08458b243ee",
-        "title": "Salesperson"
+        "title": "Salesperson",
+        "phone": "+1-701-555-6828"
       },
       "roles": [
         "user",
@@ -4337,7 +4486,8 @@
         "properties": {
           "department": "Sales Engagement Management",
           "manager": "309409a4-150e-44e3-93c5-f08458b243ee",
-          "title": "Salesperson"
+          "title": "Salesperson",
+          "phone": "+1-701-555-6828"
         },
         "roles": [
           "viewer"
@@ -4381,7 +4531,8 @@
       "properties": {
         "department": "Sales",
         "manager": "4d339518-1c4e-46dd-8024-829f555b1562",
-        "title": "Salesperson"
+        "title": "Salesperson",
+        "phone": "+1-06-5555-1284"
       },
       "roles": [
         "user",
@@ -4395,7 +4546,8 @@
         "properties": {
           "department": "Sales",
           "manager": "4d339518-1c4e-46dd-8024-829f555b1562",
-          "title": "Salesperson"
+          "title": "Salesperson",
+          "phone": "+1-06-5555-1284"
         },
         "roles": [
           "viewer"
@@ -4439,7 +4591,8 @@
       "properties": {
         "department": "Sales Engagement Management",
         "manager": "6a11df26-6b53-4baf-b3c8-25add379d21f",
-        "title": "Salesperson"
+        "title": "Salesperson",
+        "phone": "+1-214-555-8815"
       },
       "roles": [
         "user",
@@ -4453,7 +4606,8 @@
         "properties": {
           "department": "Sales Engagement Management",
           "manager": "6a11df26-6b53-4baf-b3c8-25add379d21f",
-          "title": "Salesperson"
+          "title": "Salesperson",
+          "phone": "+1-214-555-8815"
         },
         "roles": [
           "viewer"
@@ -4497,7 +4651,8 @@
       "properties": {
         "department": "Sales",
         "manager": "2bfaa552-d9a5-41e9-a6c3-5be62b4433c8",
-        "title": "Salesperson"
+        "title": "Salesperson",
+        "phone": "+1-09-5555-3784"
       },
       "roles": [
         "user",
@@ -4511,7 +4666,8 @@
         "properties": {
           "department": "Sales",
           "manager": "2bfaa552-d9a5-41e9-a6c3-5be62b4433c8",
-          "title": "Salesperson"
+          "title": "Salesperson",
+          "phone": "+1-09-5555-3784"
         },
         "roles": [
           "viewer"
@@ -4555,7 +4711,8 @@
       "properties": {
         "department": "Sales Engagement Management",
         "manager": "6a11df26-6b53-4baf-b3c8-25add379d21f",
-        "title": "Salesperson"
+        "title": "Salesperson",
+        "phone": "+1-214-555-7757"
       },
       "roles": [
         "user",
@@ -4569,7 +4726,8 @@
         "properties": {
           "department": "Sales Engagement Management",
           "manager": "6a11df26-6b53-4baf-b3c8-25add379d21f",
-          "title": "Salesperson"
+          "title": "Salesperson",
+          "phone": "+1-214-555-7757"
         },
         "roles": [
           "viewer"
@@ -4613,7 +4771,8 @@
       "properties": {
         "department": "Sales Engagement Management",
         "manager": "4d339518-1c4e-46dd-8024-829f555b1562",
-        "title": "Salesperson"
+        "title": "Salesperson",
+        "phone": "+1-206-555-2363"
       },
       "roles": [
         "user",
@@ -4627,7 +4786,8 @@
         "properties": {
           "department": "Sales Engagement Management",
           "manager": "4d339518-1c4e-46dd-8024-829f555b1562",
-          "title": "Salesperson"
+          "title": "Salesperson",
+          "phone": "+1-206-555-2363"
         },
         "roles": [
           "viewer"
@@ -4671,7 +4831,8 @@
       "properties": {
         "department": "Sales Engagement Management",
         "manager": "4d339518-1c4e-46dd-8024-829f555b1562",
-        "title": "Salesperson"
+        "title": "Salesperson",
+        "phone": "+1-206-555-5661"
       },
       "roles": [
         "user",
@@ -4685,7 +4846,8 @@
         "properties": {
           "department": "Sales Engagement Management",
           "manager": "4d339518-1c4e-46dd-8024-829f555b1562",
-          "title": "Salesperson"
+          "title": "Salesperson",
+          "phone": "+1-206-555-5661"
         },
         "roles": [
           "viewer"
@@ -4729,7 +4891,8 @@
       "properties": {
         "department": "Sales Engagement Management",
         "manager": "4d339518-1c4e-46dd-8024-829f555b1562",
-        "title": "Salesperson"
+        "title": "Salesperson",
+        "phone": "+1-206-555-4331"
       },
       "roles": [
         "user",
@@ -4743,7 +4906,8 @@
         "properties": {
           "department": "Sales Engagement Management",
           "manager": "4d339518-1c4e-46dd-8024-829f555b1562",
-          "title": "Salesperson"
+          "title": "Salesperson",
+          "phone": "+1-206-555-4331"
         },
         "roles": [
           "viewer"
@@ -4787,7 +4951,8 @@
       "properties": {
         "department": "Executive",
         "manager": "b7de08a6-8417-491b-be62-85945a538f46",
-        "title": "CFO"
+        "title": "CFO",
+        "phone": "+1-425-555-0116"
       },
       "roles": [
         "user",
@@ -4801,7 +4966,8 @@
         "properties": {
           "department": "Executive",
           "manager": "b7de08a6-8417-491b-be62-85945a538f46",
-          "title": "CFO"
+          "title": "CFO",
+          "phone": "+1-425-555-0116"
         },
         "roles": [
           "viewer"
@@ -4845,7 +5011,8 @@
       "properties": {
         "department": "Executive",
         "manager": "b7de08a6-8417-491b-be62-85945a538f46",
-        "title": "Chief of Partnerships and Strategy"
+        "title": "Chief of Partnerships and Strategy",
+        "phone": "+1-425-555-0196"
       },
       "roles": [
         "user",
@@ -4859,7 +5026,8 @@
         "properties": {
           "department": "Executive",
           "manager": "b7de08a6-8417-491b-be62-85945a538f46",
-          "title": "Chief of Partnerships and Strategy"
+          "title": "Chief of Partnerships and Strategy",
+          "phone": "+1-425-555-0196"
         },
         "roles": [
           "viewer"
@@ -4903,7 +5071,8 @@
       "properties": {
         "department": "Executive",
         "manager": "b7de08a6-8417-491b-be62-85945a538f46",
-        "title": "Chief of Technical Strategy"
+        "title": "Chief of Technical Strategy",
+        "phone": "+1-425-555-0107"
       },
       "roles": [
         "user",
@@ -4917,7 +5086,8 @@
         "properties": {
           "department": "Executive",
           "manager": "b7de08a6-8417-491b-be62-85945a538f46",
-          "title": "Chief of Technical Strategy"
+          "title": "Chief of Technical Strategy",
+          "phone": "+1-425-555-0107"
         },
         "roles": [
           "viewer"
@@ -4961,7 +5131,8 @@
       "properties": {
         "department": "Senior Management",
         "manager": "0b23837b-8fdb-4edf-a50b-325ed0625086",
-        "title": "President of Management"
+        "title": "President of Management",
+        "phone": "+1-425-555-0140"
       },
       "roles": [
         "user",
@@ -4975,7 +5146,8 @@
         "properties": {
           "department": "Senior Management",
           "manager": "0b23837b-8fdb-4edf-a50b-325ed0625086",
-          "title": "President of Management"
+          "title": "President of Management",
+          "phone": "+1-425-555-0140"
         },
         "roles": [
           "viewer"
@@ -5019,7 +5191,8 @@
       "properties": {
         "department": "CVP of IT",
         "manager": "0b23837b-8fdb-4edf-a50b-325ed0625086",
-        "title": "President of Services"
+        "title": "President of Services",
+        "phone": "+1-425-555-0131"
       },
       "roles": [
         "user",
@@ -5033,7 +5206,8 @@
         "properties": {
           "department": "CVP of IT",
           "manager": "0b23837b-8fdb-4edf-a50b-325ed0625086",
-          "title": "President of Services"
+          "title": "President of Services",
+          "phone": "+1-425-555-0131"
         },
         "roles": [
           "viewer"
@@ -5077,7 +5251,8 @@
       "properties": {
         "department": "Senior Management",
         "manager": "99fc0f94-9573-477f-8e02-ca842e069b8c",
-        "title": "Sr. Media Planner"
+        "title": "Sr. Media Planner",
+        "phone": "+1-425-555-0124"
       },
       "roles": [
         "user",
@@ -5091,7 +5266,8 @@
         "properties": {
           "department": "Senior Management",
           "manager": "99fc0f94-9573-477f-8e02-ca842e069b8c",
-          "title": "Sr. Media Planner"
+          "title": "Sr. Media Planner",
+          "phone": "+1-425-555-0124"
         },
         "roles": [
           "viewer"
@@ -5135,7 +5311,8 @@
       "properties": {
         "department": "Senior Management",
         "manager": "e644bedd-9b3a-4fa5-be62-f027f2e97dd5",
-        "title": "Director of Affiliate Marketing and Partnerships"
+        "title": "Director of Affiliate Marketing and Partnerships",
+        "phone": "+1-425-555-0193"
       },
       "roles": [
         "user",
@@ -5149,7 +5326,8 @@
         "properties": {
           "department": "Senior Management",
           "manager": "e644bedd-9b3a-4fa5-be62-f027f2e97dd5",
-          "title": "Director of Affiliate Marketing and Partnerships"
+          "title": "Director of Affiliate Marketing and Partnerships",
+          "phone": "+1-425-555-0193"
         },
         "roles": [
           "viewer"
@@ -5193,7 +5371,8 @@
       "properties": {
         "department": "Senior Management",
         "manager": "7846c22f-d3d8-4e02-8b62-d055d0284783",
-        "title": "Director of Client Services"
+        "title": "Director of Client Services",
+        "phone": "+1-425-555-0129"
       },
       "roles": [
         "user",
@@ -5207,7 +5386,8 @@
         "properties": {
           "department": "Senior Management",
           "manager": "7846c22f-d3d8-4e02-8b62-d055d0284783",
-          "title": "Director of Client Services"
+          "title": "Director of Client Services",
+          "phone": "+1-425-555-0129"
         },
         "roles": [
           "viewer"
@@ -5251,7 +5431,8 @@
       "properties": {
         "department": "Sales Engagement Management",
         "manager": "309409a4-150e-44e3-93c5-f08458b243ee",
-        "title": "Salesperson"
+        "title": "Salesperson",
+        "phone": "+1-701-555-4446"
       },
       "roles": [
         "user",
@@ -5265,7 +5446,8 @@
         "properties": {
           "department": "Sales Engagement Management",
           "manager": "309409a4-150e-44e3-93c5-f08458b243ee",
-          "title": "Salesperson"
+          "title": "Salesperson",
+          "phone": "+1-701-555-4446"
         },
         "roles": [
           "viewer"
@@ -5309,7 +5491,8 @@
       "properties": {
         "department": "Project Management",
         "manager": "acacc661-f71d-490a-9cb8-0b7bdfe7c669",
-        "title": "Senior Project Manager"
+        "title": "Senior Project Manager",
+        "phone": "+1-206-555-8185"
       },
       "roles": [
         "user",
@@ -5323,7 +5506,8 @@
         "properties": {
           "department": "Project Management",
           "manager": "acacc661-f71d-490a-9cb8-0b7bdfe7c669",
-          "title": "Senior Project Manager"
+          "title": "Senior Project Manager",
+          "phone": "+1-206-555-8185"
         },
         "roles": [
           "viewer"
@@ -5367,7 +5551,8 @@
       "properties": {
         "department": "Operations",
         "manager": "b1bb9fc3-dcb0-4328-8d91-6d88ee78bc2d",
-        "title": "Procurement Manager"
+        "title": "Procurement Manager",
+        "phone": "+1-206-555-4539"
       },
       "roles": [
         "user",
@@ -5381,7 +5566,8 @@
         "properties": {
           "department": "Operations",
           "manager": "b1bb9fc3-dcb0-4328-8d91-6d88ee78bc2d",
-          "title": "Procurement Manager"
+          "title": "Procurement Manager",
+          "phone": "+1-206-555-4539"
         },
         "roles": [
           "admin"
@@ -5425,7 +5611,8 @@
       "properties": {
         "department": "Project Management",
         "manager": "1eb018bb-7347-46fd-8d83-35ad5aaa731e",
-        "title": "Senior Project Manager"
+        "title": "Senior Project Manager",
+        "phone": "+1-206-555-4262"
       },
       "roles": [
         "user",
@@ -5439,7 +5626,8 @@
         "properties": {
           "department": "Project Management",
           "manager": "1eb018bb-7347-46fd-8d83-35ad5aaa731e",
-          "title": "Senior Project Manager"
+          "title": "Senior Project Manager",
+          "phone": "+1-206-555-4262"
         },
         "roles": [
           "viewer"
@@ -5483,7 +5671,8 @@
       "properties": {
         "department": "Project Management",
         "manager": "d7777583-6b90-40eb-91a8-6f2bf2791f4e",
-        "title": "Senior Project Manager"
+        "title": "Senior Project Manager",
+        "phone": "+1-206-555-6667"
       },
       "roles": [
         "user",
@@ -5497,7 +5686,8 @@
         "properties": {
           "department": "Project Management",
           "manager": "d7777583-6b90-40eb-91a8-6f2bf2791f4e",
-          "title": "Senior Project Manager"
+          "title": "Senior Project Manager",
+          "phone": "+1-206-555-6667"
         },
         "roles": [
           "viewer"
@@ -5541,7 +5731,8 @@
       "properties": {
         "department": "Project Management",
         "manager": "72d2b1b2-1f94-4d3a-be01-c327e35c72b6",
-        "title": "Project Manager"
+        "title": "Project Manager",
+        "phone": "+1-206-555-1783"
       },
       "roles": [
         "user",
@@ -5555,7 +5746,8 @@
         "properties": {
           "department": "Project Management",
           "manager": "72d2b1b2-1f94-4d3a-be01-c327e35c72b6",
-          "title": "Project Manager"
+          "title": "Project Manager",
+          "phone": "+1-206-555-1783"
         },
         "roles": [
           "viewer"
@@ -5599,7 +5791,8 @@
       "properties": {
         "department": "Project Management",
         "manager": "72d2b1b2-1f94-4d3a-be01-c327e35c72b6",
-        "title": "Business Process Manager"
+        "title": "Business Process Manager",
+        "phone": "+1-206-555-2918"
       },
       "roles": [
         "user",
@@ -5613,7 +5806,8 @@
         "properties": {
           "department": "Project Management",
           "manager": "72d2b1b2-1f94-4d3a-be01-c327e35c72b6",
-          "title": "Business Process Manager"
+          "title": "Business Process Manager",
+          "phone": "+1-206-555-2918"
         },
         "roles": [
           "viewer"
@@ -5657,7 +5851,8 @@
       "properties": {
         "department": "Project Management",
         "manager": "72d2b1b2-1f94-4d3a-be01-c327e35c72b6",
-        "title": "Business Process Manager"
+        "title": "Business Process Manager",
+        "phone": "+1-206-555-6552"
       },
       "roles": [
         "user",
@@ -5671,7 +5866,8 @@
         "properties": {
           "department": "Project Management",
           "manager": "72d2b1b2-1f94-4d3a-be01-c327e35c72b6",
-          "title": "Business Process Manager"
+          "title": "Business Process Manager",
+          "phone": "+1-206-555-6552"
         },
         "roles": [
           "viewer"
@@ -5715,7 +5911,8 @@
       "properties": {
         "department": "Project Management",
         "manager": "23072c6f-3814-4be2-b4f1-ea74a3df4e40",
-        "title": "Senior Project Manager"
+        "title": "Senior Project Manager",
+        "phone": "+1-206-555-1471"
       },
       "roles": [
         "user",
@@ -5729,7 +5926,8 @@
         "properties": {
           "department": "Project Management",
           "manager": "23072c6f-3814-4be2-b4f1-ea74a3df4e40",
-          "title": "Senior Project Manager"
+          "title": "Senior Project Manager",
+          "phone": "+1-206-555-1471"
         },
         "roles": [
           "viewer"
@@ -5773,7 +5971,8 @@
       "properties": {
         "department": "Project Management",
         "manager": "72d2b1b2-1f94-4d3a-be01-c327e35c72b6",
-        "title": "Business Process Manager"
+        "title": "Business Process Manager",
+        "phone": "+1-206-555-6953"
       },
       "roles": [
         "user",
@@ -5787,7 +5986,8 @@
         "properties": {
           "department": "Project Management",
           "manager": "72d2b1b2-1f94-4d3a-be01-c327e35c72b6",
-          "title": "Business Process Manager"
+          "title": "Business Process Manager",
+          "phone": "+1-206-555-6953"
         },
         "roles": [
           "viewer"
@@ -5831,7 +6031,8 @@
       "properties": {
         "department": "Project Management",
         "manager": "72d2b1b2-1f94-4d3a-be01-c327e35c72b6",
-        "title": "Business Process Manager"
+        "title": "Business Process Manager",
+        "phone": "+1-206-555-3874"
       },
       "roles": [
         "user",
@@ -5845,7 +6046,8 @@
         "properties": {
           "department": "Project Management",
           "manager": "72d2b1b2-1f94-4d3a-be01-c327e35c72b6",
-          "title": "Business Process Manager"
+          "title": "Business Process Manager",
+          "phone": "+1-206-555-3874"
         },
         "roles": [
           "viewer"
@@ -5889,7 +6091,8 @@
       "properties": {
         "department": "Project Management",
         "manager": "72d2b1b2-1f94-4d3a-be01-c327e35c72b6",
-        "title": "Project Manager"
+        "title": "Project Manager",
+        "phone": "+1-206-555-5488"
       },
       "roles": [
         "user",
@@ -5903,7 +6106,8 @@
         "properties": {
           "department": "Project Management",
           "manager": "72d2b1b2-1f94-4d3a-be01-c327e35c72b6",
-          "title": "Project Manager"
+          "title": "Project Manager",
+          "phone": "+1-206-555-5488"
         },
         "roles": [
           "viewer"
@@ -5947,7 +6151,8 @@
       "properties": {
         "department": "Project Management",
         "manager": "72d2b1b2-1f94-4d3a-be01-c327e35c72b6",
-        "title": "Project Manager"
+        "title": "Project Manager",
+        "phone": "+1-206-555-9299"
       },
       "roles": [
         "user",
@@ -5961,7 +6166,8 @@
         "properties": {
           "department": "Project Management",
           "manager": "72d2b1b2-1f94-4d3a-be01-c327e35c72b6",
-          "title": "Project Manager"
+          "title": "Project Manager",
+          "phone": "+1-206-555-9299"
         },
         "roles": [
           "viewer"
@@ -6005,7 +6211,8 @@
       "properties": {
         "department": "Project Management",
         "manager": "72d2b1b2-1f94-4d3a-be01-c327e35c72b6",
-        "title": "Project Manager"
+        "title": "Project Manager",
+        "phone": "+1-206-555-6561"
       },
       "roles": [
         "user",
@@ -6019,7 +6226,8 @@
         "properties": {
           "department": "Project Management",
           "manager": "72d2b1b2-1f94-4d3a-be01-c327e35c72b6",
-          "title": "Project Manager"
+          "title": "Project Manager",
+          "phone": "+1-206-555-6561"
         },
         "roles": [
           "viewer"
@@ -6063,7 +6271,8 @@
       "properties": {
         "department": "Project Management",
         "manager": "d7777583-6b90-40eb-91a8-6f2bf2791f4e",
-        "title": "Project Manager"
+        "title": "Project Manager",
+        "phone": "+1-206-555-1694"
       },
       "roles": [
         "user",
@@ -6077,7 +6286,8 @@
         "properties": {
           "department": "Project Management",
           "manager": "d7777583-6b90-40eb-91a8-6f2bf2791f4e",
-          "title": "Project Manager"
+          "title": "Project Manager",
+          "phone": "+1-206-555-1694"
         },
         "roles": [
           "viewer"
@@ -6121,7 +6331,8 @@
       "properties": {
         "department": "Project Management",
         "manager": "72d2b1b2-1f94-4d3a-be01-c327e35c72b6",
-        "title": "Project Manager"
+        "title": "Project Manager",
+        "phone": "+1-206-555-8382"
       },
       "roles": [
         "user",
@@ -6135,7 +6346,8 @@
         "properties": {
           "department": "Project Management",
           "manager": "72d2b1b2-1f94-4d3a-be01-c327e35c72b6",
-          "title": "Project Manager"
+          "title": "Project Manager",
+          "phone": "+1-206-555-8382"
         },
         "roles": [
           "viewer"
@@ -6179,7 +6391,8 @@
       "properties": {
         "department": "Sales",
         "manager": "309409a4-150e-44e3-93c5-f08458b243ee",
-        "title": "Salesperson"
+        "title": "Salesperson",
+        "phone": "+1-707-555-3823"
       },
       "roles": [
         "user",
@@ -6193,7 +6406,8 @@
         "properties": {
           "department": "Sales",
           "manager": "309409a4-150e-44e3-93c5-f08458b243ee",
-          "title": "Salesperson"
+          "title": "Salesperson",
+          "phone": "+1-707-555-3823"
         },
         "roles": [
           "viewer"
@@ -6237,7 +6451,8 @@
       "properties": {
         "department": "Project Management",
         "manager": "72d2b1b2-1f94-4d3a-be01-c327e35c72b6",
-        "title": "Project Manager"
+        "title": "Project Manager",
+        "phone": "+1-206-555-2474"
       },
       "roles": [
         "user",
@@ -6251,7 +6466,8 @@
         "properties": {
           "department": "Project Management",
           "manager": "72d2b1b2-1f94-4d3a-be01-c327e35c72b6",
-          "title": "Project Manager"
+          "title": "Project Manager",
+          "phone": "+1-206-555-2474"
         },
         "roles": [
           "viewer"
@@ -6295,7 +6511,8 @@
       "properties": {
         "department": "Project Management",
         "manager": "1eb018bb-7347-46fd-8d83-35ad5aaa731e",
-        "title": "Senior Project Manager"
+        "title": "Senior Project Manager",
+        "phone": "+1-206-555-9848"
       },
       "roles": [
         "user",
@@ -6309,7 +6526,8 @@
         "properties": {
           "department": "Project Management",
           "manager": "1eb018bb-7347-46fd-8d83-35ad5aaa731e",
-          "title": "Senior Project Manager"
+          "title": "Senior Project Manager",
+          "phone": "+1-206-555-9848"
         },
         "roles": [
           "viewer"
@@ -6353,7 +6571,8 @@
       "properties": {
         "department": "Project Management",
         "manager": "1eb018bb-7347-46fd-8d83-35ad5aaa731e",
-        "title": "Project Manager"
+        "title": "Project Manager",
+        "phone": "+1-206-555-4738"
       },
       "roles": [
         "user",
@@ -6367,7 +6586,8 @@
         "properties": {
           "department": "Project Management",
           "manager": "1eb018bb-7347-46fd-8d83-35ad5aaa731e",
-          "title": "Project Manager"
+          "title": "Project Manager",
+          "phone": "+1-206-555-4738"
         },
         "roles": [
           "viewer"
@@ -6411,7 +6631,8 @@
       "properties": {
         "department": "Project Management",
         "manager": "1eb018bb-7347-46fd-8d83-35ad5aaa731e",
-        "title": "Project Manager"
+        "title": "Project Manager",
+        "phone": "+1-206-555-3448"
       },
       "roles": [
         "user",
@@ -6425,7 +6646,8 @@
         "properties": {
           "department": "Project Management",
           "manager": "1eb018bb-7347-46fd-8d83-35ad5aaa731e",
-          "title": "Project Manager"
+          "title": "Project Manager",
+          "phone": "+1-206-555-3448"
         },
         "roles": [
           "viewer"
@@ -6469,7 +6691,8 @@
       "properties": {
         "department": "Project Management",
         "manager": "acacc661-f71d-490a-9cb8-0b7bdfe7c669",
-        "title": "Project Manager"
+        "title": "Project Manager",
+        "phone": "+1-206-555-9267"
       },
       "roles": [
         "user",
@@ -6483,7 +6706,8 @@
         "properties": {
           "department": "Project Management",
           "manager": "acacc661-f71d-490a-9cb8-0b7bdfe7c669",
-          "title": "Project Manager"
+          "title": "Project Manager",
+          "phone": "+1-206-555-9267"
         },
         "roles": [
           "viewer"
@@ -6527,7 +6751,8 @@
       "properties": {
         "department": "Sales",
         "manager": "4d339518-1c4e-46dd-8024-829f555b1562",
-        "title": "Salesperson"
+        "title": "Salesperson",
+        "phone": "+1-404-555-9264"
       },
       "roles": [
         "user",
@@ -6541,7 +6766,8 @@
         "properties": {
           "department": "Sales",
           "manager": "4d339518-1c4e-46dd-8024-829f555b1562",
-          "title": "Salesperson"
+          "title": "Salesperson",
+          "phone": "+1-404-555-9264"
         },
         "roles": [
           "viewer"
@@ -6585,7 +6811,8 @@
       "properties": {
         "department": "Project Management",
         "manager": "23072c6f-3814-4be2-b4f1-ea74a3df4e40",
-        "title": "Project Manager"
+        "title": "Project Manager",
+        "phone": "+1-206-555-6492"
       },
       "roles": [
         "user",
@@ -6599,7 +6826,8 @@
         "properties": {
           "department": "Project Management",
           "manager": "23072c6f-3814-4be2-b4f1-ea74a3df4e40",
-          "title": "Project Manager"
+          "title": "Project Manager",
+          "phone": "+1-206-555-6492"
         },
         "roles": [
           "viewer"
@@ -6643,7 +6871,8 @@
       "properties": {
         "department": "Sales",
         "manager": "6a11df26-6b53-4baf-b3c8-25add379d21f",
-        "title": "Salesperson"
+        "title": "Salesperson",
+        "phone": "+1-617-555-7395"
       },
       "roles": [
         "user",
@@ -6657,7 +6886,8 @@
         "properties": {
           "department": "Sales",
           "manager": "6a11df26-6b53-4baf-b3c8-25add379d21f",
-          "title": "Salesperson"
+          "title": "Salesperson",
+          "phone": "+1-617-555-7395"
         },
         "roles": [
           "viewer"
@@ -6701,7 +6931,8 @@
       "properties": {
         "department": "Sales",
         "manager": "309409a4-150e-44e3-93c5-f08458b243ee",
-        "title": "Salesperson"
+        "title": "Salesperson",
+        "phone": "+1-20-5555-6851"
       },
       "roles": [
         "user",
@@ -6715,7 +6946,8 @@
         "properties": {
           "department": "Sales",
           "manager": "309409a4-150e-44e3-93c5-f08458b243ee",
-          "title": "Salesperson"
+          "title": "Salesperson",
+          "phone": "+1-20-5555-6851"
         },
         "roles": [
           "viewer"
@@ -6759,7 +6991,8 @@
       "properties": {
         "department": "Project Management",
         "manager": "d7777583-6b90-40eb-91a8-6f2bf2791f4e",
-        "title": "Project Manager"
+        "title": "Project Manager",
+        "phone": "+1-206-555-2699"
       },
       "roles": [
         "user",
@@ -6773,7 +7006,8 @@
         "properties": {
           "department": "Project Management",
           "manager": "d7777583-6b90-40eb-91a8-6f2bf2791f4e",
-          "title": "Project Manager"
+          "title": "Project Manager",
+          "phone": "+1-206-555-2699"
         },
         "roles": [
           "viewer"
@@ -6817,7 +7051,8 @@
       "properties": {
         "department": "Sales",
         "manager": "2bfaa552-d9a5-41e9-a6c3-5be62b4433c8",
-        "title": "Salesperson"
+        "title": "Salesperson",
+        "phone": "+1-06-5555-8461"
       },
       "roles": [
         "user",
@@ -6831,7 +7066,8 @@
         "properties": {
           "department": "Sales",
           "manager": "2bfaa552-d9a5-41e9-a6c3-5be62b4433c8",
-          "title": "Salesperson"
+          "title": "Salesperson",
+          "phone": "+1-06-5555-8461"
         },
         "roles": [
           "viewer"
@@ -6875,7 +7111,8 @@
       "properties": {
         "department": "Project Management",
         "manager": "23072c6f-3814-4be2-b4f1-ea74a3df4e40",
-        "title": "Senior Project Manager"
+        "title": "Senior Project Manager",
+        "phone": "+1-206-555-2246"
       },
       "roles": [
         "user",
@@ -6889,7 +7126,8 @@
         "properties": {
           "department": "Project Management",
           "manager": "23072c6f-3814-4be2-b4f1-ea74a3df4e40",
-          "title": "Senior Project Manager"
+          "title": "Senior Project Manager",
+          "phone": "+1-206-555-2246"
         },
         "roles": [
           "viewer"
@@ -6933,7 +7171,8 @@
       "properties": {
         "department": "Strategy Consulting",
         "manager": "d856c97a-a02f-4b78-b966-1ea9cb9f28e7",
-        "title": "Strategy Consultant"
+        "title": "Strategy Consultant",
+        "phone": "+1-206-555-8879"
       },
       "roles": [
         "user",
@@ -6947,7 +7186,8 @@
         "properties": {
           "department": "Strategy Consulting",
           "manager": "d856c97a-a02f-4b78-b966-1ea9cb9f28e7",
-          "title": "Strategy Consultant"
+          "title": "Strategy Consultant",
+          "phone": "+1-206-555-8879"
         },
         "roles": [
           "viewer"
@@ -6991,7 +7231,8 @@
       "properties": {
         "department": "Content Management Consulting",
         "manager": "e89f603c-3707-49a1-92ad-dc6a231b32f8",
-        "title": "Content Management Consultant"
+        "title": "Content Management Consultant",
+        "phone": "+1-212-555-3984"
       },
       "roles": [
         "user",
@@ -7005,7 +7246,8 @@
         "properties": {
           "department": "Content Management Consulting",
           "manager": "e89f603c-3707-49a1-92ad-dc6a231b32f8",
-          "title": "Content Management Consultant"
+          "title": "Content Management Consultant",
+          "phone": "+1-212-555-3984"
         },
         "roles": [
           "viewer"
@@ -7049,7 +7291,8 @@
       "properties": {
         "department": "Strategy Consulting",
         "manager": "f88a171c-b337-4c26-9c4b-824bb74a0729",
-        "title": "Strategy Consultant"
+        "title": "Strategy Consultant",
+        "phone": "+1-206-555-5295"
       },
       "roles": [
         "user",
@@ -7063,7 +7306,8 @@
         "properties": {
           "department": "Strategy Consulting",
           "manager": "f88a171c-b337-4c26-9c4b-824bb74a0729",
-          "title": "Strategy Consultant"
+          "title": "Strategy Consultant",
+          "phone": "+1-206-555-5295"
         },
         "roles": [
           "viewer"
@@ -7107,7 +7351,8 @@
       "properties": {
         "department": "Strategy Consulting",
         "manager": "22b24470-babd-435b-9349-23c1bcadd849",
-        "title": "Strategy Consultant"
+        "title": "Strategy Consultant",
+        "phone": "+1-206-555-8398"
       },
       "roles": [
         "user",
@@ -7121,7 +7366,8 @@
         "properties": {
           "department": "Strategy Consulting",
           "manager": "22b24470-babd-435b-9349-23c1bcadd849",
-          "title": "Strategy Consultant"
+          "title": "Strategy Consultant",
+          "phone": "+1-206-555-8398"
         },
         "roles": [
           "viewer"
@@ -7165,7 +7411,8 @@
       "properties": {
         "department": "Strategy Consulting",
         "manager": "d856c97a-a02f-4b78-b966-1ea9cb9f28e7",
-        "title": "Strategy Consultant"
+        "title": "Strategy Consultant",
+        "phone": "+1-206-555-4295"
       },
       "roles": [
         "user",
@@ -7179,7 +7426,8 @@
         "properties": {
           "department": "Strategy Consulting",
           "manager": "d856c97a-a02f-4b78-b966-1ea9cb9f28e7",
-          "title": "Strategy Consultant"
+          "title": "Strategy Consultant",
+          "phone": "+1-206-555-4295"
         },
         "roles": [
           "viewer"
@@ -7223,7 +7471,8 @@
       "properties": {
         "department": "Strategy Consulting",
         "manager": "8ad45b6d-8c85-496a-a2d9-78422c4ee663",
-        "title": "Strategy Consultant"
+        "title": "Strategy Consultant",
+        "phone": "+1-206-555-6621"
       },
       "roles": [
         "user",
@@ -7237,7 +7486,8 @@
         "properties": {
           "department": "Strategy Consulting",
           "manager": "8ad45b6d-8c85-496a-a2d9-78422c4ee663",
-          "title": "Strategy Consultant"
+          "title": "Strategy Consultant",
+          "phone": "+1-206-555-6621"
         },
         "roles": [
           "viewer"
@@ -7281,7 +7531,8 @@
       "properties": {
         "department": "Strategy Consulting",
         "manager": "907dbfd3-298a-4388-8dd9-707760dd3092",
-        "title": "Strategy Consultant"
+        "title": "Strategy Consultant",
+        "phone": "+1-206-555-8223"
       },
       "roles": [
         "user",
@@ -7295,7 +7546,8 @@
         "properties": {
           "department": "Strategy Consulting",
           "manager": "907dbfd3-298a-4388-8dd9-707760dd3092",
-          "title": "Strategy Consultant"
+          "title": "Strategy Consultant",
+          "phone": "+1-206-555-8223"
         },
         "roles": [
           "viewer"
@@ -7339,7 +7591,8 @@
       "properties": {
         "department": "Strategy Consulting",
         "manager": "8ad45b6d-8c85-496a-a2d9-78422c4ee663",
-        "title": "Strategy Consultant"
+        "title": "Strategy Consultant",
+        "phone": "+1-206-555-4557"
       },
       "roles": [
         "user",
@@ -7353,7 +7606,8 @@
         "properties": {
           "department": "Strategy Consulting",
           "manager": "8ad45b6d-8c85-496a-a2d9-78422c4ee663",
-          "title": "Strategy Consultant"
+          "title": "Strategy Consultant",
+          "phone": "+1-206-555-4557"
         },
         "roles": [
           "viewer"
@@ -7397,7 +7651,8 @@
       "properties": {
         "department": "Strategy Consulting",
         "manager": "22b24470-babd-435b-9349-23c1bcadd849",
-        "title": "Strategy Consultant"
+        "title": "Strategy Consultant",
+        "phone": "+1-206-555-4886"
       },
       "roles": [
         "user",
@@ -7411,7 +7666,8 @@
         "properties": {
           "department": "Strategy Consulting",
           "manager": "22b24470-babd-435b-9349-23c1bcadd849",
-          "title": "Strategy Consultant"
+          "title": "Strategy Consultant",
+          "phone": "+1-206-555-4886"
         },
         "roles": [
           "viewer"
@@ -7455,7 +7711,8 @@
       "properties": {
         "department": "Strategy Consulting",
         "manager": "d856c97a-a02f-4b78-b966-1ea9cb9f28e7",
-        "title": "Strategy Consultant"
+        "title": "Strategy Consultant",
+        "phone": "+1-206-555-4595"
       },
       "roles": [
         "user",
@@ -7469,7 +7726,8 @@
         "properties": {
           "department": "Strategy Consulting",
           "manager": "d856c97a-a02f-4b78-b966-1ea9cb9f28e7",
-          "title": "Strategy Consultant"
+          "title": "Strategy Consultant",
+          "phone": "+1-206-555-4595"
         },
         "roles": [
           "viewer"
@@ -7513,7 +7771,8 @@
       "properties": {
         "department": "Strategy Consulting",
         "manager": "8ad45b6d-8c85-496a-a2d9-78422c4ee663",
-        "title": "Strategy Consultant"
+        "title": "Strategy Consultant",
+        "phone": "+1-206-555-3449"
       },
       "roles": [
         "user",
@@ -7527,7 +7786,8 @@
         "properties": {
           "department": "Strategy Consulting",
           "manager": "8ad45b6d-8c85-496a-a2d9-78422c4ee663",
-          "title": "Strategy Consultant"
+          "title": "Strategy Consultant",
+          "phone": "+1-206-555-3449"
         },
         "roles": [
           "viewer"
@@ -7571,7 +7831,8 @@
       "properties": {
         "department": "Strategy Consulting",
         "manager": "907dbfd3-298a-4388-8dd9-707760dd3092",
-        "title": "Strategy Consultant"
+        "title": "Strategy Consultant",
+        "phone": "+1-206-555-5846"
       },
       "roles": [
         "user",
@@ -7585,7 +7846,8 @@
         "properties": {
           "department": "Strategy Consulting",
           "manager": "907dbfd3-298a-4388-8dd9-707760dd3092",
-          "title": "Strategy Consultant"
+          "title": "Strategy Consultant",
+          "phone": "+1-206-555-5846"
         },
         "roles": [
           "viewer"
@@ -7629,7 +7891,8 @@
       "properties": {
         "department": "Accounting",
         "manager": "7db937b4-a31a-448f-bc54-7b871e609506",
-        "title": "Accountant"
+        "title": "Accountant",
+        "phone": "+1-206-555-6848"
       },
       "roles": [
         "user",
@@ -7643,7 +7906,8 @@
         "properties": {
           "department": "Accounting",
           "manager": "7db937b4-a31a-448f-bc54-7b871e609506",
-          "title": "Accountant"
+          "title": "Accountant",
+          "phone": "+1-206-555-6848"
         },
         "roles": [
           "viewer"
@@ -7687,7 +7951,8 @@
       "properties": {
         "department": "Accounting",
         "manager": "7db937b4-a31a-448f-bc54-7b871e609506",
-        "title": "Accountant"
+        "title": "Accountant",
+        "phone": "+1-425-555-9559"
       },
       "roles": [
         "user",
@@ -7701,7 +7966,8 @@
         "properties": {
           "department": "Accounting",
           "manager": "7db937b4-a31a-448f-bc54-7b871e609506",
-          "title": "Accountant"
+          "title": "Accountant",
+          "phone": "+1-425-555-9559"
         },
         "roles": [
           "viewer"
@@ -7745,7 +8011,8 @@
       "properties": {
         "department": "Accounting",
         "manager": "7db937b4-a31a-448f-bc54-7b871e609506",
-        "title": "Accounting Manager"
+        "title": "Accounting Manager",
+        "phone": "+1-415-555-7777"
       },
       "roles": [
         "user",
@@ -7759,7 +8026,8 @@
         "properties": {
           "department": "Accounting",
           "manager": "7db937b4-a31a-448f-bc54-7b871e609506",
-          "title": "Accounting Manager"
+          "title": "Accounting Manager",
+          "phone": "+1-415-555-7777"
         },
         "roles": [
           "viewer"
@@ -7803,7 +8071,8 @@
       "properties": {
         "department": "Strategy Consulting",
         "manager": "f88a171c-b337-4c26-9c4b-824bb74a0729",
-        "title": "Strategy Consultant"
+        "title": "Strategy Consultant",
+        "phone": "+1-206-555-1913"
       },
       "roles": [
         "user",
@@ -7817,7 +8086,8 @@
         "properties": {
           "department": "Strategy Consulting",
           "manager": "f88a171c-b337-4c26-9c4b-824bb74a0729",
-          "title": "Strategy Consultant"
+          "title": "Strategy Consultant",
+          "phone": "+1-206-555-1913"
         },
         "roles": [
           "viewer"
@@ -7861,7 +8131,8 @@
       "properties": {
         "department": "1099 Contractor",
         "manager": "49576048-c1ae-4c61-b876-2608434f81ed",
-        "title": "Project Manager"
+        "title": "Project Manager",
+        "phone": "+1-206-555-4112"
       },
       "roles": [
         "user",
@@ -7875,7 +8146,8 @@
         "properties": {
           "department": "1099 Contractor",
           "manager": "49576048-c1ae-4c61-b876-2608434f81ed",
-          "title": "Project Manager"
+          "title": "Project Manager",
+          "phone": "+1-206-555-4112"
         },
         "roles": [
           "viewer"
@@ -7919,7 +8191,8 @@
       "properties": {
         "department": "Strategy Consulting",
         "manager": "22b24470-babd-435b-9349-23c1bcadd849",
-        "title": "Strategy Consultant"
+        "title": "Strategy Consultant",
+        "phone": "+1-206-555-4747"
       },
       "roles": [
         "user",
@@ -7933,7 +8206,8 @@
         "properties": {
           "department": "Strategy Consulting",
           "manager": "22b24470-babd-435b-9349-23c1bcadd849",
-          "title": "Strategy Consultant"
+          "title": "Strategy Consultant",
+          "phone": "+1-206-555-4747"
         },
         "roles": [
           "viewer"
@@ -7977,7 +8251,8 @@
       "properties": {
         "department": "Strategy Consulting",
         "manager": "f88a171c-b337-4c26-9c4b-824bb74a0729",
-        "title": "Strategy Consultant"
+        "title": "Strategy Consultant",
+        "phone": "+1-206-555-1443"
       },
       "roles": [
         "user",
@@ -7991,7 +8266,8 @@
         "properties": {
           "department": "Strategy Consulting",
           "manager": "f88a171c-b337-4c26-9c4b-824bb74a0729",
-          "title": "Strategy Consultant"
+          "title": "Strategy Consultant",
+          "phone": "+1-206-555-1443"
         },
         "roles": [
           "viewer"
@@ -8035,7 +8311,8 @@
       "properties": {
         "department": "Strategy Consulting",
         "manager": "907dbfd3-298a-4388-8dd9-707760dd3092",
-        "title": "Strategy Consultant"
+        "title": "Strategy Consultant",
+        "phone": "+1-206-555-8454"
       },
       "roles": [
         "user",
@@ -8049,7 +8326,8 @@
         "properties": {
           "department": "Strategy Consulting",
           "manager": "907dbfd3-298a-4388-8dd9-707760dd3092",
-          "title": "Strategy Consultant"
+          "title": "Strategy Consultant",
+          "phone": "+1-206-555-8454"
         },
         "roles": [
           "viewer"
@@ -8093,7 +8371,8 @@
       "properties": {
         "department": "Sales",
         "manager": "7e28daa4-228f-46fc-b8f1-f35d7e4ed03e",
-        "title": "Salesperson"
+        "title": "Salesperson",
+        "phone": "+1-214-555-8332"
       },
       "roles": [
         "user",
@@ -8107,7 +8386,8 @@
         "properties": {
           "department": "Sales",
           "manager": "7e28daa4-228f-46fc-b8f1-f35d7e4ed03e",
-          "title": "Salesperson"
+          "title": "Salesperson",
+          "phone": "+1-214-555-8332"
         },
         "roles": [
           "viewer"
@@ -8151,7 +8431,8 @@
       "properties": {
         "department": "Strategy Consulting",
         "manager": "8ad45b6d-8c85-496a-a2d9-78422c4ee663",
-        "title": "Strategy Consultant"
+        "title": "Strategy Consultant",
+        "phone": "+1-206-555-2297"
       },
       "roles": [
         "user",
@@ -8165,7 +8446,8 @@
         "properties": {
           "department": "Strategy Consulting",
           "manager": "8ad45b6d-8c85-496a-a2d9-78422c4ee663",
-          "title": "Strategy Consultant"
+          "title": "Strategy Consultant",
+          "phone": "+1-206-555-2297"
         },
         "roles": [
           "viewer"
@@ -8209,7 +8491,8 @@
       "properties": {
         "department": "Engineering Operations",
         "manager": "33d6a6a2-3615-4f0c-aa26-c15016432a24",
-        "title": "Engineer"
+        "title": "Engineer",
+        "phone": "+1-206-555-9821"
       },
       "roles": [
         "user",
@@ -8223,7 +8506,8 @@
         "properties": {
           "department": "Engineering Operations",
           "manager": "33d6a6a2-3615-4f0c-aa26-c15016432a24",
-          "title": "Engineer"
+          "title": "Engineer",
+          "phone": "+1-206-555-9821"
         },
         "roles": [
           "viewer"
@@ -8267,7 +8551,8 @@
       "properties": {
         "department": "Content Management Consulting",
         "manager": "e89f603c-3707-49a1-92ad-dc6a231b32f8",
-        "title": "Content Management Consultant"
+        "title": "Content Management Consultant",
+        "phone": "+1-206-555-6448"
       },
       "roles": [
         "user",
@@ -8281,7 +8566,8 @@
         "properties": {
           "department": "Content Management Consulting",
           "manager": "e89f603c-3707-49a1-92ad-dc6a231b32f8",
-          "title": "Content Management Consultant"
+          "title": "Content Management Consultant",
+          "phone": "+1-206-555-6448"
         },
         "roles": [
           "viewer"
@@ -8325,7 +8611,8 @@
       "properties": {
         "department": "Content Management Consulting",
         "manager": "e89f603c-3707-49a1-92ad-dc6a231b32f8",
-        "title": "Business Process Manager"
+        "title": "Business Process Manager",
+        "phone": "+1-206-555-7213"
       },
       "roles": [
         "user",
@@ -8339,7 +8626,8 @@
         "properties": {
           "department": "Content Management Consulting",
           "manager": "e89f603c-3707-49a1-92ad-dc6a231b32f8",
-          "title": "Business Process Manager"
+          "title": "Business Process Manager",
+          "phone": "+1-206-555-7213"
         },
         "roles": [
           "viewer"
@@ -8383,7 +8671,8 @@
       "properties": {
         "department": "Strategy Consulting",
         "manager": "22b24470-babd-435b-9349-23c1bcadd849",
-        "title": "Strategy Consultant"
+        "title": "Strategy Consultant",
+        "phone": "+1-206-555-7167"
       },
       "roles": [
         "user",
@@ -8397,7 +8686,8 @@
         "properties": {
           "department": "Strategy Consulting",
           "manager": "22b24470-babd-435b-9349-23c1bcadd849",
-          "title": "Strategy Consultant"
+          "title": "Strategy Consultant",
+          "phone": "+1-206-555-7167"
         },
         "roles": [
           "viewer"
@@ -8441,7 +8731,8 @@
       "properties": {
         "department": "CRM Strategy",
         "manager": "2cfdb538-a03d-44b1-a0f2-b7ef32b713a7",
-        "title": "CRM Consultant"
+        "title": "CRM Consultant",
+        "phone": "+1-20-5555-8569"
       },
       "roles": [
         "user",
@@ -8455,7 +8746,8 @@
         "properties": {
           "department": "CRM Strategy",
           "manager": "2cfdb538-a03d-44b1-a0f2-b7ef32b713a7",
-          "title": "CRM Consultant"
+          "title": "CRM Consultant",
+          "phone": "+1-20-5555-8569"
         },
         "roles": [
           "viewer"
@@ -8499,7 +8791,8 @@
       "properties": {
         "department": "Content Management Consulting",
         "manager": "e89f603c-3707-49a1-92ad-dc6a231b32f8",
-        "title": "Content Management Consultant"
+        "title": "Content Management Consultant",
+        "phone": "+1-206-555-4157"
       },
       "roles": [
         "user",
@@ -8513,7 +8806,8 @@
         "properties": {
           "department": "Content Management Consulting",
           "manager": "e89f603c-3707-49a1-92ad-dc6a231b32f8",
-          "title": "Content Management Consultant"
+          "title": "Content Management Consultant",
+          "phone": "+1-206-555-4157"
         },
         "roles": [
           "viewer"
@@ -8557,7 +8851,8 @@
       "properties": {
         "department": "Content Management Consulting",
         "manager": "e89f603c-3707-49a1-92ad-dc6a231b32f8",
-        "title": "Content Management Consultant"
+        "title": "Content Management Consultant",
+        "phone": "+1-206-555-1659"
       },
       "roles": [
         "user",
@@ -8571,7 +8866,8 @@
         "properties": {
           "department": "Content Management Consulting",
           "manager": "e89f603c-3707-49a1-92ad-dc6a231b32f8",
-          "title": "Content Management Consultant"
+          "title": "Content Management Consultant",
+          "phone": "+1-206-555-1659"
         },
         "roles": [
           "viewer"
@@ -8615,7 +8911,8 @@
       "properties": {
         "department": "Content Management Consulting",
         "manager": "e89f603c-3707-49a1-92ad-dc6a231b32f8",
-        "title": "Content Management Consultant"
+        "title": "Content Management Consultant",
+        "phone": "+1-212-555-3889"
       },
       "roles": [
         "user",
@@ -8629,7 +8926,8 @@
         "properties": {
           "department": "Content Management Consulting",
           "manager": "e89f603c-3707-49a1-92ad-dc6a231b32f8",
-          "title": "Content Management Consultant"
+          "title": "Content Management Consultant",
+          "phone": "+1-212-555-3889"
         },
         "roles": [
           "viewer"
@@ -8673,7 +8971,8 @@
       "properties": {
         "department": "Strategy Consulting",
         "manager": "907dbfd3-298a-4388-8dd9-707760dd3092",
-        "title": "Strategy Consultant"
+        "title": "Strategy Consultant",
+        "phone": "+1-206-555-6864"
       },
       "roles": [
         "user",
@@ -8687,7 +8986,8 @@
         "properties": {
           "department": "Strategy Consulting",
           "manager": "907dbfd3-298a-4388-8dd9-707760dd3092",
-          "title": "Strategy Consultant"
+          "title": "Strategy Consultant",
+          "phone": "+1-206-555-6864"
         },
         "roles": [
           "viewer"
@@ -8731,7 +9031,8 @@
       "properties": {
         "department": "1099 Contractor",
         "manager": "6884a642-9966-442a-ac80-6dfed9442a5b",
-        "title": "Strategy Consultant"
+        "title": "Strategy Consultant",
+        "phone": "+1-206-555-8452"
       },
       "roles": [
         "user",
@@ -8745,7 +9046,8 @@
         "properties": {
           "department": "1099 Contractor",
           "manager": "6884a642-9966-442a-ac80-6dfed9442a5b",
-          "title": "Strategy Consultant"
+          "title": "Strategy Consultant",
+          "phone": "+1-206-555-8452"
         },
         "roles": [
           "viewer"
@@ -8789,7 +9091,8 @@
       "properties": {
         "department": "Accounting",
         "manager": "7db937b4-a31a-448f-bc54-7b871e609506",
-        "title": "Accountant"
+        "title": "Accountant",
+        "phone": "+1-415-555-2597"
       },
       "roles": [
         "user",
@@ -8803,7 +9106,8 @@
         "properties": {
           "department": "Accounting",
           "manager": "7db937b4-a31a-448f-bc54-7b871e609506",
-          "title": "Accountant"
+          "title": "Accountant",
+          "phone": "+1-415-555-2597"
         },
         "roles": [
           "viewer"
@@ -8847,7 +9151,8 @@
       "properties": {
         "department": "1099 Contractor",
         "manager": "49576048-c1ae-4c61-b876-2608434f81ed",
-        "title": "Project Manager"
+        "title": "Project Manager",
+        "phone": "+1-206-555-8793"
       },
       "roles": [
         "user",
@@ -8861,7 +9166,8 @@
         "properties": {
           "department": "1099 Contractor",
           "manager": "49576048-c1ae-4c61-b876-2608434f81ed",
-          "title": "Project Manager"
+          "title": "Project Manager",
+          "phone": "+1-206-555-8793"
         },
         "roles": [
           "viewer"
@@ -8905,7 +9211,8 @@
       "properties": {
         "department": "1099 Contractor",
         "manager": "49576048-c1ae-4c61-b876-2608434f81ed",
-        "title": "Project Manager"
+        "title": "Project Manager",
+        "phone": "+1-206-555-2464"
       },
       "roles": [
         "user",
@@ -8919,7 +9226,8 @@
         "properties": {
           "department": "1099 Contractor",
           "manager": "49576048-c1ae-4c61-b876-2608434f81ed",
-          "title": "Project Manager"
+          "title": "Project Manager",
+          "phone": "+1-206-555-2464"
         },
         "roles": [
           "viewer"
@@ -8963,7 +9271,8 @@
       "properties": {
         "department": "1099 Contractor",
         "manager": "49576048-c1ae-4c61-b876-2608434f81ed",
-        "title": "Project Manager"
+        "title": "Project Manager",
+        "phone": "+1-206-555-1833"
       },
       "roles": [
         "user",
@@ -8977,7 +9286,8 @@
         "properties": {
           "department": "1099 Contractor",
           "manager": "49576048-c1ae-4c61-b876-2608434f81ed",
-          "title": "Project Manager"
+          "title": "Project Manager",
+          "phone": "+1-206-555-1833"
         },
         "roles": [
           "viewer"
@@ -9021,7 +9331,8 @@
       "properties": {
         "department": "1099 Contractor",
         "manager": "49576048-c1ae-4c61-b876-2608434f81ed",
-        "title": "Project Manager"
+        "title": "Project Manager",
+        "phone": "+1-206-555-4536"
       },
       "roles": [
         "user",
@@ -9035,7 +9346,8 @@
         "properties": {
           "department": "1099 Contractor",
           "manager": "49576048-c1ae-4c61-b876-2608434f81ed",
-          "title": "Project Manager"
+          "title": "Project Manager",
+          "phone": "+1-206-555-4536"
         },
         "roles": [
           "viewer"
@@ -9079,7 +9391,8 @@
       "properties": {
         "department": "1099 Contractor",
         "manager": "49576048-c1ae-4c61-b876-2608434f81ed",
-        "title": "Project Manager"
+        "title": "Project Manager",
+        "phone": "+1-206-555-1413"
       },
       "roles": [
         "user",
@@ -9093,7 +9406,8 @@
         "properties": {
           "department": "1099 Contractor",
           "manager": "49576048-c1ae-4c61-b876-2608434f81ed",
-          "title": "Project Manager"
+          "title": "Project Manager",
+          "phone": "+1-206-555-1413"
         },
         "roles": [
           "viewer"
@@ -9137,7 +9451,8 @@
       "properties": {
         "department": "1099 Contractor",
         "manager": "49576048-c1ae-4c61-b876-2608434f81ed",
-        "title": "Project Manager"
+        "title": "Project Manager",
+        "phone": "+1-206-555-7139"
       },
       "roles": [
         "user",
@@ -9151,7 +9466,8 @@
         "properties": {
           "department": "1099 Contractor",
           "manager": "49576048-c1ae-4c61-b876-2608434f81ed",
-          "title": "Project Manager"
+          "title": "Project Manager",
+          "phone": "+1-206-555-7139"
         },
         "roles": [
           "viewer"
@@ -9195,7 +9511,8 @@
       "properties": {
         "department": "1099 Contractor",
         "manager": "6884a642-9966-442a-ac80-6dfed9442a5b",
-        "title": "Strategy Consultant"
+        "title": "Strategy Consultant",
+        "phone": "+1-206-555-3155"
       },
       "roles": [
         "user",
@@ -9209,7 +9526,8 @@
         "properties": {
           "department": "1099 Contractor",
           "manager": "6884a642-9966-442a-ac80-6dfed9442a5b",
-          "title": "Strategy Consultant"
+          "title": "Strategy Consultant",
+          "phone": "+1-206-555-3155"
         },
         "roles": [
           "viewer"
@@ -9253,7 +9571,8 @@
       "properties": {
         "department": "1099 Contractor",
         "manager": "49576048-c1ae-4c61-b876-2608434f81ed",
-        "title": "Project Manager"
+        "title": "Project Manager",
+        "phone": "+1-206-555-6963"
       },
       "roles": [
         "user",
@@ -9267,7 +9586,8 @@
         "properties": {
           "department": "1099 Contractor",
           "manager": "49576048-c1ae-4c61-b876-2608434f81ed",
-          "title": "Project Manager"
+          "title": "Project Manager",
+          "phone": "+1-206-555-6963"
         },
         "roles": [
           "viewer"
@@ -9311,7 +9631,8 @@
       "properties": {
         "department": "1099 Contractor",
         "manager": "6884a642-9966-442a-ac80-6dfed9442a5b",
-        "title": "Strategy Consultant"
+        "title": "Strategy Consultant",
+        "phone": "+1-206-555-7794"
       },
       "roles": [
         "user",
@@ -9325,7 +9646,8 @@
         "properties": {
           "department": "1099 Contractor",
           "manager": "6884a642-9966-442a-ac80-6dfed9442a5b",
-          "title": "Strategy Consultant"
+          "title": "Strategy Consultant",
+          "phone": "+1-206-555-7794"
         },
         "roles": [
           "viewer"
@@ -9369,7 +9691,8 @@
       "properties": {
         "department": "1099 Contractor",
         "manager": "6884a642-9966-442a-ac80-6dfed9442a5b",
-        "title": "Strategy Consultant"
+        "title": "Strategy Consultant",
+        "phone": "+1-206-555-4666"
       },
       "roles": [
         "user",
@@ -9383,7 +9706,8 @@
         "properties": {
           "department": "1099 Contractor",
           "manager": "6884a642-9966-442a-ac80-6dfed9442a5b",
-          "title": "Strategy Consultant"
+          "title": "Strategy Consultant",
+          "phone": "+1-206-555-4666"
         },
         "roles": [
           "viewer"
@@ -9427,7 +9751,8 @@
       "properties": {
         "department": "1099 Contractor",
         "manager": "6884a642-9966-442a-ac80-6dfed9442a5b",
-        "title": "Strategy Consultant"
+        "title": "Strategy Consultant",
+        "phone": "+1-206-555-6235"
       },
       "roles": [
         "user",
@@ -9441,7 +9766,8 @@
         "properties": {
           "department": "1099 Contractor",
           "manager": "6884a642-9966-442a-ac80-6dfed9442a5b",
-          "title": "Strategy Consultant"
+          "title": "Strategy Consultant",
+          "phone": "+1-206-555-6235"
         },
         "roles": [
           "viewer"
@@ -9485,7 +9811,8 @@
       "properties": {
         "department": "1099 Contractor",
         "manager": "6884a642-9966-442a-ac80-6dfed9442a5b",
-        "title": "Strategy Consultant"
+        "title": "Strategy Consultant",
+        "phone": "+1-206-555-8792"
       },
       "roles": [
         "user",
@@ -9499,7 +9826,8 @@
         "properties": {
           "department": "1099 Contractor",
           "manager": "6884a642-9966-442a-ac80-6dfed9442a5b",
-          "title": "Strategy Consultant"
+          "title": "Strategy Consultant",
+          "phone": "+1-206-555-8792"
         },
         "roles": [
           "viewer"
@@ -9543,7 +9871,8 @@
       "properties": {
         "department": "1099 Contractor",
         "manager": "6884a642-9966-442a-ac80-6dfed9442a5b",
-        "title": "Strategy Consultant"
+        "title": "Strategy Consultant",
+        "phone": "+1-206-555-6852"
       },
       "roles": [
         "user",
@@ -9557,7 +9886,8 @@
         "properties": {
           "department": "1099 Contractor",
           "manager": "6884a642-9966-442a-ac80-6dfed9442a5b",
-          "title": "Strategy Consultant"
+          "title": "Strategy Consultant",
+          "phone": "+1-206-555-6852"
         },
         "roles": [
           "viewer"
@@ -9601,7 +9931,8 @@
       "properties": {
         "department": "1099 Contractor",
         "manager": "6884a642-9966-442a-ac80-6dfed9442a5b",
-        "title": "Strategy Consultant"
+        "title": "Strategy Consultant",
+        "phone": "+1-206-555-1678"
       },
       "roles": [
         "user",
@@ -9615,7 +9946,8 @@
         "properties": {
           "department": "1099 Contractor",
           "manager": "6884a642-9966-442a-ac80-6dfed9442a5b",
-          "title": "Strategy Consultant"
+          "title": "Strategy Consultant",
+          "phone": "+1-206-555-1678"
         },
         "roles": [
           "viewer"
@@ -9659,7 +9991,8 @@
       "properties": {
         "department": "Accounting",
         "manager": "7db937b4-a31a-448f-bc54-7b871e609506",
-        "title": "Accountant"
+        "title": "Accountant",
+        "phone": "+1-206-555-9764"
       },
       "roles": [
         "user",
@@ -9673,7 +10006,8 @@
         "properties": {
           "department": "Accounting",
           "manager": "7db937b4-a31a-448f-bc54-7b871e609506",
-          "title": "Accountant"
+          "title": "Accountant",
+          "phone": "+1-206-555-9764"
         },
         "roles": [
           "viewer"
@@ -9717,7 +10051,8 @@
       "properties": {
         "department": "1099 Contractor",
         "manager": "49576048-c1ae-4c61-b876-2608434f81ed",
-        "title": "Project Manager"
+        "title": "Project Manager",
+        "phone": "+1-206-555-3415"
       },
       "roles": [
         "user",
@@ -9731,7 +10066,8 @@
         "properties": {
           "department": "1099 Contractor",
           "manager": "49576048-c1ae-4c61-b876-2608434f81ed",
-          "title": "Project Manager"
+          "title": "Project Manager",
+          "phone": "+1-206-555-3415"
         },
         "roles": [
           "viewer"
@@ -9775,7 +10111,8 @@
       "properties": {
         "department": "1099 Contractor",
         "manager": "49576048-c1ae-4c61-b876-2608434f81ed",
-        "title": "Project Manager"
+        "title": "Project Manager",
+        "phone": "+1-206-555-4724"
       },
       "roles": [
         "user",
@@ -9789,7 +10126,8 @@
         "properties": {
           "department": "1099 Contractor",
           "manager": "49576048-c1ae-4c61-b876-2608434f81ed",
-          "title": "Project Manager"
+          "title": "Project Manager",
+          "phone": "+1-206-555-4724"
         },
         "roles": [
           "viewer"
@@ -9833,7 +10171,8 @@
       "properties": {
         "department": "1099 Contractor",
         "manager": "49576048-c1ae-4c61-b876-2608434f81ed",
-        "title": "Project Manager"
+        "title": "Project Manager",
+        "phone": "+1-206-555-3382"
       },
       "roles": [
         "user",
@@ -9847,7 +10186,8 @@
         "properties": {
           "department": "1099 Contractor",
           "manager": "49576048-c1ae-4c61-b876-2608434f81ed",
-          "title": "Project Manager"
+          "title": "Project Manager",
+          "phone": "+1-206-555-3382"
         },
         "roles": [
           "viewer"
@@ -9891,7 +10231,8 @@
       "properties": {
         "department": "1099 Contractor",
         "manager": "49576048-c1ae-4c61-b876-2608434f81ed",
-        "title": "Project Manager"
+        "title": "Project Manager",
+        "phone": "+1-206-555-7177"
       },
       "roles": [
         "user",
@@ -9905,7 +10246,8 @@
         "properties": {
           "department": "1099 Contractor",
           "manager": "49576048-c1ae-4c61-b876-2608434f81ed",
-          "title": "Project Manager"
+          "title": "Project Manager",
+          "phone": "+1-206-555-7177"
         },
         "roles": [
           "viewer"
@@ -9949,7 +10291,8 @@
       "properties": {
         "department": "1099 Contractor",
         "manager": "49576048-c1ae-4c61-b876-2608434f81ed",
-        "title": "Project Manager"
+        "title": "Project Manager",
+        "phone": "+1-206-555-1577"
       },
       "roles": [
         "user",
@@ -9963,7 +10306,8 @@
         "properties": {
           "department": "1099 Contractor",
           "manager": "49576048-c1ae-4c61-b876-2608434f81ed",
-          "title": "Project Manager"
+          "title": "Project Manager",
+          "phone": "+1-206-555-1577"
         },
         "roles": [
           "viewer"
@@ -10007,7 +10351,8 @@
       "properties": {
         "department": "1099 Contractor",
         "manager": "49576048-c1ae-4c61-b876-2608434f81ed",
-        "title": "Project Manager"
+        "title": "Project Manager",
+        "phone": "+1-206-555-2342"
       },
       "roles": [
         "user",
@@ -10021,7 +10366,8 @@
         "properties": {
           "department": "1099 Contractor",
           "manager": "49576048-c1ae-4c61-b876-2608434f81ed",
-          "title": "Project Manager"
+          "title": "Project Manager",
+          "phone": "+1-206-555-2342"
         },
         "roles": [
           "viewer"
@@ -10065,7 +10411,8 @@
       "properties": {
         "department": "1099 Contractor",
         "manager": "49576048-c1ae-4c61-b876-2608434f81ed",
-        "title": "Project Manager"
+        "title": "Project Manager",
+        "phone": "+1-206-555-9366"
       },
       "roles": [
         "user",
@@ -10079,7 +10426,8 @@
         "properties": {
           "department": "1099 Contractor",
           "manager": "49576048-c1ae-4c61-b876-2608434f81ed",
-          "title": "Project Manager"
+          "title": "Project Manager",
+          "phone": "+1-206-555-9366"
         },
         "roles": [
           "viewer"
@@ -10123,7 +10471,8 @@
       "properties": {
         "department": "1099 Contractor",
         "manager": "49576048-c1ae-4c61-b876-2608434f81ed",
-        "title": "Project Manager"
+        "title": "Project Manager",
+        "phone": "+1-206-555-5413"
       },
       "roles": [
         "user",
@@ -10137,7 +10486,8 @@
         "properties": {
           "department": "1099 Contractor",
           "manager": "49576048-c1ae-4c61-b876-2608434f81ed",
-          "title": "Project Manager"
+          "title": "Project Manager",
+          "phone": "+1-206-555-5413"
         },
         "roles": [
           "viewer"
@@ -10181,7 +10531,8 @@
       "properties": {
         "department": "1099 Contractor",
         "manager": "49576048-c1ae-4c61-b876-2608434f81ed",
-        "title": "Project Manager"
+        "title": "Project Manager",
+        "phone": "+1-206-555-7593"
       },
       "roles": [
         "user",
@@ -10195,7 +10546,8 @@
         "properties": {
           "department": "1099 Contractor",
           "manager": "49576048-c1ae-4c61-b876-2608434f81ed",
-          "title": "Project Manager"
+          "title": "Project Manager",
+          "phone": "+1-206-555-7593"
         },
         "roles": [
           "viewer"
@@ -10239,7 +10591,8 @@
       "properties": {
         "department": "1099 Contractor",
         "manager": "49576048-c1ae-4c61-b876-2608434f81ed",
-        "title": "Project Manager"
+        "title": "Project Manager",
+        "phone": "+1-206-555-1459"
       },
       "roles": [
         "user",
@@ -10253,7 +10606,8 @@
         "properties": {
           "department": "1099 Contractor",
           "manager": "49576048-c1ae-4c61-b876-2608434f81ed",
-          "title": "Project Manager"
+          "title": "Project Manager",
+          "phone": "+1-206-555-1459"
         },
         "roles": [
           "viewer"
@@ -10297,7 +10651,8 @@
       "properties": {
         "department": "1099 Contractor",
         "manager": "49576048-c1ae-4c61-b876-2608434f81ed",
-        "title": "Project Manager"
+        "title": "Project Manager",
+        "phone": "+1-206-555-9549"
       },
       "roles": [
         "user",
@@ -10311,7 +10666,8 @@
         "properties": {
           "department": "1099 Contractor",
           "manager": "49576048-c1ae-4c61-b876-2608434f81ed",
-          "title": "Project Manager"
+          "title": "Project Manager",
+          "phone": "+1-206-555-9549"
         },
         "roles": [
           "viewer"
@@ -10355,7 +10711,8 @@
       "properties": {
         "department": "1099 Contractor",
         "manager": "49576048-c1ae-4c61-b876-2608434f81ed",
-        "title": "Project Manager"
+        "title": "Project Manager",
+        "phone": "+1-206-555-5233"
       },
       "roles": [
         "user",
@@ -10369,7 +10726,8 @@
         "properties": {
           "department": "1099 Contractor",
           "manager": "49576048-c1ae-4c61-b876-2608434f81ed",
-          "title": "Project Manager"
+          "title": "Project Manager",
+          "phone": "+1-206-555-5233"
         },
         "roles": [
           "viewer"
@@ -10413,7 +10771,8 @@
       "properties": {
         "department": "Strategy Consulting",
         "manager": "d856c97a-a02f-4b78-b966-1ea9cb9f28e7",
-        "title": "Strategy Consultant"
+        "title": "Strategy Consultant",
+        "phone": "+1-206-555-8147"
       },
       "roles": [
         "user",
@@ -10427,7 +10786,8 @@
         "properties": {
           "department": "Strategy Consulting",
           "manager": "d856c97a-a02f-4b78-b966-1ea9cb9f28e7",
-          "title": "Strategy Consultant"
+          "title": "Strategy Consultant",
+          "phone": "+1-206-555-8147"
         },
         "roles": [
           "viewer"
@@ -10471,7 +10831,8 @@
       "properties": {
         "department": "1099 Contractor",
         "manager": "49576048-c1ae-4c61-b876-2608434f81ed",
-        "title": "Project Manager"
+        "title": "Project Manager",
+        "phone": "+1-206-555-7749"
       },
       "roles": [
         "user",
@@ -10485,7 +10846,8 @@
         "properties": {
           "department": "1099 Contractor",
           "manager": "49576048-c1ae-4c61-b876-2608434f81ed",
-          "title": "Project Manager"
+          "title": "Project Manager",
+          "phone": "+1-206-555-7749"
         },
         "roles": [
           "viewer"
@@ -10529,7 +10891,8 @@
       "properties": {
         "department": "Strategy Consulting",
         "manager": "907dbfd3-298a-4388-8dd9-707760dd3092",
-        "title": "Strategy Consultant"
+        "title": "Strategy Consultant",
+        "phone": "+1-212-555-8236"
       },
       "roles": [
         "user",
@@ -10543,7 +10906,8 @@
         "properties": {
           "department": "Strategy Consulting",
           "manager": "907dbfd3-298a-4388-8dd9-707760dd3092",
-          "title": "Strategy Consultant"
+          "title": "Strategy Consultant",
+          "phone": "+1-212-555-8236"
         },
         "roles": [
           "viewer"
@@ -10587,7 +10951,8 @@
       "properties": {
         "department": "Content Management Consulting",
         "manager": "e89f603c-3707-49a1-92ad-dc6a231b32f8",
-        "title": "Content Management Consultant"
+        "title": "Content Management Consultant",
+        "phone": "+1-206-555-5542"
       },
       "roles": [
         "user",
@@ -10601,7 +10966,8 @@
         "properties": {
           "department": "Content Management Consulting",
           "manager": "e89f603c-3707-49a1-92ad-dc6a231b32f8",
-          "title": "Content Management Consultant"
+          "title": "Content Management Consultant",
+          "phone": "+1-206-555-5542"
         },
         "roles": [
           "viewer"
@@ -10645,7 +11011,8 @@
       "properties": {
         "department": "CRM Strategy",
         "manager": "2cfdb538-a03d-44b1-a0f2-b7ef32b713a7",
-        "title": "CRM Consultant"
+        "title": "CRM Consultant",
+        "phone": "+1-20-5555-1394"
       },
       "roles": [
         "user",
@@ -10659,7 +11026,8 @@
         "properties": {
           "department": "CRM Strategy",
           "manager": "2cfdb538-a03d-44b1-a0f2-b7ef32b713a7",
-          "title": "CRM Consultant"
+          "title": "CRM Consultant",
+          "phone": "+1-20-5555-1394"
         },
         "roles": [
           "viewer"
@@ -10703,7 +11071,8 @@
       "properties": {
         "department": "Engineering Operations",
         "manager": "33d6a6a2-3615-4f0c-aa26-c15016432a24",
-        "title": "Engineer"
+        "title": "Engineer",
+        "phone": "+1-206-555-3599"
       },
       "roles": [
         "user",
@@ -10717,7 +11086,8 @@
         "properties": {
           "department": "Engineering Operations",
           "manager": "33d6a6a2-3615-4f0c-aa26-c15016432a24",
-          "title": "Engineer"
+          "title": "Engineer",
+          "phone": "+1-206-555-3599"
         },
         "roles": [
           "viewer"
@@ -10761,7 +11131,8 @@
       "properties": {
         "department": "Strategy Consulting",
         "manager": "907dbfd3-298a-4388-8dd9-707760dd3092",
-        "title": "Strategy Consultant"
+        "title": "Strategy Consultant",
+        "phone": "+1-206-555-5461"
       },
       "roles": [
         "user",
@@ -10775,7 +11146,8 @@
         "properties": {
           "department": "Strategy Consulting",
           "manager": "907dbfd3-298a-4388-8dd9-707760dd3092",
-          "title": "Strategy Consultant"
+          "title": "Strategy Consultant",
+          "phone": "+1-206-555-5461"
         },
         "roles": [
           "viewer"
@@ -10819,7 +11191,8 @@
       "properties": {
         "department": "Strategy Consulting",
         "manager": "8ad45b6d-8c85-496a-a2d9-78422c4ee663",
-        "title": "Strategy Consultant"
+        "title": "Strategy Consultant",
+        "phone": "+1-206-555-6443"
       },
       "roles": [
         "user",
@@ -10833,7 +11206,8 @@
         "properties": {
           "department": "Strategy Consulting",
           "manager": "8ad45b6d-8c85-496a-a2d9-78422c4ee663",
-          "title": "Strategy Consultant"
+          "title": "Strategy Consultant",
+          "phone": "+1-206-555-6443"
         },
         "roles": [
           "viewer"
@@ -10877,7 +11251,8 @@
       "properties": {
         "department": "Strategy Consulting",
         "manager": "d856c97a-a02f-4b78-b966-1ea9cb9f28e7",
-        "title": "Strategy Consultant"
+        "title": "Strategy Consultant",
+        "phone": "+1-206-555-4484"
       },
       "roles": [
         "user",
@@ -10891,7 +11266,8 @@
         "properties": {
           "department": "Strategy Consulting",
           "manager": "d856c97a-a02f-4b78-b966-1ea9cb9f28e7",
-          "title": "Strategy Consultant"
+          "title": "Strategy Consultant",
+          "phone": "+1-206-555-4484"
         },
         "roles": [
           "viewer"
@@ -10935,7 +11311,8 @@
       "properties": {
         "department": "Strategy Consulting",
         "manager": "d856c97a-a02f-4b78-b966-1ea9cb9f28e7",
-        "title": "Strategy Consultant"
+        "title": "Strategy Consultant",
+        "phone": "+1-206-555-3518"
       },
       "roles": [
         "user",
@@ -10949,7 +11326,8 @@
         "properties": {
           "department": "Strategy Consulting",
           "manager": "d856c97a-a02f-4b78-b966-1ea9cb9f28e7",
-          "title": "Strategy Consultant"
+          "title": "Strategy Consultant",
+          "phone": "+1-206-555-3518"
         },
         "roles": [
           "viewer"
@@ -10993,7 +11371,8 @@
       "properties": {
         "department": "Strategy Consulting",
         "manager": "22b24470-babd-435b-9349-23c1bcadd849",
-        "title": "Strategy Consultant"
+        "title": "Strategy Consultant",
+        "phone": "+1-206-555-5862"
       },
       "roles": [
         "user",
@@ -11007,7 +11386,8 @@
         "properties": {
           "department": "Strategy Consulting",
           "manager": "22b24470-babd-435b-9349-23c1bcadd849",
-          "title": "Strategy Consultant"
+          "title": "Strategy Consultant",
+          "phone": "+1-206-555-5862"
         },
         "roles": [
           "viewer"
@@ -11051,7 +11431,8 @@
       "properties": {
         "department": "Strategy Consulting",
         "manager": "907dbfd3-298a-4388-8dd9-707760dd3092",
-        "title": "Strategy Consultant"
+        "title": "Strategy Consultant",
+        "phone": "+1-206-555-5784"
       },
       "roles": [
         "user",
@@ -11065,7 +11446,8 @@
         "properties": {
           "department": "Strategy Consulting",
           "manager": "907dbfd3-298a-4388-8dd9-707760dd3092",
-          "title": "Strategy Consultant"
+          "title": "Strategy Consultant",
+          "phone": "+1-206-555-5784"
         },
         "roles": [
           "viewer"
@@ -11109,7 +11491,8 @@
       "properties": {
         "department": "Strategy Consulting",
         "manager": "f88a171c-b337-4c26-9c4b-824bb74a0729",
-        "title": "Strategy Consultant"
+        "title": "Strategy Consultant",
+        "phone": "+1-206-555-8157"
       },
       "roles": [
         "user",
@@ -11123,7 +11506,8 @@
         "properties": {
           "department": "Strategy Consulting",
           "manager": "f88a171c-b337-4c26-9c4b-824bb74a0729",
-          "title": "Strategy Consultant"
+          "title": "Strategy Consultant",
+          "phone": "+1-206-555-8157"
         },
         "roles": [
           "viewer"
@@ -11167,7 +11551,8 @@
       "properties": {
         "department": "CRM Strategy",
         "manager": "2cfdb538-a03d-44b1-a0f2-b7ef32b713a7",
-        "title": "CRM Consultant"
+        "title": "CRM Consultant",
+        "phone": "+1-20-5555-6548"
       },
       "roles": [
         "user",
@@ -11181,7 +11566,8 @@
         "properties": {
           "department": "CRM Strategy",
           "manager": "2cfdb538-a03d-44b1-a0f2-b7ef32b713a7",
-          "title": "CRM Consultant"
+          "title": "CRM Consultant",
+          "phone": "+1-20-5555-6548"
         },
         "roles": [
           "viewer"
@@ -11225,7 +11611,8 @@
       "properties": {
         "department": "Strategy Consulting",
         "manager": "8ad45b6d-8c85-496a-a2d9-78422c4ee663",
-        "title": "Strategy Consultant"
+        "title": "Strategy Consultant",
+        "phone": "+1-206-555-7947"
       },
       "roles": [
         "user",
@@ -11239,7 +11626,8 @@
         "properties": {
           "department": "Strategy Consulting",
           "manager": "8ad45b6d-8c85-496a-a2d9-78422c4ee663",
-          "title": "Strategy Consultant"
+          "title": "Strategy Consultant",
+          "phone": "+1-206-555-7947"
         },
         "roles": [
           "viewer"
@@ -11283,7 +11671,8 @@
       "properties": {
         "department": "Content Management Consulting",
         "manager": "e89f603c-3707-49a1-92ad-dc6a231b32f8",
-        "title": "Content Management Consultant"
+        "title": "Content Management Consultant",
+        "phone": "+1-206-555-3434"
       },
       "roles": [
         "user",
@@ -11297,7 +11686,8 @@
         "properties": {
           "department": "Content Management Consulting",
           "manager": "e89f603c-3707-49a1-92ad-dc6a231b32f8",
-          "title": "Content Management Consultant"
+          "title": "Content Management Consultant",
+          "phone": "+1-206-555-3434"
         },
         "roles": [
           "viewer"
@@ -11341,7 +11731,8 @@
       "properties": {
         "department": "Strategy Consulting",
         "manager": "f88a171c-b337-4c26-9c4b-824bb74a0729",
-        "title": "Strategy Consultant"
+        "title": "Strategy Consultant",
+        "phone": "+1-212-555-1665"
       },
       "roles": [
         "user",
@@ -11355,7 +11746,8 @@
         "properties": {
           "department": "Strategy Consulting",
           "manager": "f88a171c-b337-4c26-9c4b-824bb74a0729",
-          "title": "Strategy Consultant"
+          "title": "Strategy Consultant",
+          "phone": "+1-212-555-1665"
         },
         "roles": [
           "viewer"
@@ -11399,7 +11791,8 @@
       "properties": {
         "department": "Strategy Consulting",
         "manager": "22b24470-babd-435b-9349-23c1bcadd849",
-        "title": "Strategy Consultant"
+        "title": "Strategy Consultant",
+        "phone": "+1-206-555-5499"
       },
       "roles": [
         "user",
@@ -11413,7 +11806,8 @@
         "properties": {
           "department": "Strategy Consulting",
           "manager": "22b24470-babd-435b-9349-23c1bcadd849",
-          "title": "Strategy Consultant"
+          "title": "Strategy Consultant",
+          "phone": "+1-206-555-5499"
         },
         "roles": [
           "viewer"
@@ -11457,7 +11851,8 @@
       "properties": {
         "department": "Strategy Consulting",
         "manager": "d856c97a-a02f-4b78-b966-1ea9cb9f28e7",
-        "title": "Strategy Consultant"
+        "title": "Strategy Consultant",
+        "phone": "+1-212-555-5422"
       },
       "roles": [
         "user",
@@ -11471,7 +11866,8 @@
         "properties": {
           "department": "Strategy Consulting",
           "manager": "d856c97a-a02f-4b78-b966-1ea9cb9f28e7",
-          "title": "Strategy Consultant"
+          "title": "Strategy Consultant",
+          "phone": "+1-212-555-5422"
         },
         "roles": [
           "viewer"
@@ -11515,7 +11911,8 @@
       "properties": {
         "department": "Strategy Consulting",
         "manager": "8ad45b6d-8c85-496a-a2d9-78422c4ee663",
-        "title": "Strategy Consultant"
+        "title": "Strategy Consultant",
+        "phone": "+1-212-555-5864"
       },
       "roles": [
         "user",
@@ -11529,7 +11926,8 @@
         "properties": {
           "department": "Strategy Consulting",
           "manager": "8ad45b6d-8c85-496a-a2d9-78422c4ee663",
-          "title": "Strategy Consultant"
+          "title": "Strategy Consultant",
+          "phone": "+1-212-555-5864"
         },
         "roles": [
           "viewer"
@@ -11573,7 +11971,8 @@
       "properties": {
         "department": "Strategy Consulting",
         "manager": "f88a171c-b337-4c26-9c4b-824bb74a0729",
-        "title": "Strategy Consultant"
+        "title": "Strategy Consultant",
+        "phone": "+1-212-555-5231"
       },
       "roles": [
         "user",
@@ -11587,7 +11986,8 @@
         "properties": {
           "department": "Strategy Consulting",
           "manager": "f88a171c-b337-4c26-9c4b-824bb74a0729",
-          "title": "Strategy Consultant"
+          "title": "Strategy Consultant",
+          "phone": "+1-212-555-5231"
         },
         "roles": [
           "viewer"
@@ -11631,7 +12031,8 @@
       "properties": {
         "department": "CRM Strategy",
         "manager": "2cfdb538-a03d-44b1-a0f2-b7ef32b713a7",
-        "title": "CRM Consultant"
+        "title": "CRM Consultant",
+        "phone": "+1-20-5555-2592"
       },
       "roles": [
         "user",
@@ -11645,7 +12046,8 @@
         "properties": {
           "department": "CRM Strategy",
           "manager": "2cfdb538-a03d-44b1-a0f2-b7ef32b713a7",
-          "title": "CRM Consultant"
+          "title": "CRM Consultant",
+          "phone": "+1-20-5555-2592"
         },
         "roles": [
           "viewer"
@@ -11689,7 +12091,8 @@
       "properties": {
         "department": "CRM Strategy",
         "manager": "2cfdb538-a03d-44b1-a0f2-b7ef32b713a7",
-        "title": "CRM Consultant"
+        "title": "CRM Consultant",
+        "phone": "+1-20-5555-4625"
       },
       "roles": [
         "user",
@@ -11703,7 +12106,8 @@
         "properties": {
           "department": "CRM Strategy",
           "manager": "2cfdb538-a03d-44b1-a0f2-b7ef32b713a7",
-          "title": "CRM Consultant"
+          "title": "CRM Consultant",
+          "phone": "+1-20-5555-4625"
         },
         "roles": [
           "viewer"
@@ -11747,7 +12151,8 @@
       "properties": {
         "department": "CRM Strategy",
         "manager": "2cfdb538-a03d-44b1-a0f2-b7ef32b713a7",
-        "title": "CRM Consultant"
+        "title": "CRM Consultant",
+        "phone": "+1-20-5555-4379"
       },
       "roles": [
         "user",
@@ -11761,7 +12166,8 @@
         "properties": {
           "department": "CRM Strategy",
           "manager": "2cfdb538-a03d-44b1-a0f2-b7ef32b713a7",
-          "title": "CRM Consultant"
+          "title": "CRM Consultant",
+          "phone": "+1-20-5555-4379"
         },
         "roles": [
           "viewer"
@@ -11805,7 +12211,8 @@
       "properties": {
         "department": "Engineering Operations",
         "manager": "33d6a6a2-3615-4f0c-aa26-c15016432a24",
-        "title": "Engineer"
+        "title": "Engineer",
+        "phone": "+1-206-555-6127"
       },
       "roles": [
         "user",
@@ -11819,7 +12226,8 @@
         "properties": {
           "department": "Engineering Operations",
           "manager": "33d6a6a2-3615-4f0c-aa26-c15016432a24",
-          "title": "Engineer"
+          "title": "Engineer",
+          "phone": "+1-206-555-6127"
         },
         "roles": [
           "viewer"
@@ -11863,7 +12271,8 @@
       "properties": {
         "department": "Creative",
         "manager": "33d6a6a2-3615-4f0c-aa26-c15016432a24",
-        "title": "Engineer"
+        "title": "Engineer",
+        "phone": "+1-206-555-6699"
       },
       "roles": [
         "user",
@@ -11877,7 +12286,8 @@
         "properties": {
           "department": "Creative",
           "manager": "33d6a6a2-3615-4f0c-aa26-c15016432a24",
-          "title": "Engineer"
+          "title": "Engineer",
+          "phone": "+1-206-555-6699"
         },
         "roles": [
           "viewer"
@@ -11921,7 +12331,8 @@
       "properties": {
         "department": "Engineering Operations",
         "manager": "33d6a6a2-3615-4f0c-aa26-c15016432a24",
-        "title": "Engineer"
+        "title": "Engineer",
+        "phone": "+1-206-555-7231"
       },
       "roles": [
         "user",
@@ -11935,7 +12346,8 @@
         "properties": {
           "department": "Engineering Operations",
           "manager": "33d6a6a2-3615-4f0c-aa26-c15016432a24",
-          "title": "Engineer"
+          "title": "Engineer",
+          "phone": "+1-206-555-7231"
         },
         "roles": [
           "viewer"
@@ -11979,7 +12391,8 @@
       "properties": {
         "department": "Engineering Operations",
         "manager": "33d6a6a2-3615-4f0c-aa26-c15016432a24",
-        "title": "Engineer"
+        "title": "Engineer",
+        "phone": "+1-206-555-3119"
       },
       "roles": [
         "user",
@@ -11993,7 +12406,8 @@
         "properties": {
           "department": "Engineering Operations",
           "manager": "33d6a6a2-3615-4f0c-aa26-c15016432a24",
-          "title": "Engineer"
+          "title": "Engineer",
+          "phone": "+1-206-555-3119"
         },
         "roles": [
           "viewer"
@@ -12037,7 +12451,8 @@
       "properties": {
         "department": "Engineering Operations",
         "manager": "33d6a6a2-3615-4f0c-aa26-c15016432a24",
-        "title": "Engineer"
+        "title": "Engineer",
+        "phone": "+1-206-555-6173"
       },
       "roles": [
         "user",
@@ -12051,7 +12466,8 @@
         "properties": {
           "department": "Engineering Operations",
           "manager": "33d6a6a2-3615-4f0c-aa26-c15016432a24",
-          "title": "Engineer"
+          "title": "Engineer",
+          "phone": "+1-206-555-6173"
         },
         "roles": [
           "viewer"
@@ -12095,7 +12511,8 @@
       "properties": {
         "department": "Engineering Operations",
         "manager": "33d6a6a2-3615-4f0c-aa26-c15016432a24",
-        "title": "Engineer"
+        "title": "Engineer",
+        "phone": "+1-206-555-3748"
       },
       "roles": [
         "user",
@@ -12109,7 +12526,8 @@
         "properties": {
           "department": "Engineering Operations",
           "manager": "33d6a6a2-3615-4f0c-aa26-c15016432a24",
-          "title": "Engineer"
+          "title": "Engineer",
+          "phone": "+1-206-555-3748"
         },
         "roles": [
           "viewer"
@@ -12153,7 +12571,8 @@
       "properties": {
         "department": "Strategy Consulting",
         "manager": "22b24470-babd-435b-9349-23c1bcadd849",
-        "title": "Strategy Consultant"
+        "title": "Strategy Consultant",
+        "phone": "+1-206-555-5292"
       },
       "roles": [
         "user",
@@ -12167,7 +12586,8 @@
         "properties": {
           "department": "Strategy Consulting",
           "manager": "22b24470-babd-435b-9349-23c1bcadd849",
-          "title": "Strategy Consultant"
+          "title": "Strategy Consultant",
+          "phone": "+1-206-555-5292"
         },
         "roles": [
           "viewer"
@@ -12211,7 +12631,8 @@
       "properties": {
         "department": "Content Management Consulting",
         "manager": "e89f603c-3707-49a1-92ad-dc6a231b32f8",
-        "title": "Content Management Consultant"
+        "title": "Content Management Consultant",
+        "phone": "+1-20-5555-8548"
       },
       "roles": [
         "user",
@@ -12225,7 +12646,8 @@
         "properties": {
           "department": "Content Management Consulting",
           "manager": "e89f603c-3707-49a1-92ad-dc6a231b32f8",
-          "title": "Content Management Consultant"
+          "title": "Content Management Consultant",
+          "phone": "+1-20-5555-8548"
         },
         "roles": [
           "viewer"
@@ -12269,7 +12691,8 @@
       "properties": {
         "department": "Content Management Consulting",
         "manager": "e89f603c-3707-49a1-92ad-dc6a231b32f8",
-        "title": "Content Management Consultant"
+        "title": "Content Management Consultant",
+        "phone": "+1-212-555-9441"
       },
       "roles": [
         "user",
@@ -12283,7 +12706,8 @@
         "properties": {
           "department": "Content Management Consulting",
           "manager": "e89f603c-3707-49a1-92ad-dc6a231b32f8",
-          "title": "Content Management Consultant"
+          "title": "Content Management Consultant",
+          "phone": "+1-212-555-9441"
         },
         "roles": [
           "viewer"
@@ -12327,7 +12751,8 @@
       "properties": {
         "department": "Content Management Consulting",
         "manager": "e89f603c-3707-49a1-92ad-dc6a231b32f8",
-        "title": "Content Management Consultant"
+        "title": "Content Management Consultant",
+        "phone": "+1-212-555-9437"
       },
       "roles": [
         "user",
@@ -12341,7 +12766,8 @@
         "properties": {
           "department": "Content Management Consulting",
           "manager": "e89f603c-3707-49a1-92ad-dc6a231b32f8",
-          "title": "Content Management Consultant"
+          "title": "Content Management Consultant",
+          "phone": "+1-212-555-9437"
         },
         "roles": [
           "viewer"
@@ -12385,7 +12811,8 @@
       "properties": {
         "department": "Content Management Consulting",
         "manager": "e89f603c-3707-49a1-92ad-dc6a231b32f8",
-        "title": "Content Management Consultant"
+        "title": "Content Management Consultant",
+        "phone": "+1-212-555-4428"
       },
       "roles": [
         "user",
@@ -12399,7 +12826,8 @@
         "properties": {
           "department": "Content Management Consulting",
           "manager": "e89f603c-3707-49a1-92ad-dc6a231b32f8",
-          "title": "Content Management Consultant"
+          "title": "Content Management Consultant",
+          "phone": "+1-212-555-4428"
         },
         "roles": [
           "viewer"
@@ -12443,7 +12871,8 @@
       "properties": {
         "department": "Content Management Consulting",
         "manager": "e89f603c-3707-49a1-92ad-dc6a231b32f8",
-        "title": "Content Management Consultant"
+        "title": "Content Management Consultant",
+        "phone": "+1-20-5555-3658"
       },
       "roles": [
         "user",
@@ -12457,7 +12886,8 @@
         "properties": {
           "department": "Content Management Consulting",
           "manager": "e89f603c-3707-49a1-92ad-dc6a231b32f8",
-          "title": "Content Management Consultant"
+          "title": "Content Management Consultant",
+          "phone": "+1-20-5555-3658"
         },
         "roles": [
           "viewer"
@@ -12501,7 +12931,8 @@
       "properties": {
         "department": "CRM Strategy",
         "manager": "2cfdb538-a03d-44b1-a0f2-b7ef32b713a7",
-        "title": "CRM Consultant"
+        "title": "CRM Consultant",
+        "phone": "+1-20-5555-2697"
       },
       "roles": [
         "user",
@@ -12515,7 +12946,8 @@
         "properties": {
           "department": "CRM Strategy",
           "manager": "2cfdb538-a03d-44b1-a0f2-b7ef32b713a7",
-          "title": "CRM Consultant"
+          "title": "CRM Consultant",
+          "phone": "+1-20-5555-2697"
         },
         "roles": [
           "viewer"
@@ -12559,7 +12991,8 @@
       "properties": {
         "department": "Content Management Consulting",
         "manager": "e89f603c-3707-49a1-92ad-dc6a231b32f8",
-        "title": "CRM Consultant"
+        "title": "CRM Consultant",
+        "phone": "+1-20-5555-7963"
       },
       "roles": [
         "user",
@@ -12573,7 +13006,8 @@
         "properties": {
           "department": "Content Management Consulting",
           "manager": "e89f603c-3707-49a1-92ad-dc6a231b32f8",
-          "title": "CRM Consultant"
+          "title": "CRM Consultant",
+          "phone": "+1-20-5555-7963"
         },
         "roles": [
           "viewer"
@@ -12617,7 +13051,8 @@
       "properties": {
         "department": "CRM Strategy",
         "manager": "2cfdb538-a03d-44b1-a0f2-b7ef32b713a7",
-        "title": "CRM Consultant"
+        "title": "CRM Consultant",
+        "phone": "+1-20-5555-9834"
       },
       "roles": [
         "user",
@@ -12631,7 +13066,8 @@
         "properties": {
           "department": "CRM Strategy",
           "manager": "2cfdb538-a03d-44b1-a0f2-b7ef32b713a7",
-          "title": "CRM Consultant"
+          "title": "CRM Consultant",
+          "phone": "+1-20-5555-9834"
         },
         "roles": [
           "viewer"
@@ -12675,7 +13111,8 @@
       "properties": {
         "department": "Content Management Consulting",
         "manager": "e89f603c-3707-49a1-92ad-dc6a231b32f8",
-        "title": "Content Management Consultant"
+        "title": "Content Management Consultant",
+        "phone": "+1-20-5555-5894"
       },
       "roles": [
         "user",
@@ -12689,7 +13126,8 @@
         "properties": {
           "department": "Content Management Consulting",
           "manager": "e89f603c-3707-49a1-92ad-dc6a231b32f8",
-          "title": "Content Management Consultant"
+          "title": "Content Management Consultant",
+          "phone": "+1-20-5555-5894"
         },
         "roles": [
           "viewer"
@@ -12733,7 +13171,8 @@
       "properties": {
         "department": "Content Management Consulting",
         "manager": "e89f603c-3707-49a1-92ad-dc6a231b32f8",
-        "title": "Content Management Consultant"
+        "title": "Content Management Consultant",
+        "phone": "+1-20-5555-1626"
       },
       "roles": [
         "user",
@@ -12747,7 +13186,8 @@
         "properties": {
           "department": "Content Management Consulting",
           "manager": "e89f603c-3707-49a1-92ad-dc6a231b32f8",
-          "title": "Content Management Consultant"
+          "title": "Content Management Consultant",
+          "phone": "+1-20-5555-1626"
         },
         "roles": [
           "viewer"
@@ -12791,7 +13231,8 @@
       "properties": {
         "department": "Content Management Consulting",
         "manager": "e89f603c-3707-49a1-92ad-dc6a231b32f8",
-        "title": "Content Management Consultant"
+        "title": "Content Management Consultant",
+        "phone": "+1-20-5555-7545"
       },
       "roles": [
         "user",
@@ -12805,7 +13246,8 @@
         "properties": {
           "department": "Content Management Consulting",
           "manager": "e89f603c-3707-49a1-92ad-dc6a231b32f8",
-          "title": "Content Management Consultant"
+          "title": "Content Management Consultant",
+          "phone": "+1-20-5555-7545"
         },
         "roles": [
           "viewer"
@@ -12849,7 +13291,8 @@
       "properties": {
         "department": "Content Management Consulting",
         "manager": "e89f603c-3707-49a1-92ad-dc6a231b32f8",
-        "title": "Content Management Consultant"
+        "title": "Content Management Consultant",
+        "phone": "+1-20-5555-4594"
       },
       "roles": [
         "user",
@@ -12863,7 +13306,8 @@
         "properties": {
           "department": "Content Management Consulting",
           "manager": "e89f603c-3707-49a1-92ad-dc6a231b32f8",
-          "title": "Content Management Consultant"
+          "title": "Content Management Consultant",
+          "phone": "+1-20-5555-4594"
         },
         "roles": [
           "viewer"
@@ -12907,7 +13351,8 @@
       "properties": {
         "department": "Content Management Consulting",
         "manager": "e89f603c-3707-49a1-92ad-dc6a231b32f8",
-        "title": "Content Management Consultant"
+        "title": "Content Management Consultant",
+        "phone": "+1-20-5555-7862"
       },
       "roles": [
         "user",
@@ -12921,7 +13366,8 @@
         "properties": {
           "department": "Content Management Consulting",
           "manager": "e89f603c-3707-49a1-92ad-dc6a231b32f8",
-          "title": "Content Management Consultant"
+          "title": "Content Management Consultant",
+          "phone": "+1-20-5555-7862"
         },
         "roles": [
           "viewer"
@@ -12965,7 +13411,8 @@
       "properties": {
         "department": "CRM Strategy",
         "manager": "907dbfd3-298a-4388-8dd9-707760dd3092",
-        "title": "CRM Consulting Manager"
+        "title": "CRM Consulting Manager",
+        "phone": "+1-20-5555-4595"
       },
       "roles": [
         "user",
@@ -12979,7 +13426,8 @@
         "properties": {
           "department": "CRM Strategy",
           "manager": "907dbfd3-298a-4388-8dd9-707760dd3092",
-          "title": "CRM Consulting Manager"
+          "title": "CRM Consulting Manager",
+          "phone": "+1-20-5555-4595"
         },
         "roles": [
           "viewer"
@@ -13023,7 +13471,8 @@
       "properties": {
         "department": "Project Management",
         "manager": "23072c6f-3814-4be2-b4f1-ea74a3df4e40",
-        "title": "Project Manager"
+        "title": "Project Manager",
+        "phone": "+1-206-555-9642"
       },
       "roles": [
         "user",
@@ -13037,7 +13486,8 @@
         "properties": {
           "department": "Project Management",
           "manager": "23072c6f-3814-4be2-b4f1-ea74a3df4e40",
-          "title": "Project Manager"
+          "title": "Project Manager",
+          "phone": "+1-206-555-9642"
         },
         "roles": [
           "viewer"
@@ -13081,7 +13531,8 @@
       "properties": {
         "department": "Operations",
         "manager": "c9b92bc2-af45-453d-a6cf-00ce57cbdc3d",
-        "title": "Manager"
+        "title": "Manager",
+        "phone": "+1-206-555-1242"
       },
       "roles": [
         "user",
@@ -13095,7 +13546,8 @@
         "properties": {
           "department": "Operations",
           "manager": "c9b92bc2-af45-453d-a6cf-00ce57cbdc3d",
-          "title": "Manager"
+          "title": "Manager",
+          "phone": "+1-206-555-1242"
         },
         "roles": [
           "admin"
@@ -13139,7 +13591,8 @@
       "properties": {
         "department": "Engineering Operations",
         "manager": "8b066919-9f6c-4e45-8afe-7be6ab97853c",
-        "title": "Strategy Consulting Manager"
+        "title": "Strategy Consulting Manager",
+        "phone": "+1-206-555-7223"
       },
       "roles": [
         "user",
@@ -13153,7 +13606,8 @@
         "properties": {
           "department": "Engineering Operations",
           "manager": "8b066919-9f6c-4e45-8afe-7be6ab97853c",
-          "title": "Strategy Consulting Manager"
+          "title": "Strategy Consulting Manager",
+          "phone": "+1-206-555-7223"
         },
         "roles": [
           "viewer"
@@ -13197,7 +13651,8 @@
       "properties": {
         "department": "Engineering Operations",
         "manager": "7846c22f-d3d8-4e02-8b62-d055d0284783",
-        "title": "Managing Director"
+        "title": "Managing Director",
+        "phone": "+1-206-555-4122"
       },
       "roles": [
         "user",
@@ -13211,7 +13666,8 @@
         "properties": {
           "department": "Engineering Operations",
           "manager": "7846c22f-d3d8-4e02-8b62-d055d0284783",
-          "title": "Managing Director"
+          "title": "Managing Director",
+          "phone": "+1-206-555-4122"
         },
         "roles": [
           "viewer"
@@ -13255,7 +13711,8 @@
       "properties": {
         "department": "Operations",
         "manager": "7846c22f-d3d8-4e02-8b62-d055d0284783",
-        "title": "Manager"
+        "title": "Manager",
+        "phone": "+1-206-555-8216"
       },
       "roles": [
         "user",
@@ -13269,7 +13726,8 @@
         "properties": {
           "department": "Operations",
           "manager": "7846c22f-d3d8-4e02-8b62-d055d0284783",
-          "title": "Manager"
+          "title": "Manager",
+          "phone": "+1-206-555-8216"
         },
         "roles": [
           "admin"
@@ -13313,7 +13771,8 @@
       "properties": {
         "department": "Strategy Consulting",
         "manager": "bfb3de68-ea0c-4087-a0c8-176f83b674e3",
-        "title": "Strategy Consulting Manager"
+        "title": "Strategy Consulting Manager",
+        "phone": "+1-212-555-1397"
       },
       "roles": [
         "user",
@@ -13327,7 +13786,8 @@
         "properties": {
           "department": "Strategy Consulting",
           "manager": "bfb3de68-ea0c-4087-a0c8-176f83b674e3",
-          "title": "Strategy Consulting Manager"
+          "title": "Strategy Consulting Manager",
+          "phone": "+1-212-555-1397"
         },
         "roles": [
           "viewer"
@@ -13371,7 +13831,8 @@
       "properties": {
         "department": "Project Management",
         "manager": "5ff9eed7-6b0d-4b20-bed5-b0b904191880",
-        "title": "Project Manager"
+        "title": "Project Manager",
+        "phone": "+1-206-555-8673"
       },
       "roles": [
         "user",
@@ -13385,7 +13846,8 @@
         "properties": {
           "department": "Project Management",
           "manager": "5ff9eed7-6b0d-4b20-bed5-b0b904191880",
-          "title": "Project Manager"
+          "title": "Project Manager",
+          "phone": "+1-206-555-8673"
         },
         "roles": [
           "viewer"
@@ -13429,7 +13891,8 @@
       "properties": {
         "department": "Sales Engagement Management",
         "manager": "1f666335-b35b-4db6-ad36-a8c93358c611",
-        "title": "Sales Manager"
+        "title": "Sales Manager",
+        "phone": "+1-701-555-3621"
       },
       "roles": [
         "user",
@@ -13443,7 +13906,8 @@
         "properties": {
           "department": "Sales Engagement Management",
           "manager": "1f666335-b35b-4db6-ad36-a8c93358c611",
-          "title": "Sales Manager"
+          "title": "Sales Manager",
+          "phone": "+1-701-555-3621"
         },
         "roles": [
           "viewer"
@@ -13487,7 +13951,8 @@
       "properties": {
         "department": "Sales",
         "manager": "5f35988c-afb1-4107-9b1a-935f91f3bf71",
-        "title": "Sales Manager"
+        "title": "Sales Manager",
+        "phone": "+1-206-555-9337"
       },
       "roles": [
         "user",
@@ -13501,7 +13966,8 @@
         "properties": {
           "department": "Sales",
           "manager": "5f35988c-afb1-4107-9b1a-935f91f3bf71",
-          "title": "Sales Manager"
+          "title": "Sales Manager",
+          "phone": "+1-206-555-9337"
         },
         "roles": [
           "viewer"
@@ -13545,7 +14011,8 @@
       "properties": {
         "department": "Operations",
         "manager": "7846c22f-d3d8-4e02-8b62-d055d0284783",
-        "title": "Procurement Manager"
+        "title": "Procurement Manager",
+        "phone": "+1-206-555-7436"
       },
       "roles": [
         "user",
@@ -13559,7 +14026,8 @@
         "properties": {
           "department": "Operations",
           "manager": "7846c22f-d3d8-4e02-8b62-d055d0284783",
-          "title": "Procurement Manager"
+          "title": "Procurement Manager",
+          "phone": "+1-206-555-7436"
         },
         "roles": [
           "admin"
@@ -13603,7 +14071,8 @@
       "properties": {
         "department": "Strategy Consulting",
         "manager": "f88a171c-b337-4c26-9c4b-824bb74a0729",
-        "title": "Strategy Consultant"
+        "title": "Strategy Consultant",
+        "phone": "+1-206-555-3965"
       },
       "roles": [
         "user",
@@ -13617,7 +14086,8 @@
         "properties": {
           "department": "Strategy Consulting",
           "manager": "f88a171c-b337-4c26-9c4b-824bb74a0729",
-          "title": "Strategy Consultant"
+          "title": "Strategy Consultant",
+          "phone": "+1-206-555-3965"
         },
         "roles": [
           "viewer"
@@ -13661,7 +14131,8 @@
       "properties": {
         "department": "Project Management",
         "manager": "5ff9eed7-6b0d-4b20-bed5-b0b904191880",
-        "title": "Senior Project Manager"
+        "title": "Senior Project Manager",
+        "phone": "+1-206-555-8148"
       },
       "roles": [
         "user",
@@ -13675,7 +14146,8 @@
         "properties": {
           "department": "Project Management",
           "manager": "5ff9eed7-6b0d-4b20-bed5-b0b904191880",
-          "title": "Senior Project Manager"
+          "title": "Senior Project Manager",
+          "phone": "+1-206-555-8148"
         },
         "roles": [
           "viewer"
@@ -13719,7 +14191,8 @@
       "properties": {
         "department": "Content Management Consulting",
         "manager": "5ff9eed7-6b0d-4b20-bed5-b0b904191880",
-        "title": "Content Management Consulting Manager"
+        "title": "Content Management Consulting Manager",
+        "phone": "+1-206-555-6169"
       },
       "roles": [
         "user",
@@ -13733,7 +14206,8 @@
         "properties": {
           "department": "Content Management Consulting",
           "manager": "5ff9eed7-6b0d-4b20-bed5-b0b904191880",
-          "title": "Content Management Consulting Manager"
+          "title": "Content Management Consulting Manager",
+          "phone": "+1-206-555-6169"
         },
         "roles": [
           "viewer"
@@ -13777,7 +14251,8 @@
       "properties": {
         "department": "Marketing",
         "manager": "7846c22f-d3d8-4e02-8b62-d055d0284783",
-        "title": "Marketing Manager"
+        "title": "Marketing Manager",
+        "phone": "+1-206-555-6511"
       },
       "roles": [
         "user",
@@ -13791,7 +14266,8 @@
         "properties": {
           "department": "Marketing",
           "manager": "7846c22f-d3d8-4e02-8b62-d055d0284783",
-          "title": "Marketing Manager"
+          "title": "Marketing Manager",
+          "phone": "+1-206-555-6511"
         },
         "roles": [
           "viewer"
@@ -13835,7 +14311,8 @@
       "properties": {
         "department": "Project Management",
         "manager": "5ff9eed7-6b0d-4b20-bed5-b0b904191880",
-        "title": "Senior Project Manager"
+        "title": "Senior Project Manager",
+        "phone": "+1-206-555-9977"
       },
       "roles": [
         "user",
@@ -13849,7 +14326,8 @@
         "properties": {
           "department": "Project Management",
           "manager": "5ff9eed7-6b0d-4b20-bed5-b0b904191880",
-          "title": "Senior Project Manager"
+          "title": "Senior Project Manager",
+          "phone": "+1-206-555-9977"
         },
         "roles": [
           "viewer"
@@ -13893,7 +14371,8 @@
       "properties": {
         "department": "Senior Management",
         "manager": "e644bedd-9b3a-4fa5-be62-f027f2e97dd5",
-        "title": "Sr. Business Development Manager"
+        "title": "Sr. Business Development Manager",
+        "phone": "+1-425-555-0184"
       },
       "roles": [
         "user",
@@ -13907,7 +14386,8 @@
         "properties": {
           "department": "Senior Management",
           "manager": "e644bedd-9b3a-4fa5-be62-f027f2e97dd5",
-          "title": "Sr. Business Development Manager"
+          "title": "Sr. Business Development Manager",
+          "phone": "+1-425-555-0184"
         },
         "roles": [
           "viewer"
@@ -13951,7 +14431,8 @@
       "properties": {
         "department": "Sales",
         "manager": "2a43d793-7367-4a3e-8c6e-5ec955a52038",
-        "title": "Regional Sales Manager"
+        "title": "Regional Sales Manager",
+        "phone": "+1-619-555-7772"
       },
       "roles": [
         "user",
@@ -13965,7 +14446,8 @@
         "properties": {
           "department": "Sales",
           "manager": "2a43d793-7367-4a3e-8c6e-5ec955a52038",
-          "title": "Regional Sales Manager"
+          "title": "Regional Sales Manager",
+          "phone": "+1-619-555-7772"
         },
         "roles": [
           "viewer"
@@ -14009,7 +14491,8 @@
       "properties": {
         "department": "Human Resources",
         "manager": "09636eb3-0cab-4051-9606-37c549330110",
-        "title": "HR Manager"
+        "title": "HR Manager",
+        "phone": "+1-206-555-1346"
       },
       "roles": [
         "user",
@@ -14023,7 +14506,8 @@
         "properties": {
           "department": "Human Resources",
           "manager": "09636eb3-0cab-4051-9606-37c549330110",
-          "title": "HR Manager"
+          "title": "HR Manager",
+          "phone": "+1-206-555-1346"
         },
         "roles": [
           "viewer"
@@ -14067,7 +14551,8 @@
       "properties": {
         "department": "Strategy Consulting",
         "manager": "bfb3de68-ea0c-4087-a0c8-176f83b674e3",
-        "title": "Strategy Consulting Manager"
+        "title": "Strategy Consulting Manager",
+        "phone": "+1-212-555-9758"
       },
       "roles": [
         "user",
@@ -14081,7 +14566,8 @@
         "properties": {
           "department": "Strategy Consulting",
           "manager": "bfb3de68-ea0c-4087-a0c8-176f83b674e3",
-          "title": "Strategy Consulting Manager"
+          "title": "Strategy Consulting Manager",
+          "phone": "+1-212-555-9758"
         },
         "roles": [
           "viewer"
@@ -14125,7 +14611,8 @@
       "properties": {
         "department": "Sales Engagement Management",
         "manager": "72bd066c-d0ac-4e94-af41-11bd70dd7d40",
-        "title": "Sales Manager"
+        "title": "Sales Manager",
+        "phone": "+1-214-555-3187"
       },
       "roles": [
         "user",
@@ -14139,7 +14626,8 @@
         "properties": {
           "department": "Sales Engagement Management",
           "manager": "72bd066c-d0ac-4e94-af41-11bd70dd7d40",
-          "title": "Sales Manager"
+          "title": "Sales Manager",
+          "phone": "+1-214-555-3187"
         },
         "roles": [
           "viewer"
@@ -14183,7 +14671,8 @@
       "properties": {
         "department": "Marketing",
         "manager": "e644bedd-9b3a-4fa5-be62-f027f2e97dd5",
-        "title": "Director of Ad Sales"
+        "title": "Director of Ad Sales",
+        "phone": "+1-425-555-0164"
       },
       "roles": [
         "user",
@@ -14197,7 +14686,8 @@
         "properties": {
           "department": "Marketing",
           "manager": "e644bedd-9b3a-4fa5-be62-f027f2e97dd5",
-          "title": "Director of Ad Sales"
+          "title": "Director of Ad Sales",
+          "phone": "+1-425-555-0164"
         },
         "roles": [
           "viewer"
@@ -14241,7 +14731,8 @@
       "properties": {
         "department": "Project Management",
         "manager": "5ff9eed7-6b0d-4b20-bed5-b0b904191880",
-        "title": "Senior Project Manager"
+        "title": "Senior Project Manager",
+        "phone": "+1-206-555-6345"
       },
       "roles": [
         "user",
@@ -14255,7 +14746,8 @@
         "properties": {
           "department": "Project Management",
           "manager": "5ff9eed7-6b0d-4b20-bed5-b0b904191880",
-          "title": "Senior Project Manager"
+          "title": "Senior Project Manager",
+          "phone": "+1-206-555-6345"
         },
         "roles": [
           "viewer"
@@ -14299,7 +14791,8 @@
       "properties": {
         "department": "Strategy Consulting",
         "manager": "bfb3de68-ea0c-4087-a0c8-176f83b674e3",
-        "title": "Strategy Consulting Manager"
+        "title": "Strategy Consulting Manager",
+        "phone": "+1-212-555-8335"
       },
       "roles": [
         "user",
@@ -14313,7 +14806,8 @@
         "properties": {
           "department": "Strategy Consulting",
           "manager": "bfb3de68-ea0c-4087-a0c8-176f83b674e3",
-          "title": "Strategy Consulting Manager"
+          "title": "Strategy Consulting Manager",
+          "phone": "+1-212-555-8335"
         },
         "roles": [
           "viewer"
@@ -14357,7 +14851,8 @@
       "properties": {
         "department": "Sales",
         "manager": "37b056d8-f63e-412b-b172-63d60d35ea56",
-        "title": "Sales Manager"
+        "title": "Sales Manager",
+        "phone": "+1-312-555-5454"
       },
       "roles": [
         "user",
@@ -14371,7 +14866,8 @@
         "properties": {
           "department": "Sales",
           "manager": "37b056d8-f63e-412b-b172-63d60d35ea56",
-          "title": "Sales Manager"
+          "title": "Sales Manager",
+          "phone": "+1-312-555-5454"
         },
         "roles": [
           "viewer"
@@ -14415,7 +14911,8 @@
       "properties": {
         "department": "Operations",
         "manager": "50c573a3-0619-4e1b-b433-401a333c7372",
-        "title": "IT Director"
+        "title": "IT Director",
+        "phone": "+1-206-555-3186"
       },
       "roles": [
         "user",
@@ -14429,7 +14926,8 @@
         "properties": {
           "department": "Operations",
           "manager": "50c573a3-0619-4e1b-b433-401a333c7372",
-          "title": "IT Director"
+          "title": "IT Director",
+          "phone": "+1-206-555-3186"
         },
         "roles": [
           "editor"
@@ -14473,7 +14971,8 @@
       "properties": {
         "department": "Sales",
         "manager": "2a43d793-7367-4a3e-8c6e-5ec955a52038",
-        "title": "Regional Sales Manager"
+        "title": "Regional Sales Manager",
+        "phone": "+1-914-555-7414"
       },
       "roles": [
         "user",
@@ -14487,7 +14986,8 @@
         "properties": {
           "department": "Sales",
           "manager": "2a43d793-7367-4a3e-8c6e-5ec955a52038",
-          "title": "Regional Sales Manager"
+          "title": "Regional Sales Manager",
+          "phone": "+1-914-555-7414"
         },
         "roles": [
           "viewer"
@@ -14531,7 +15031,8 @@
       "properties": {
         "department": "Senior Management",
         "manager": "d70e0bad-9aca-44c7-94cb-12bc7ca5f222",
-        "title": "GM of Online Ad Sales and Affiliate Marketing"
+        "title": "GM of Online Ad Sales and Affiliate Marketing",
+        "phone": "+1-425-555-0192"
       },
       "roles": [
         "user",
@@ -14545,7 +15046,8 @@
         "properties": {
           "department": "Senior Management",
           "manager": "d70e0bad-9aca-44c7-94cb-12bc7ca5f222",
-          "title": "GM of Online Ad Sales and Affiliate Marketing"
+          "title": "GM of Online Ad Sales and Affiliate Marketing",
+          "phone": "+1-425-555-0192"
         },
         "roles": [
           "viewer"
@@ -14589,7 +15091,8 @@
       "properties": {
         "department": "Operations",
         "manager": "7846c22f-d3d8-4e02-8b62-d055d0284783",
-        "title": "CTO of Professional Services"
+        "title": "CTO of Professional Services",
+        "phone": "+1-206-555-8936"
       },
       "roles": [
         "user",
@@ -14603,7 +15106,8 @@
         "properties": {
           "department": "Operations",
           "manager": "7846c22f-d3d8-4e02-8b62-d055d0284783",
-          "title": "CTO of Professional Services"
+          "title": "CTO of Professional Services",
+          "phone": "+1-206-555-8936"
         },
         "roles": [
           "editor"
@@ -14647,7 +15151,8 @@
       "properties": {
         "department": "Sales",
         "manager": "2a43d793-7367-4a3e-8c6e-5ec955a52038",
-        "title": "Regional Sales Manager"
+        "title": "Regional Sales Manager",
+        "phone": "+1-253-555-7934"
       },
       "roles": [
         "user",
@@ -14661,7 +15166,8 @@
         "properties": {
           "department": "Sales",
           "manager": "2a43d793-7367-4a3e-8c6e-5ec955a52038",
-          "title": "Regional Sales Manager"
+          "title": "Regional Sales Manager",
+          "phone": "+1-253-555-7934"
         },
         "roles": [
           "viewer"
@@ -14705,7 +15211,8 @@
       "properties": {
         "department": "Sales",
         "manager": "2a43d793-7367-4a3e-8c6e-5ec955a52038",
-        "title": "Regional Sales Manager"
+        "title": "Regional Sales Manager",
+        "phone": "+1-360-555-4638"
       },
       "roles": [
         "user",
@@ -14719,7 +15226,8 @@
         "properties": {
           "department": "Sales",
           "manager": "2a43d793-7367-4a3e-8c6e-5ec955a52038",
-          "title": "Regional Sales Manager"
+          "title": "Regional Sales Manager",
+          "phone": "+1-360-555-4638"
         },
         "roles": [
           "viewer"
@@ -14763,7 +15271,8 @@
       "properties": {
         "department": "Senior Management",
         "manager": "99612e2d-ea29-44ed-bc7e-bd17d5fd84a7",
-        "title": "SVP of Online Services"
+        "title": "SVP of Online Services",
+        "phone": "+1-425-555-0172"
       },
       "roles": [
         "user",
@@ -14777,7 +15286,8 @@
         "properties": {
           "department": "Senior Management",
           "manager": "99612e2d-ea29-44ed-bc7e-bd17d5fd84a7",
-          "title": "SVP of Online Services"
+          "title": "SVP of Online Services",
+          "phone": "+1-425-555-0172"
         },
         "roles": [
           "viewer"
@@ -14821,7 +15331,8 @@
       "properties": {
         "department": "Sales Engagement Management",
         "manager": "9476eed7-4e97-4378-b0be-0d8ca07906fd",
-        "title": "Sales Manager"
+        "title": "Sales Manager",
+        "phone": "+1-206-555-1123"
       },
       "roles": [
         "user",
@@ -14835,7 +15346,8 @@
         "properties": {
           "department": "Sales Engagement Management",
           "manager": "9476eed7-4e97-4378-b0be-0d8ca07906fd",
-          "title": "Sales Manager"
+          "title": "Sales Manager",
+          "phone": "+1-206-555-1123"
         },
         "roles": [
           "viewer"
@@ -14879,7 +15391,8 @@
       "properties": {
         "department": "Sales",
         "manager": "2a43d793-7367-4a3e-8c6e-5ec955a52038",
-        "title": "Regional Sales Manager"
+        "title": "Regional Sales Manager",
+        "phone": "+1-804-555-2217"
       },
       "roles": [
         "user",
@@ -14893,7 +15406,8 @@
         "properties": {
           "department": "Sales",
           "manager": "2a43d793-7367-4a3e-8c6e-5ec955a52038",
-          "title": "Regional Sales Manager"
+          "title": "Regional Sales Manager",
+          "phone": "+1-804-555-2217"
         },
         "roles": [
           "viewer"
@@ -14937,7 +15451,8 @@
       "properties": {
         "department": "Strategy Consulting",
         "manager": "bfb3de68-ea0c-4087-a0c8-176f83b674e3",
-        "title": "Strategy Consulting Manager"
+        "title": "Strategy Consulting Manager",
+        "phone": "+1-212-555-2867"
       },
       "roles": [
         "user",
@@ -14951,7 +15466,8 @@
         "properties": {
           "department": "Strategy Consulting",
           "manager": "bfb3de68-ea0c-4087-a0c8-176f83b674e3",
-          "title": "Strategy Consulting Manager"
+          "title": "Strategy Consulting Manager",
+          "phone": "+1-212-555-2867"
         },
         "roles": [
           "viewer"
@@ -14995,7 +15511,8 @@
       "properties": {
         "department": "Sales Engagement Management",
         "manager": "242f6e15-e469-4e42-9510-0483f6d019c9",
-        "title": "Managing Director"
+        "title": "Managing Director",
+        "phone": "+1-206-555-4676"
       },
       "roles": [
         "user",
@@ -15009,7 +15526,8 @@
         "properties": {
           "department": "Sales Engagement Management",
           "manager": "242f6e15-e469-4e42-9510-0483f6d019c9",
-          "title": "Managing Director"
+          "title": "Managing Director",
+          "phone": "+1-206-555-4676"
         },
         "roles": [
           "viewer"
@@ -15053,7 +15571,8 @@
       "properties": {
         "department": "Executive",
         "manager": "0b23837b-8fdb-4edf-a50b-325ed0625086",
-        "title": "CVP of Online"
+        "title": "CVP of Online",
+        "phone": "+1-425-555-0177"
       },
       "roles": [
         "user",
@@ -15067,7 +15586,8 @@
         "properties": {
           "department": "Executive",
           "manager": "0b23837b-8fdb-4edf-a50b-325ed0625086",
-          "title": "CVP of Online"
+          "title": "CVP of Online",
+          "phone": "+1-425-555-0177"
         },
         "roles": [
           "viewer"
@@ -15111,7 +15631,8 @@
       "properties": {
         "department": "Strategy Consulting",
         "manager": "bfb3de68-ea0c-4087-a0c8-176f83b674e3",
-        "title": "Strategy Consulting Manager"
+        "title": "Strategy Consulting Manager",
+        "phone": "+1-212-555-4178"
       },
       "roles": [
         "user",
@@ -15125,7 +15646,8 @@
         "properties": {
           "department": "Strategy Consulting",
           "manager": "bfb3de68-ea0c-4087-a0c8-176f83b674e3",
-          "title": "Strategy Consulting Manager"
+          "title": "Strategy Consulting Manager",
+          "phone": "+1-212-555-4178"
         },
         "roles": [
           "viewer"
@@ -15169,7 +15691,8 @@
       "properties": {
         "department": "Human Resources",
         "manager": "7db937b4-a31a-448f-bc54-7b871e609506",
-        "title": "HR Manager"
+        "title": "HR Manager",
+        "phone": "+1-206-555-8258"
       },
       "roles": [
         "user",
@@ -15183,7 +15706,8 @@
         "properties": {
           "department": "Human Resources",
           "manager": "7db937b4-a31a-448f-bc54-7b871e609506",
-          "title": "HR Manager"
+          "title": "HR Manager",
+          "phone": "+1-206-555-8258"
         },
         "roles": [
           "viewer"
@@ -15227,7 +15751,8 @@
       "properties": {
         "department": "Executive",
         "manager": "8724dd1b-c401-4487-9ea8-4c224ef67710",
-        "title": "CVP of Operations"
+        "title": "CVP of Operations",
+        "phone": "+1-425-555-0187"
       },
       "roles": [
         "user",
@@ -15241,7 +15766,8 @@
         "properties": {
           "department": "Executive",
           "manager": "8724dd1b-c401-4487-9ea8-4c224ef67710",
-          "title": "CVP of Operations"
+          "title": "CVP of Operations",
+          "phone": "+1-425-555-0187"
         },
         "roles": [
           "viewer"
@@ -15285,7 +15811,8 @@
       "properties": {
         "department": "Sales",
         "manager": "7846c22f-d3d8-4e02-8b62-d055d0284783",
-        "title": "Vice President NA Sales"
+        "title": "Vice President NA Sales",
+        "phone": "+1-713-555-6563"
       },
       "roles": [
         "user",
@@ -15299,7 +15826,8 @@
         "properties": {
           "department": "Sales",
           "manager": "7846c22f-d3d8-4e02-8b62-d055d0284783",
-          "title": "Vice President NA Sales"
+          "title": "Vice President NA Sales",
+          "phone": "+1-713-555-6563"
         },
         "roles": [
           "viewer"
@@ -15343,7 +15871,8 @@
       "properties": {
         "department": "Accounting",
         "manager": "f04f136b-df92-46bf-a161-f2990a823694",
-        "title": "Controller"
+        "title": "Controller",
+        "phone": "+1-206-555-4156"
       },
       "roles": [
         "user",
@@ -15357,7 +15886,8 @@
         "properties": {
           "department": "Accounting",
           "manager": "f04f136b-df92-46bf-a161-f2990a823694",
-          "title": "Controller"
+          "title": "Controller",
+          "phone": "+1-206-555-4156"
         },
         "roles": [
           "viewer"
@@ -15401,7 +15931,8 @@
       "properties": {
         "department": "Executive",
         "manager": "b7de08a6-8417-491b-be62-85945a538f46",
-        "title": "COO"
+        "title": "COO",
+        "phone": "+1-425-555-0121"
       },
       "roles": [
         "user",
@@ -15415,7 +15946,8 @@
         "properties": {
           "department": "Executive",
           "manager": "b7de08a6-8417-491b-be62-85945a538f46",
-          "title": "COO"
+          "title": "COO",
+          "phone": "+1-425-555-0121"
         },
         "roles": [
           "viewer"
@@ -15459,7 +15991,8 @@
       "properties": {
         "department": "Engineering",
         "manager": "7846c22f-d3d8-4e02-8b62-d055d0284783",
-        "title": "Managing Director"
+        "title": "Managing Director",
+        "phone": "+1-206-555-2987"
       },
       "roles": [
         "user",
@@ -15473,7 +16006,8 @@
         "properties": {
           "department": "Engineering",
           "manager": "7846c22f-d3d8-4e02-8b62-d055d0284783",
-          "title": "Managing Director"
+          "title": "Managing Director",
+          "phone": "+1-206-555-2987"
         },
         "roles": [
           "viewer"
@@ -15517,7 +16051,8 @@
       "properties": {
         "department": "Operations",
         "manager": "7846c22f-d3d8-4e02-8b62-d055d0284783",
-        "title": "CFO of Professional Services"
+        "title": "CFO of Professional Services",
+        "phone": "+1-206-555-9327"
       },
       "roles": [
         "user",
@@ -15531,7 +16066,8 @@
         "properties": {
           "department": "Operations",
           "manager": "7846c22f-d3d8-4e02-8b62-d055d0284783",
-          "title": "CFO of Professional Services"
+          "title": "CFO of Professional Services",
+          "phone": "+1-206-555-9327"
         },
         "roles": [
           "editor"
@@ -15575,7 +16111,8 @@
       "properties": {
         "department": "Project Management",
         "manager": "5ff9eed7-6b0d-4b20-bed5-b0b904191880",
-        "title": "Project Manager"
+        "title": "Project Manager",
+        "phone": "+1-206-555-1931"
       },
       "roles": [
         "user",
@@ -15589,7 +16126,8 @@
         "properties": {
           "department": "Project Management",
           "manager": "5ff9eed7-6b0d-4b20-bed5-b0b904191880",
-          "title": "Project Manager"
+          "title": "Project Manager",
+          "phone": "+1-206-555-1931"
         },
         "roles": [
           "viewer"
@@ -15633,7 +16171,8 @@
       "properties": {
         "department": "Project Management",
         "manager": "7846c22f-d3d8-4e02-8b62-d055d0284783",
-        "title": "Director of Project Management Team"
+        "title": "Director of Project Management Team",
+        "phone": "+1-206-555-2443"
       },
       "roles": [
         "user",
@@ -15647,7 +16186,8 @@
         "properties": {
           "department": "Project Management",
           "manager": "7846c22f-d3d8-4e02-8b62-d055d0284783",
-          "title": "Director of Project Management Team"
+          "title": "Director of Project Management Team",
+          "phone": "+1-206-555-2443"
         },
         "roles": [
           "viewer"
@@ -15691,7 +16231,8 @@
       "properties": {
         "department": "Operations",
         "manager": "b7de08a6-8417-491b-be62-85945a538f46",
-        "title": "General Manager of Professional Services"
+        "title": "General Manager of Professional Services",
+        "phone": "+1-206-555-5472"
       },
       "roles": [
         "user",
@@ -15705,7 +16246,8 @@
         "properties": {
           "department": "Operations",
           "manager": "b7de08a6-8417-491b-be62-85945a538f46",
-          "title": "General Manager of Professional Services"
+          "title": "General Manager of Professional Services",
+          "phone": "+1-206-555-5472"
         },
         "roles": [
           "admin"
@@ -15749,7 +16291,8 @@
       "properties": {
         "department": "Executive",
         "manager": "",
-        "title": "CEO"
+        "title": "CEO",
+        "phone": "+1-425-555-0179"
       },
       "roles": [
         "user",
@@ -15763,7 +16306,8 @@
         "properties": {
           "department": "Executive",
           "manager": "",
-          "title": "CEO"
+          "title": "CEO",
+          "phone": "+1-425-555-0179"
         },
         "roles": [
           "viewer"

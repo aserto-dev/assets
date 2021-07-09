@@ -41,7 +41,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Sales Engagement Management",
+          "manager": "2bfaa552-d9a5-41e9-a6c3-5be62b4433c8",
+          "title": "Salesperson",
+          "phone": "+1-804-555-3383"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:47:52.307Z",
       "updated_at": "2021-02-11T21:39:38.009Z"
@@ -89,7 +101,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Sales Engagement Management",
+          "manager": "2bfaa552-d9a5-41e9-a6c3-5be62b4433c8",
+          "title": "Salesperson",
+          "phone": "+1-206-555-9004"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:49:16.254Z",
       "updated_at": "2020-12-23T00:49:16.254Z"
@@ -137,7 +161,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Engineering Operations",
+          "manager": "33d6a6a2-3615-4f0c-aa26-c15016432a24",
+          "title": "Senior Engineer",
+          "phone": "+1-206-555-9003"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:49:15.877Z",
       "updated_at": "2020-12-23T00:49:15.877Z"
@@ -185,7 +221,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Accounting",
+          "manager": "7db937b4-a31a-448f-bc54-7b871e609506",
+          "title": "Accountant",
+          "phone": "+1-206-555-9002"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:49:09.343Z",
       "updated_at": "2020-12-23T00:49:09.343Z"
@@ -233,7 +281,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Operations",
+          "manager": "a528dc1d-0042-484d-81cb-dc58c95d8147",
+          "title": "IT Manager",
+          "phone": "+1-206-555-9001"
+        },
+        "roles": [
+          "admin"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:49:08.983Z",
       "updated_at": "2020-12-23T00:49:08.983Z"
@@ -281,7 +341,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Marketing",
+          "manager": "7139b430-f5e4-4dc2-8b1f-1921b54f42a5",
+          "title": "Marketing Specialist",
+          "phone": "+1-206-555-9000"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:49:08.622Z",
       "updated_at": "2020-12-23T00:49:08.622Z"
@@ -329,7 +401,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Sales",
+          "manager": "309409a4-150e-44e3-93c5-f08458b243ee",
+          "title": "Salesperson",
+          "phone": "+1-026-555-8454"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:49:08.250Z",
       "updated_at": "2020-12-23T00:49:08.250Z"
@@ -377,7 +461,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Marketing",
+          "manager": "7139b430-f5e4-4dc2-8b1f-1921b54f42a5",
+          "title": "Marketing Specialist",
+          "phone": "+1-206-555-6811"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:49:07.884Z",
       "updated_at": "2020-12-23T00:49:07.884Z"
@@ -425,7 +521,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Sales",
+          "manager": "2bfaa552-d9a5-41e9-a6c3-5be62b4433c8",
+          "title": "Salesperson",
+          "phone": "+1-860-555-4516"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:49:07.520Z",
       "updated_at": "2020-12-23T00:49:07.520Z"
@@ -473,7 +581,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Marketing",
+          "manager": "7139b430-f5e4-4dc2-8b1f-1921b54f42a5",
+          "title": "Marketing Specialist",
+          "phone": "+1-206-555-1214"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:49:06.935Z",
       "updated_at": "2020-12-23T00:49:06.935Z"
@@ -521,7 +641,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Sales",
+          "manager": "4d339518-1c4e-46dd-8024-829f555b1562",
+          "title": "Salesperson",
+          "phone": "+1-404-555-2693"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:49:06.537Z",
       "updated_at": "2020-12-23T00:49:06.537Z"
@@ -569,7 +701,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Sales",
+          "manager": "2bfaa552-d9a5-41e9-a6c3-5be62b4433c8",
+          "title": "Salesperson",
+          "phone": "+1-617-555-2429"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:48:59.791Z",
       "updated_at": "2020-12-23T00:48:59.791Z"
@@ -617,7 +761,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Sales",
+          "manager": "309409a4-150e-44e3-93c5-f08458b243ee",
+          "title": "Salesperson",
+          "phone": "+1-312-555-9181"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:48:59.403Z",
       "updated_at": "2020-12-23T00:48:59.403Z"
@@ -665,7 +821,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Operations",
+          "manager": "b1bb9fc3-dcb0-4328-8d91-6d88ee78bc2d",
+          "title": "Procurement Manager",
+          "phone": "+1-206-555-4515"
+        },
+        "roles": [
+          "admin"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:48:58.997Z",
       "updated_at": "2020-12-23T00:48:58.997Z"
@@ -713,7 +881,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Sales",
+          "manager": "7e28daa4-228f-46fc-b8f1-f35d7e4ed03e",
+          "title": "Salesperson",
+          "phone": "+1-91-555-8595"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:48:58.418Z",
       "updated_at": "2020-12-23T00:48:58.418Z"
@@ -761,7 +941,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Operations",
+          "manager": "a528dc1d-0042-484d-81cb-dc58c95d8147",
+          "title": "IT Manager",
+          "phone": "+1-206-555-3325"
+        },
+        "roles": [
+          "admin"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:48:58.039Z",
       "updated_at": "2020-12-23T00:48:58.039Z"
@@ -809,7 +1001,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Marketing",
+          "manager": "7139b430-f5e4-4dc2-8b1f-1921b54f42a5",
+          "title": "Marketing Specialist",
+          "phone": "+1-206-555-8951"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:48:57.624Z",
       "updated_at": "2020-12-23T00:48:57.624Z"
@@ -857,7 +1061,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Marketing",
+          "manager": "7139b430-f5e4-4dc2-8b1f-1921b54f42a5",
+          "title": "Marketing Specialist",
+          "phone": "+1-206-555-2312"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:48:56.813Z",
       "updated_at": "2020-12-23T00:48:56.813Z"
@@ -905,7 +1121,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Marketing",
+          "manager": "7139b430-f5e4-4dc2-8b1f-1921b54f42a5",
+          "title": "Marketing Specialist",
+          "phone": "+1-206-555-8834"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:48:56.444Z",
       "updated_at": "2020-12-23T00:48:56.444Z"
@@ -953,7 +1181,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Sales",
+          "manager": "6a11df26-6b53-4baf-b3c8-25add379d21f",
+          "title": "Salesperson",
+          "phone": "+1-206-555-3654"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:48:55.989Z",
       "updated_at": "2020-12-23T00:48:55.989Z"
@@ -1001,7 +1241,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Sales",
+          "manager": "6a11df26-6b53-4baf-b3c8-25add379d21f",
+          "title": "Salesperson",
+          "phone": "+1-108-5-7862"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:48:49.467Z",
       "updated_at": "2020-12-23T00:48:49.467Z"
@@ -1049,7 +1301,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Marketing",
+          "manager": "7139b430-f5e4-4dc2-8b1f-1921b54f42a5",
+          "title": "Public Relations Specialist",
+          "phone": "+1-206-555-2416"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:48:48.891Z",
       "updated_at": "2020-12-23T00:48:48.891Z"
@@ -1097,7 +1361,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Sales",
+          "manager": "309409a4-150e-44e3-93c5-f08458b243ee",
+          "title": "Salesperson",
+          "phone": "+1-413-555-3855"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:48:48.496Z",
       "updated_at": "2020-12-23T00:48:48.496Z"
@@ -1145,7 +1421,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Operations",
+          "manager": "a528dc1d-0042-484d-81cb-dc58c95d8147",
+          "title": "IT Manager",
+          "phone": "+1-206-555-9541"
+        },
+        "roles": [
+          "admin"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:48:48.105Z",
       "updated_at": "2020-12-23T00:48:48.105Z"
@@ -1193,7 +1481,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Operations",
+          "manager": "a528dc1d-0042-484d-81cb-dc58c95d8147",
+          "title": "IT Manager",
+          "phone": "+1-206-555-7455"
+        },
+        "roles": [
+          "admin"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:48:47.728Z",
       "updated_at": "2020-12-23T00:48:47.728Z"
@@ -1241,7 +1541,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Operations",
+          "manager": "a528dc1d-0042-484d-81cb-dc58c95d8147",
+          "title": "IT Manager",
+          "phone": "+1-206-555-5567"
+        },
+        "roles": [
+          "admin"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:48:47.395Z",
       "updated_at": "2020-12-23T00:48:47.395Z"
@@ -1289,7 +1601,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Operations",
+          "manager": "c9b92bc2-af45-453d-a6cf-00ce57cbdc3d",
+          "title": "Manager",
+          "phone": "+1-206-555-5934"
+        },
+        "roles": [
+          "admin"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:48:47.038Z",
       "updated_at": "2020-12-23T00:48:47.038Z"
@@ -1337,7 +1661,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Operations",
+          "manager": "c9b92bc2-af45-453d-a6cf-00ce57cbdc3d",
+          "title": "Manager",
+          "phone": "+1-206-555-1298"
+        },
+        "roles": [
+          "admin"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:48:46.655Z",
       "updated_at": "2020-12-23T00:48:46.655Z"
@@ -1385,7 +1721,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Operations",
+          "manager": "c9b92bc2-af45-453d-a6cf-00ce57cbdc3d",
+          "title": "Manager",
+          "phone": "+1-206-555-9867"
+        },
+        "roles": [
+          "admin"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:48:39.973Z",
       "updated_at": "2020-12-23T00:48:39.973Z"
@@ -1433,7 +1781,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Operations",
+          "manager": "a29140f9-13c6-4849-9890-0687072dece8",
+          "title": "Manager",
+          "phone": "+1-206-555-7649"
+        },
+        "roles": [
+          "admin"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:48:39.651Z",
       "updated_at": "2020-12-23T00:48:39.651Z"
@@ -1481,7 +1841,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Operations",
+          "manager": "a29140f9-13c6-4849-9890-0687072dece8",
+          "title": "Manager",
+          "phone": "+1-206-555-1393"
+        },
+        "roles": [
+          "admin"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:48:39.286Z",
       "updated_at": "2020-12-23T00:48:39.286Z"
@@ -1529,7 +1901,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Operations",
+          "manager": "a29140f9-13c6-4849-9890-0687072dece8",
+          "title": "Manager",
+          "phone": "+1-206-555-7698"
+        },
+        "roles": [
+          "admin"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:48:38.872Z",
       "updated_at": "2020-12-23T00:48:38.873Z"
@@ -1577,7 +1961,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Operations",
+          "manager": "a29140f9-13c6-4849-9890-0687072dece8",
+          "title": "Manager",
+          "phone": "+1-206-555-3556"
+        },
+        "roles": [
+          "admin"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:48:38.251Z",
       "updated_at": "2020-12-23T00:48:38.251Z"
@@ -1625,7 +2021,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Engineering Operations",
+          "manager": "33d6a6a2-3615-4f0c-aa26-c15016432a24",
+          "title": "Engineer",
+          "phone": "+1-206-555-8835"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:48:37.875Z",
       "updated_at": "2020-12-23T00:48:37.875Z"
@@ -1673,7 +2081,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Marketing",
+          "manager": "7139b430-f5e4-4dc2-8b1f-1921b54f42a5",
+          "title": "Marketing Specialist",
+          "phone": "+1-206-555-9269"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:48:37.487Z",
       "updated_at": "2020-12-23T00:48:37.487Z"
@@ -1721,7 +2141,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Strategy Consulting",
+          "manager": "6884a642-9966-442a-ac80-6dfed9442a5b",
+          "title": "Strategy Consultant",
+          "phone": "+1-206-555-9538"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:48:37.121Z",
       "updated_at": "2020-12-23T00:48:37.121Z"
@@ -1769,7 +2201,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Engineering Operations",
+          "manager": "33d6a6a2-3615-4f0c-aa26-c15016432a24",
+          "title": "Engineer",
+          "phone": "+1-206-555-6132"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:48:30.587Z",
       "updated_at": "2020-12-23T00:48:30.587Z"
@@ -1817,7 +2261,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Engineering Operations",
+          "manager": "33d6a6a2-3615-4f0c-aa26-c15016432a24",
+          "title": "Engineer",
+          "phone": "+1-206-555-7444"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:48:29.978Z",
       "updated_at": "2020-12-23T00:48:29.978Z"
@@ -1865,7 +2321,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Engineering Operations",
+          "manager": "33d6a6a2-3615-4f0c-aa26-c15016432a24",
+          "title": "Engineer",
+          "phone": "+1-206-555-1211"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:48:29.611Z",
       "updated_at": "2020-12-23T00:48:29.611Z"
@@ -1913,7 +2381,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Engineering Operations",
+          "manager": "33d6a6a2-3615-4f0c-aa26-c15016432a24",
+          "title": "Senior Engineer",
+          "phone": "+1-206-555-9244"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:48:29.021Z",
       "updated_at": "2020-12-23T00:48:29.021Z"
@@ -1961,7 +2441,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Engineering Operations",
+          "manager": "33d6a6a2-3615-4f0c-aa26-c15016432a24",
+          "title": "Senior Engineer",
+          "phone": "+1-206-555-2732"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:48:28.658Z",
       "updated_at": "2020-12-23T00:48:28.658Z"
@@ -2009,7 +2501,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Engineering Operations",
+          "manager": "33d6a6a2-3615-4f0c-aa26-c15016432a24",
+          "title": "Senior Engineer",
+          "phone": "+1-206-555-9351"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:48:28.256Z",
       "updated_at": "2020-12-23T00:48:28.256Z"
@@ -2057,7 +2561,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Engineering Operations",
+          "manager": "33d6a6a2-3615-4f0c-aa26-c15016432a24",
+          "title": "Senior Engineer",
+          "phone": "+1-206-555-2318"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:48:27.904Z",
       "updated_at": "2020-12-23T00:48:27.904Z"
@@ -2105,7 +2621,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Engineering Operations",
+          "manager": "33d6a6a2-3615-4f0c-aa26-c15016432a24",
+          "title": "Senior Engineer",
+          "phone": "+1-206-555-5651"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:48:27.490Z",
       "updated_at": "2020-12-23T00:48:27.490Z"
@@ -2153,7 +2681,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Engineering Operations",
+          "manager": "33d6a6a2-3615-4f0c-aa26-c15016432a24",
+          "title": "Senior Engineer",
+          "phone": "+1-206-555-6941"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:48:20.979Z",
       "updated_at": "2020-12-23T00:48:20.979Z"
@@ -2201,7 +2741,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Sales",
+          "manager": "7e28daa4-228f-46fc-b8f1-f35d7e4ed03e",
+          "title": "Salesperson",
+          "phone": "+1-206-555-1785"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:48:20.547Z",
       "updated_at": "2020-12-23T00:48:20.547Z"
@@ -2249,7 +2801,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Sales",
+          "manager": "4d339518-1c4e-46dd-8024-829f555b1562",
+          "title": "Salesperson",
+          "phone": "+1-714-555-4825"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:48:20.197Z",
       "updated_at": "2020-12-23T00:48:20.197Z"
@@ -2297,7 +2861,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Sales",
+          "manager": "2bfaa552-d9a5-41e9-a6c3-5be62b4433c8",
+          "title": "Salesperson",
+          "phone": "+1-206-555-1422"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:48:19.841Z",
       "updated_at": "2020-12-23T00:48:19.841Z"
@@ -2345,7 +2921,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Sales",
+          "manager": "7e28daa4-228f-46fc-b8f1-f35d7e4ed03e",
+          "title": "Salesperson",
+          "phone": "+1-2555-4845"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:48:19.402Z",
       "updated_at": "2020-12-23T00:48:19.402Z"
@@ -2393,7 +2981,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Sales",
+          "manager": "6a11df26-6b53-4baf-b3c8-25add379d21f",
+          "title": "Salesperson",
+          "phone": "+1-509-555-3766"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:48:19.020Z",
       "updated_at": "2020-12-23T00:48:19.020Z"
@@ -2441,7 +3041,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Sales",
+          "manager": "4d339518-1c4e-46dd-8024-829f555b1562",
+          "title": "Salesperson",
+          "phone": "+1-201-555-8474"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:48:18.646Z",
       "updated_at": "2020-12-23T00:48:18.646Z"
@@ -2489,7 +3101,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Human Resources",
+          "manager": "d24e5009-dcf1-4d20-9aa3-874a83283cf0",
+          "title": "HR Specialist",
+          "phone": "+1-206-555-1437"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:48:18.190Z",
       "updated_at": "2020-12-23T00:48:18.190Z"
@@ -2537,7 +3161,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Senior Management",
+          "manager": "81066423-effe-4a10-aa35-4aa10ae0510c",
+          "title": "Sr. Account Manager",
+          "phone": "+1-425-555-0174"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:48:11.653Z",
       "updated_at": "2020-12-23T00:48:11.653Z"
@@ -2585,7 +3221,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Sales",
+          "manager": "7e28daa4-228f-46fc-b8f1-f35d7e4ed03e",
+          "title": "Salesperson",
+          "phone": "+1-541-555-2668"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:48:11.287Z",
       "updated_at": "2020-12-23T00:48:11.287Z"
@@ -2633,7 +3281,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Sales",
+          "manager": "4d339518-1c4e-46dd-8024-829f555b1562",
+          "title": "Salesperson",
+          "phone": "+1-213-555-3269"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:48:10.928Z",
       "updated_at": "2020-12-23T00:48:10.928Z"
@@ -2681,7 +3341,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Sales",
+          "manager": "2bfaa552-d9a5-41e9-a6c3-5be62b4433c8",
+          "title": "Salesperson",
+          "phone": "+1-850-555-5277"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:48:10.433Z",
       "updated_at": "2020-12-23T00:48:10.433Z"
@@ -2729,7 +3401,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Sales",
+          "manager": "4d339518-1c4e-46dd-8024-829f555b1562",
+          "title": "Salesperson",
+          "phone": "+1-214-555-1812"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:48:10.013Z",
       "updated_at": "2020-12-23T00:48:10.013Z"
@@ -2777,7 +3461,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Sales",
+          "manager": "6a11df26-6b53-4baf-b3c8-25add379d21f",
+          "title": "Salesperson",
+          "phone": "+1-607-555-6337"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:48:09.650Z",
       "updated_at": "2020-12-23T00:48:09.650Z"
@@ -2825,7 +3521,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Sales",
+          "manager": "6a11df26-6b53-4baf-b3c8-25add379d21f",
+          "title": "Salesperson",
+          "phone": "+1-607-555-4568"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:48:09.246Z",
       "updated_at": "2020-12-23T00:48:09.246Z"
@@ -2873,7 +3581,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Sales",
+          "manager": "7e28daa4-228f-46fc-b8f1-f35d7e4ed03e",
+          "title": "Salesperson",
+          "phone": "+1-212-555-2538"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:48:08.860Z",
       "updated_at": "2020-12-23T00:48:08.860Z"
@@ -2921,7 +3641,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Sales",
+          "manager": "2bfaa552-d9a5-41e9-a6c3-5be62b4433c8",
+          "title": "Salesperson",
+          "phone": "+1-425-555-9296"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:48:02.341Z",
       "updated_at": "2020-12-23T00:48:02.341Z"
@@ -2969,7 +3701,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Operations",
+          "manager": "b1bb9fc3-dcb0-4328-8d91-6d88ee78bc2d",
+          "title": "Procurement Manager",
+          "phone": "+1-206-555-4932"
+        },
+        "roles": [
+          "admin"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:48:01.966Z",
       "updated_at": "2020-12-23T00:48:01.966Z"
@@ -3017,7 +3761,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Sales",
+          "manager": "309409a4-150e-44e3-93c5-f08458b243ee",
+          "title": "Salesperson",
+          "phone": "+1-206-555-4629"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:48:01.581Z",
       "updated_at": "2020-12-23T00:48:01.581Z"
@@ -3065,7 +3821,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Sales Engagement Management",
+          "manager": "6a11df26-6b53-4baf-b3c8-25add379d21f",
+          "title": "Salesperson",
+          "phone": "+1-214-555-4151"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:48:01.199Z",
       "updated_at": "2020-12-23T00:48:01.199Z"
@@ -3113,7 +3881,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Operations",
+          "manager": "a29140f9-13c6-4849-9890-0687072dece8",
+          "title": "Manager",
+          "phone": "+1-206-555-4542"
+        },
+        "roles": [
+          "admin"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:48:00.759Z",
       "updated_at": "2020-12-23T00:48:00.759Z"
@@ -3161,7 +3941,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Project Management",
+          "manager": "acacc661-f71d-490a-9cb8-0b7bdfe7c669",
+          "title": "Project Manager",
+          "phone": "+1-206-555-3164"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:48:00.375Z",
       "updated_at": "2020-12-23T00:48:00.375Z"
@@ -3209,7 +4001,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Operations",
+          "manager": "a528dc1d-0042-484d-81cb-dc58c95d8147",
+          "title": "IT Manager",
+          "phone": "+1-206-555-1739"
+        },
+        "roles": [
+          "admin"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:47:59.987Z",
       "updated_at": "2020-12-23T00:47:59.987Z"
@@ -3257,7 +4061,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Sales",
+          "manager": "7e28daa4-228f-46fc-b8f1-f35d7e4ed03e",
+          "title": "Salesperson",
+          "phone": "+1-410-555-3839"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:47:53.433Z",
       "updated_at": "2020-12-23T00:47:53.433Z"
@@ -3305,7 +4121,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Sales",
+          "manager": "7e28daa4-228f-46fc-b8f1-f35d7e4ed03e",
+          "title": "Salesperson",
+          "phone": "+1-201-555-5625"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:47:53.054Z",
       "updated_at": "2020-12-23T00:47:53.054Z"
@@ -3353,7 +4181,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Sales",
+          "manager": "7e28daa4-228f-46fc-b8f1-f35d7e4ed03e",
+          "title": "Salesperson",
+          "phone": "+1-213-555-1265"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:47:52.685Z",
       "updated_at": "2020-12-23T00:47:52.685Z"
@@ -3401,7 +4241,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Sales Engagement Management",
+          "manager": "2bfaa552-d9a5-41e9-a6c3-5be62b4433c8",
+          "title": "Salesperson",
+          "phone": "+1-804-555-3648"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:47:51.959Z",
       "updated_at": "2020-12-23T00:47:51.959Z"
@@ -3449,7 +4301,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Sales Engagement Management",
+          "manager": "2bfaa552-d9a5-41e9-a6c3-5be62b4433c8",
+          "title": "Salesperson",
+          "phone": "+1-804-555-5958"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:47:51.605Z",
       "updated_at": "2020-12-23T00:47:51.605Z"
@@ -3497,7 +4361,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Sales Engagement Management",
+          "manager": "2bfaa552-d9a5-41e9-a6c3-5be62b4433c8",
+          "title": "Salesperson",
+          "phone": "+1-804-555-2465"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:47:51.205Z",
       "updated_at": "2020-12-23T00:47:51.205Z"
@@ -3545,7 +4421,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Sales Engagement Management",
+          "manager": "309409a4-150e-44e3-93c5-f08458b243ee",
+          "title": "Salesperson",
+          "phone": "+1-701-555-7818"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:47:50.821Z",
       "updated_at": "2020-12-23T00:47:50.821Z"
@@ -3593,7 +4481,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Sales Engagement Management",
+          "manager": "309409a4-150e-44e3-93c5-f08458b243ee",
+          "title": "Salesperson",
+          "phone": "+1-701-555-6828"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:47:44.101Z",
       "updated_at": "2020-12-23T00:47:44.101Z"
@@ -3641,7 +4541,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Sales",
+          "manager": "4d339518-1c4e-46dd-8024-829f555b1562",
+          "title": "Salesperson",
+          "phone": "+1-06-5555-1284"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:47:43.761Z",
       "updated_at": "2020-12-23T00:47:43.761Z"
@@ -3689,7 +4601,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Sales Engagement Management",
+          "manager": "6a11df26-6b53-4baf-b3c8-25add379d21f",
+          "title": "Salesperson",
+          "phone": "+1-214-555-8815"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:47:43.377Z",
       "updated_at": "2020-12-23T00:47:43.377Z"
@@ -3737,7 +4661,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Sales",
+          "manager": "2bfaa552-d9a5-41e9-a6c3-5be62b4433c8",
+          "title": "Salesperson",
+          "phone": "+1-09-5555-3784"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:47:43.011Z",
       "updated_at": "2020-12-23T00:47:43.011Z"
@@ -3785,7 +4721,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Sales Engagement Management",
+          "manager": "6a11df26-6b53-4baf-b3c8-25add379d21f",
+          "title": "Salesperson",
+          "phone": "+1-214-555-7757"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:47:42.426Z",
       "updated_at": "2020-12-23T00:47:42.426Z"
@@ -3833,7 +4781,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Sales Engagement Management",
+          "manager": "4d339518-1c4e-46dd-8024-829f555b1562",
+          "title": "Salesperson",
+          "phone": "+1-206-555-2363"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:47:41.818Z",
       "updated_at": "2020-12-23T00:47:41.819Z"
@@ -3881,7 +4841,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Sales Engagement Management",
+          "manager": "4d339518-1c4e-46dd-8024-829f555b1562",
+          "title": "Salesperson",
+          "phone": "+1-206-555-5661"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:47:41.232Z",
       "updated_at": "2020-12-23T00:47:41.232Z"
@@ -3929,7 +4901,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Sales Engagement Management",
+          "manager": "4d339518-1c4e-46dd-8024-829f555b1562",
+          "title": "Salesperson",
+          "phone": "+1-206-555-4331"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:47:40.842Z",
       "updated_at": "2020-12-23T00:47:40.842Z"
@@ -3977,7 +4961,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Executive",
+          "manager": "b7de08a6-8417-491b-be62-85945a538f46",
+          "title": "CFO",
+          "phone": "+1-425-555-0116"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:47:34.320Z",
       "updated_at": "2020-12-23T00:47:34.320Z"
@@ -4025,7 +5021,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Executive",
+          "manager": "b7de08a6-8417-491b-be62-85945a538f46",
+          "title": "Chief of Partnerships and Strategy",
+          "phone": "+1-425-555-0196"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:47:33.729Z",
       "updated_at": "2020-12-23T00:47:33.729Z"
@@ -4073,7 +5081,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Executive",
+          "manager": "b7de08a6-8417-491b-be62-85945a538f46",
+          "title": "Chief of Technical Strategy",
+          "phone": "+1-425-555-0107"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:47:33.355Z",
       "updated_at": "2020-12-23T00:47:33.355Z"
@@ -4121,7 +5141,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Senior Management",
+          "manager": "0b23837b-8fdb-4edf-a50b-325ed0625086",
+          "title": "President of Management",
+          "phone": "+1-425-555-0140"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:47:32.974Z",
       "updated_at": "2020-12-23T00:47:32.974Z"
@@ -4169,7 +5201,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "CVP of IT",
+          "manager": "0b23837b-8fdb-4edf-a50b-325ed0625086",
+          "title": "President of Services",
+          "phone": "+1-425-555-0131"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:47:32.403Z",
       "updated_at": "2020-12-23T00:47:32.403Z"
@@ -4217,7 +5261,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Senior Management",
+          "manager": "99fc0f94-9573-477f-8e02-ca842e069b8c",
+          "title": "Sr. Media Planner",
+          "phone": "+1-425-555-0124"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:47:32.042Z",
       "updated_at": "2020-12-23T00:47:32.042Z"
@@ -4265,7 +5321,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Senior Management",
+          "manager": "e644bedd-9b3a-4fa5-be62-f027f2e97dd5",
+          "title": "Director of Affiliate Marketing and Partnerships",
+          "phone": "+1-425-555-0193"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:47:31.625Z",
       "updated_at": "2020-12-23T00:47:31.625Z"
@@ -4313,7 +5381,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Senior Management",
+          "manager": "7846c22f-d3d8-4e02-8b62-d055d0284783",
+          "title": "Director of Client Services",
+          "phone": "+1-425-555-0129"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:47:31.222Z",
       "updated_at": "2020-12-23T00:47:31.222Z"
@@ -4361,7 +5441,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Sales Engagement Management",
+          "manager": "309409a4-150e-44e3-93c5-f08458b243ee",
+          "title": "Salesperson",
+          "phone": "+1-701-555-4446"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:47:30.580Z",
       "updated_at": "2020-12-23T00:47:30.580Z"
@@ -4409,7 +5501,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Project Management",
+          "manager": "acacc661-f71d-490a-9cb8-0b7bdfe7c669",
+          "title": "Senior Project Manager",
+          "phone": "+1-206-555-8185"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:47:24.074Z",
       "updated_at": "2020-12-23T00:47:24.074Z"
@@ -4457,7 +5561,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Operations",
+          "manager": "b1bb9fc3-dcb0-4328-8d91-6d88ee78bc2d",
+          "title": "Procurement Manager",
+          "phone": "+1-206-555-4539"
+        },
+        "roles": [
+          "admin"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:47:23.681Z",
       "updated_at": "2020-12-23T00:47:23.681Z"
@@ -4505,7 +5621,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Project Management",
+          "manager": "1eb018bb-7347-46fd-8d83-35ad5aaa731e",
+          "title": "Senior Project Manager",
+          "phone": "+1-206-555-4262"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:47:22.845Z",
       "updated_at": "2020-12-23T00:47:22.845Z"
@@ -4553,7 +5681,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Project Management",
+          "manager": "d7777583-6b90-40eb-91a8-6f2bf2791f4e",
+          "title": "Senior Project Manager",
+          "phone": "+1-206-555-6667"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:47:22.471Z",
       "updated_at": "2020-12-23T00:47:22.471Z"
@@ -4601,7 +5741,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Project Management",
+          "manager": "72d2b1b2-1f94-4d3a-be01-c327e35c72b6",
+          "title": "Project Manager",
+          "phone": "+1-206-555-1783"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:47:21.868Z",
       "updated_at": "2020-12-23T00:47:21.868Z"
@@ -4649,7 +5801,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Project Management",
+          "manager": "72d2b1b2-1f94-4d3a-be01-c327e35c72b6",
+          "title": "Business Process Manager",
+          "phone": "+1-206-555-2918"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:47:21.471Z",
       "updated_at": "2020-12-23T00:47:21.471Z"
@@ -4697,7 +5861,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Project Management",
+          "manager": "72d2b1b2-1f94-4d3a-be01-c327e35c72b6",
+          "title": "Business Process Manager",
+          "phone": "+1-206-555-6552"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:47:20.902Z",
       "updated_at": "2020-12-23T00:47:20.902Z"
@@ -4745,7 +5921,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Project Management",
+          "manager": "23072c6f-3814-4be2-b4f1-ea74a3df4e40",
+          "title": "Senior Project Manager",
+          "phone": "+1-206-555-1471"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:47:20.538Z",
       "updated_at": "2020-12-23T00:47:20.538Z"
@@ -4793,7 +5981,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Project Management",
+          "manager": "72d2b1b2-1f94-4d3a-be01-c327e35c72b6",
+          "title": "Business Process Manager",
+          "phone": "+1-206-555-6953"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:47:19.882Z",
       "updated_at": "2020-12-23T00:47:19.882Z"
@@ -4841,7 +6041,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Project Management",
+          "manager": "72d2b1b2-1f94-4d3a-be01-c327e35c72b6",
+          "title": "Business Process Manager",
+          "phone": "+1-206-555-3874"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:47:13.333Z",
       "updated_at": "2020-12-23T00:47:13.333Z"
@@ -4889,7 +6101,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Project Management",
+          "manager": "72d2b1b2-1f94-4d3a-be01-c327e35c72b6",
+          "title": "Project Manager",
+          "phone": "+1-206-555-5488"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:47:12.961Z",
       "updated_at": "2020-12-23T00:47:12.962Z"
@@ -4937,7 +6161,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Project Management",
+          "manager": "72d2b1b2-1f94-4d3a-be01-c327e35c72b6",
+          "title": "Project Manager",
+          "phone": "+1-206-555-9299"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:47:12.639Z",
       "updated_at": "2020-12-23T00:47:12.639Z"
@@ -4985,7 +6221,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Project Management",
+          "manager": "72d2b1b2-1f94-4d3a-be01-c327e35c72b6",
+          "title": "Project Manager",
+          "phone": "+1-206-555-6561"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:47:12.263Z",
       "updated_at": "2020-12-23T00:47:12.263Z"
@@ -5033,7 +6281,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Project Management",
+          "manager": "d7777583-6b90-40eb-91a8-6f2bf2791f4e",
+          "title": "Project Manager",
+          "phone": "+1-206-555-1694"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:47:11.906Z",
       "updated_at": "2020-12-23T00:47:11.906Z"
@@ -5081,7 +6341,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Project Management",
+          "manager": "72d2b1b2-1f94-4d3a-be01-c327e35c72b6",
+          "title": "Project Manager",
+          "phone": "+1-206-555-8382"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:47:11.523Z",
       "updated_at": "2020-12-23T00:47:11.523Z"
@@ -5129,7 +6401,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Sales",
+          "manager": "309409a4-150e-44e3-93c5-f08458b243ee",
+          "title": "Salesperson",
+          "phone": "+1-707-555-3823"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:47:11.002Z",
       "updated_at": "2020-12-23T00:47:11.002Z"
@@ -5177,7 +6461,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Project Management",
+          "manager": "72d2b1b2-1f94-4d3a-be01-c327e35c72b6",
+          "title": "Project Manager",
+          "phone": "+1-206-555-2474"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:47:10.601Z",
       "updated_at": "2020-12-23T00:47:10.602Z"
@@ -5225,7 +6521,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Project Management",
+          "manager": "1eb018bb-7347-46fd-8d83-35ad5aaa731e",
+          "title": "Senior Project Manager",
+          "phone": "+1-206-555-9848"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:47:04.107Z",
       "updated_at": "2020-12-23T00:47:04.107Z"
@@ -5273,7 +6581,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Project Management",
+          "manager": "1eb018bb-7347-46fd-8d83-35ad5aaa731e",
+          "title": "Project Manager",
+          "phone": "+1-206-555-4738"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:47:03.754Z",
       "updated_at": "2020-12-23T00:47:03.754Z"
@@ -5321,7 +6641,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Project Management",
+          "manager": "1eb018bb-7347-46fd-8d83-35ad5aaa731e",
+          "title": "Project Manager",
+          "phone": "+1-206-555-3448"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:47:03.129Z",
       "updated_at": "2020-12-23T00:47:03.129Z"
@@ -5369,7 +6701,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Project Management",
+          "manager": "acacc661-f71d-490a-9cb8-0b7bdfe7c669",
+          "title": "Project Manager",
+          "phone": "+1-206-555-9267"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:47:02.450Z",
       "updated_at": "2020-12-23T00:47:02.450Z"
@@ -5417,7 +6761,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Sales",
+          "manager": "4d339518-1c4e-46dd-8024-829f555b1562",
+          "title": "Salesperson",
+          "phone": "+1-404-555-9264"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:47:02.009Z",
       "updated_at": "2020-12-23T00:47:02.009Z"
@@ -5465,7 +6821,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Project Management",
+          "manager": "23072c6f-3814-4be2-b4f1-ea74a3df4e40",
+          "title": "Project Manager",
+          "phone": "+1-206-555-6492"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:47:01.396Z",
       "updated_at": "2020-12-23T00:47:01.396Z"
@@ -5513,7 +6881,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Sales",
+          "manager": "6a11df26-6b53-4baf-b3c8-25add379d21f",
+          "title": "Salesperson",
+          "phone": "+1-617-555-7395"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:47:01.001Z",
       "updated_at": "2020-12-23T00:47:01.001Z"
@@ -5561,7 +6941,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Sales",
+          "manager": "309409a4-150e-44e3-93c5-f08458b243ee",
+          "title": "Salesperson",
+          "phone": "+1-20-5555-6851"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:47:00.624Z",
       "updated_at": "2020-12-23T00:47:00.624Z"
@@ -5609,7 +7001,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Project Management",
+          "manager": "d7777583-6b90-40eb-91a8-6f2bf2791f4e",
+          "title": "Project Manager",
+          "phone": "+1-206-555-2699"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:47:00.230Z",
       "updated_at": "2020-12-23T00:47:00.230Z"
@@ -5657,7 +7061,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Sales",
+          "manager": "2bfaa552-d9a5-41e9-a6c3-5be62b4433c8",
+          "title": "Salesperson",
+          "phone": "+1-06-5555-8461"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:46:54.703Z",
       "updated_at": "2020-12-23T00:46:54.703Z"
@@ -5705,7 +7121,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Project Management",
+          "manager": "23072c6f-3814-4be2-b4f1-ea74a3df4e40",
+          "title": "Senior Project Manager",
+          "phone": "+1-206-555-2246"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:46:54.306Z",
       "updated_at": "2020-12-23T00:46:54.306Z"
@@ -5753,7 +7181,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Strategy Consulting",
+          "manager": "d856c97a-a02f-4b78-b966-1ea9cb9f28e7",
+          "title": "Strategy Consultant",
+          "phone": "+1-206-555-8879"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:46:53.888Z",
       "updated_at": "2020-12-23T00:46:53.888Z"
@@ -5801,7 +7241,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Content Management Consulting",
+          "manager": "e89f603c-3707-49a1-92ad-dc6a231b32f8",
+          "title": "Content Management Consultant",
+          "phone": "+1-212-555-3984"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:46:53.505Z",
       "updated_at": "2020-12-23T00:46:53.505Z"
@@ -5849,7 +7301,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Strategy Consulting",
+          "manager": "f88a171c-b337-4c26-9c4b-824bb74a0729",
+          "title": "Strategy Consultant",
+          "phone": "+1-206-555-5295"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:46:53.135Z",
       "updated_at": "2020-12-23T00:46:53.135Z"
@@ -5897,7 +7361,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Strategy Consulting",
+          "manager": "22b24470-babd-435b-9349-23c1bcadd849",
+          "title": "Strategy Consultant",
+          "phone": "+1-206-555-8398"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:46:52.514Z",
       "updated_at": "2020-12-23T00:46:52.514Z"
@@ -5945,7 +7421,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Strategy Consulting",
+          "manager": "d856c97a-a02f-4b78-b966-1ea9cb9f28e7",
+          "title": "Strategy Consultant",
+          "phone": "+1-206-555-4295"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:46:52.137Z",
       "updated_at": "2020-12-23T00:46:52.137Z"
@@ -5993,7 +7481,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Strategy Consulting",
+          "manager": "8ad45b6d-8c85-496a-a2d9-78422c4ee663",
+          "title": "Strategy Consultant",
+          "phone": "+1-206-555-6621"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:46:51.735Z",
       "updated_at": "2020-12-23T00:46:51.735Z"
@@ -6041,7 +7541,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Strategy Consulting",
+          "manager": "907dbfd3-298a-4388-8dd9-707760dd3092",
+          "title": "Strategy Consultant",
+          "phone": "+1-206-555-8223"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:46:45.232Z",
       "updated_at": "2020-12-23T00:46:45.232Z"
@@ -6089,7 +7601,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Strategy Consulting",
+          "manager": "8ad45b6d-8c85-496a-a2d9-78422c4ee663",
+          "title": "Strategy Consultant",
+          "phone": "+1-206-555-4557"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:46:44.864Z",
       "updated_at": "2020-12-23T00:46:44.864Z"
@@ -6137,7 +7661,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Strategy Consulting",
+          "manager": "22b24470-babd-435b-9349-23c1bcadd849",
+          "title": "Strategy Consultant",
+          "phone": "+1-206-555-4886"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:46:44.263Z",
       "updated_at": "2020-12-23T00:46:44.263Z"
@@ -6185,7 +7721,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Strategy Consulting",
+          "manager": "d856c97a-a02f-4b78-b966-1ea9cb9f28e7",
+          "title": "Strategy Consultant",
+          "phone": "+1-206-555-4595"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:46:43.890Z",
       "updated_at": "2020-12-23T00:46:43.890Z"
@@ -6233,7 +7781,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Strategy Consulting",
+          "manager": "8ad45b6d-8c85-496a-a2d9-78422c4ee663",
+          "title": "Strategy Consultant",
+          "phone": "+1-206-555-3449"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:46:43.555Z",
       "updated_at": "2020-12-23T00:46:43.555Z"
@@ -6281,7 +7841,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Strategy Consulting",
+          "manager": "907dbfd3-298a-4388-8dd9-707760dd3092",
+          "title": "Strategy Consultant",
+          "phone": "+1-206-555-5846"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:46:43.157Z",
       "updated_at": "2020-12-23T00:46:43.157Z"
@@ -6329,7 +7901,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Accounting",
+          "manager": "7db937b4-a31a-448f-bc54-7b871e609506",
+          "title": "Accountant",
+          "phone": "+1-206-555-6848"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:46:42.761Z",
       "updated_at": "2020-12-23T00:46:42.761Z"
@@ -6377,7 +7961,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Accounting",
+          "manager": "7db937b4-a31a-448f-bc54-7b871e609506",
+          "title": "Accountant",
+          "phone": "+1-425-555-9559"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:46:42.392Z",
       "updated_at": "2020-12-23T00:46:42.392Z"
@@ -6425,7 +8021,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Accounting",
+          "manager": "7db937b4-a31a-448f-bc54-7b871e609506",
+          "title": "Accounting Manager",
+          "phone": "+1-415-555-7777"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:46:35.667Z",
       "updated_at": "2020-12-23T00:46:35.667Z"
@@ -6473,7 +8081,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Strategy Consulting",
+          "manager": "f88a171c-b337-4c26-9c4b-824bb74a0729",
+          "title": "Strategy Consultant",
+          "phone": "+1-206-555-1913"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:46:35.087Z",
       "updated_at": "2020-12-23T00:46:35.087Z"
@@ -6521,7 +8141,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "1099 Contractor",
+          "manager": "49576048-c1ae-4c61-b876-2608434f81ed",
+          "title": "Project Manager",
+          "phone": "+1-206-555-4112"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:46:34.724Z",
       "updated_at": "2020-12-23T00:46:34.724Z"
@@ -6569,7 +8201,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Strategy Consulting",
+          "manager": "22b24470-babd-435b-9349-23c1bcadd849",
+          "title": "Strategy Consultant",
+          "phone": "+1-206-555-4747"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:46:34.362Z",
       "updated_at": "2020-12-23T00:46:34.362Z"
@@ -6617,7 +8261,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Strategy Consulting",
+          "manager": "f88a171c-b337-4c26-9c4b-824bb74a0729",
+          "title": "Strategy Consultant",
+          "phone": "+1-206-555-1443"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:46:34.016Z",
       "updated_at": "2020-12-23T00:46:34.016Z"
@@ -6665,7 +8321,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Strategy Consulting",
+          "manager": "907dbfd3-298a-4388-8dd9-707760dd3092",
+          "title": "Strategy Consultant",
+          "phone": "+1-206-555-8454"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:46:33.411Z",
       "updated_at": "2020-12-23T00:46:33.411Z"
@@ -6713,7 +8381,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Sales",
+          "manager": "7e28daa4-228f-46fc-b8f1-f35d7e4ed03e",
+          "title": "Salesperson",
+          "phone": "+1-214-555-8332"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:46:33.023Z",
       "updated_at": "2020-12-23T00:46:33.023Z"
@@ -6761,7 +8441,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Strategy Consulting",
+          "manager": "8ad45b6d-8c85-496a-a2d9-78422c4ee663",
+          "title": "Strategy Consultant",
+          "phone": "+1-206-555-2297"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:46:32.628Z",
       "updated_at": "2020-12-23T00:46:32.628Z"
@@ -6809,7 +8501,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Engineering Operations",
+          "manager": "33d6a6a2-3615-4f0c-aa26-c15016432a24",
+          "title": "Engineer",
+          "phone": "+1-206-555-9821"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:46:25.873Z",
       "updated_at": "2020-12-23T00:46:25.873Z"
@@ -6857,7 +8561,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Content Management Consulting",
+          "manager": "e89f603c-3707-49a1-92ad-dc6a231b32f8",
+          "title": "Content Management Consultant",
+          "phone": "+1-206-555-6448"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:46:25.501Z",
       "updated_at": "2020-12-23T00:46:25.501Z"
@@ -6905,7 +8621,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Content Management Consulting",
+          "manager": "e89f603c-3707-49a1-92ad-dc6a231b32f8",
+          "title": "Business Process Manager",
+          "phone": "+1-206-555-7213"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:46:25.151Z",
       "updated_at": "2020-12-23T00:46:25.151Z"
@@ -6953,7 +8681,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Strategy Consulting",
+          "manager": "22b24470-babd-435b-9349-23c1bcadd849",
+          "title": "Strategy Consultant",
+          "phone": "+1-206-555-7167"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:46:24.785Z",
       "updated_at": "2020-12-23T00:46:24.785Z"
@@ -7001,7 +8741,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "CRM Strategy",
+          "manager": "2cfdb538-a03d-44b1-a0f2-b7ef32b713a7",
+          "title": "CRM Consultant",
+          "phone": "+1-20-5555-8569"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:46:24.415Z",
       "updated_at": "2020-12-23T00:46:24.415Z"
@@ -7049,7 +8801,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Content Management Consulting",
+          "manager": "e89f603c-3707-49a1-92ad-dc6a231b32f8",
+          "title": "Content Management Consultant",
+          "phone": "+1-206-555-4157"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:46:24.031Z",
       "updated_at": "2020-12-23T00:46:24.031Z"
@@ -7097,7 +8861,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Content Management Consulting",
+          "manager": "e89f603c-3707-49a1-92ad-dc6a231b32f8",
+          "title": "Content Management Consultant",
+          "phone": "+1-206-555-1659"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:46:23.645Z",
       "updated_at": "2020-12-23T00:46:23.645Z"
@@ -7145,7 +8921,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Content Management Consulting",
+          "manager": "e89f603c-3707-49a1-92ad-dc6a231b32f8",
+          "title": "Content Management Consultant",
+          "phone": "+1-212-555-3889"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:46:23.239Z",
       "updated_at": "2020-12-23T00:46:23.239Z"
@@ -7193,7 +8981,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Strategy Consulting",
+          "manager": "907dbfd3-298a-4388-8dd9-707760dd3092",
+          "title": "Strategy Consultant",
+          "phone": "+1-206-555-6864"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:46:16.534Z",
       "updated_at": "2020-12-23T00:46:16.534Z"
@@ -7241,7 +9041,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "1099 Contractor",
+          "manager": "6884a642-9966-442a-ac80-6dfed9442a5b",
+          "title": "Strategy Consultant",
+          "phone": "+1-206-555-8452"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:46:16.145Z",
       "updated_at": "2020-12-23T00:46:16.145Z"
@@ -7289,7 +9101,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Accounting",
+          "manager": "7db937b4-a31a-448f-bc54-7b871e609506",
+          "title": "Accountant",
+          "phone": "+1-415-555-2597"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:46:15.754Z",
       "updated_at": "2020-12-23T00:46:15.754Z"
@@ -7337,7 +9161,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "1099 Contractor",
+          "manager": "49576048-c1ae-4c61-b876-2608434f81ed",
+          "title": "Project Manager",
+          "phone": "+1-206-555-8793"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:46:15.188Z",
       "updated_at": "2020-12-23T00:46:15.188Z"
@@ -7385,7 +9221,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "1099 Contractor",
+          "manager": "49576048-c1ae-4c61-b876-2608434f81ed",
+          "title": "Project Manager",
+          "phone": "+1-206-555-2464"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:46:14.819Z",
       "updated_at": "2020-12-23T00:46:14.819Z"
@@ -7433,7 +9281,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "1099 Contractor",
+          "manager": "49576048-c1ae-4c61-b876-2608434f81ed",
+          "title": "Project Manager",
+          "phone": "+1-206-555-1833"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:46:14.431Z",
       "updated_at": "2020-12-23T00:46:14.431Z"
@@ -7481,7 +9341,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "1099 Contractor",
+          "manager": "49576048-c1ae-4c61-b876-2608434f81ed",
+          "title": "Project Manager",
+          "phone": "+1-206-555-4536"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:46:14.017Z",
       "updated_at": "2020-12-23T00:46:14.017Z"
@@ -7529,7 +9401,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "1099 Contractor",
+          "manager": "49576048-c1ae-4c61-b876-2608434f81ed",
+          "title": "Project Manager",
+          "phone": "+1-206-555-1413"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:46:13.623Z",
       "updated_at": "2020-12-23T00:46:13.623Z"
@@ -7577,7 +9461,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "1099 Contractor",
+          "manager": "49576048-c1ae-4c61-b876-2608434f81ed",
+          "title": "Project Manager",
+          "phone": "+1-206-555-7139"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:46:07.147Z",
       "updated_at": "2020-12-23T00:46:07.147Z"
@@ -7625,7 +9521,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "1099 Contractor",
+          "manager": "6884a642-9966-442a-ac80-6dfed9442a5b",
+          "title": "Strategy Consultant",
+          "phone": "+1-206-555-3155"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:46:06.792Z",
       "updated_at": "2020-12-23T00:46:06.792Z"
@@ -7673,7 +9581,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "1099 Contractor",
+          "manager": "49576048-c1ae-4c61-b876-2608434f81ed",
+          "title": "Project Manager",
+          "phone": "+1-206-555-6963"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:46:06.373Z",
       "updated_at": "2020-12-23T00:46:06.373Z"
@@ -7721,7 +9641,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "1099 Contractor",
+          "manager": "6884a642-9966-442a-ac80-6dfed9442a5b",
+          "title": "Strategy Consultant",
+          "phone": "+1-206-555-7794"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:46:05.999Z",
       "updated_at": "2020-12-23T00:46:05.999Z"
@@ -7769,7 +9701,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "1099 Contractor",
+          "manager": "6884a642-9966-442a-ac80-6dfed9442a5b",
+          "title": "Strategy Consultant",
+          "phone": "+1-206-555-4666"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:46:05.459Z",
       "updated_at": "2020-12-23T00:46:05.459Z"
@@ -7817,7 +9761,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "1099 Contractor",
+          "manager": "6884a642-9966-442a-ac80-6dfed9442a5b",
+          "title": "Strategy Consultant",
+          "phone": "+1-206-555-6235"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:46:05.089Z",
       "updated_at": "2020-12-23T00:46:05.089Z"
@@ -7865,7 +9821,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "1099 Contractor",
+          "manager": "6884a642-9966-442a-ac80-6dfed9442a5b",
+          "title": "Strategy Consultant",
+          "phone": "+1-206-555-8792"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:46:04.732Z",
       "updated_at": "2020-12-23T00:46:04.732Z"
@@ -7913,7 +9881,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "1099 Contractor",
+          "manager": "6884a642-9966-442a-ac80-6dfed9442a5b",
+          "title": "Strategy Consultant",
+          "phone": "+1-206-555-6852"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:46:04.329Z",
       "updated_at": "2020-12-23T00:46:04.329Z"
@@ -7961,7 +9941,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "1099 Contractor",
+          "manager": "6884a642-9966-442a-ac80-6dfed9442a5b",
+          "title": "Strategy Consultant",
+          "phone": "+1-206-555-1678"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:45:57.810Z",
       "updated_at": "2020-12-23T00:45:57.810Z"
@@ -8009,7 +10001,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Accounting",
+          "manager": "7db937b4-a31a-448f-bc54-7b871e609506",
+          "title": "Accountant",
+          "phone": "+1-206-555-9764"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:45:57.418Z",
       "updated_at": "2020-12-23T00:45:57.418Z"
@@ -8057,7 +10061,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "1099 Contractor",
+          "manager": "49576048-c1ae-4c61-b876-2608434f81ed",
+          "title": "Project Manager",
+          "phone": "+1-206-555-3415"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:45:56.992Z",
       "updated_at": "2020-12-23T00:45:56.992Z"
@@ -8105,7 +10121,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "1099 Contractor",
+          "manager": "49576048-c1ae-4c61-b876-2608434f81ed",
+          "title": "Project Manager",
+          "phone": "+1-206-555-4724"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:45:56.027Z",
       "updated_at": "2020-12-23T00:45:56.027Z"
@@ -8153,7 +10181,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "1099 Contractor",
+          "manager": "49576048-c1ae-4c61-b876-2608434f81ed",
+          "title": "Project Manager",
+          "phone": "+1-206-555-3382"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:45:55.439Z",
       "updated_at": "2020-12-23T00:45:55.439Z"
@@ -8201,7 +10241,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "1099 Contractor",
+          "manager": "49576048-c1ae-4c61-b876-2608434f81ed",
+          "title": "Project Manager",
+          "phone": "+1-206-555-7177"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:45:55.050Z",
       "updated_at": "2020-12-23T00:45:55.050Z"
@@ -8249,7 +10301,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "1099 Contractor",
+          "manager": "49576048-c1ae-4c61-b876-2608434f81ed",
+          "title": "Project Manager",
+          "phone": "+1-206-555-1577"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:45:54.679Z",
       "updated_at": "2020-12-23T00:45:54.679Z"
@@ -8297,7 +10361,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "1099 Contractor",
+          "manager": "49576048-c1ae-4c61-b876-2608434f81ed",
+          "title": "Project Manager",
+          "phone": "+1-206-555-2342"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:45:54.300Z",
       "updated_at": "2020-12-23T00:45:54.300Z"
@@ -8345,7 +10421,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "1099 Contractor",
+          "manager": "49576048-c1ae-4c61-b876-2608434f81ed",
+          "title": "Project Manager",
+          "phone": "+1-206-555-9366"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:45:53.604Z",
       "updated_at": "2020-12-23T00:45:53.604Z"
@@ -8393,7 +10481,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "1099 Contractor",
+          "manager": "49576048-c1ae-4c61-b876-2608434f81ed",
+          "title": "Project Manager",
+          "phone": "+1-206-555-5413"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:45:46.888Z",
       "updated_at": "2020-12-23T00:45:46.888Z"
@@ -8441,7 +10541,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "1099 Contractor",
+          "manager": "49576048-c1ae-4c61-b876-2608434f81ed",
+          "title": "Project Manager",
+          "phone": "+1-206-555-7593"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:45:46.505Z",
       "updated_at": "2020-12-23T00:45:46.505Z"
@@ -8489,7 +10601,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "1099 Contractor",
+          "manager": "49576048-c1ae-4c61-b876-2608434f81ed",
+          "title": "Project Manager",
+          "phone": "+1-206-555-1459"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:45:45.934Z",
       "updated_at": "2020-12-23T00:45:45.934Z"
@@ -8537,7 +10661,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "1099 Contractor",
+          "manager": "49576048-c1ae-4c61-b876-2608434f81ed",
+          "title": "Project Manager",
+          "phone": "+1-206-555-9549"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:45:45.332Z",
       "updated_at": "2020-12-23T00:45:45.332Z"
@@ -8585,7 +10721,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "1099 Contractor",
+          "manager": "49576048-c1ae-4c61-b876-2608434f81ed",
+          "title": "Project Manager",
+          "phone": "+1-206-555-5233"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:45:44.747Z",
       "updated_at": "2020-12-23T00:45:44.747Z"
@@ -8633,7 +10781,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Strategy Consulting",
+          "manager": "d856c97a-a02f-4b78-b966-1ea9cb9f28e7",
+          "title": "Strategy Consultant",
+          "phone": "+1-206-555-8147"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:45:44.155Z",
       "updated_at": "2020-12-23T00:45:44.155Z"
@@ -8681,7 +10841,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "1099 Contractor",
+          "manager": "49576048-c1ae-4c61-b876-2608434f81ed",
+          "title": "Project Manager",
+          "phone": "+1-206-555-7749"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:45:43.574Z",
       "updated_at": "2020-12-23T00:45:43.574Z"
@@ -8729,7 +10901,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Strategy Consulting",
+          "manager": "907dbfd3-298a-4388-8dd9-707760dd3092",
+          "title": "Strategy Consultant",
+          "phone": "+1-212-555-8236"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:45:43.175Z",
       "updated_at": "2020-12-23T00:45:43.175Z"
@@ -8777,7 +10961,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Content Management Consulting",
+          "manager": "e89f603c-3707-49a1-92ad-dc6a231b32f8",
+          "title": "Content Management Consultant",
+          "phone": "+1-206-555-5542"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:45:42.769Z",
       "updated_at": "2020-12-23T00:45:42.769Z"
@@ -8825,7 +11021,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "CRM Strategy",
+          "manager": "2cfdb538-a03d-44b1-a0f2-b7ef32b713a7",
+          "title": "CRM Consultant",
+          "phone": "+1-20-5555-1394"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:45:42.393Z",
       "updated_at": "2020-12-23T00:45:42.393Z"
@@ -8873,7 +11081,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Engineering Operations",
+          "manager": "33d6a6a2-3615-4f0c-aa26-c15016432a24",
+          "title": "Engineer",
+          "phone": "+1-206-555-3599"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:45:35.866Z",
       "updated_at": "2020-12-23T00:45:35.866Z"
@@ -8921,7 +11141,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Strategy Consulting",
+          "manager": "907dbfd3-298a-4388-8dd9-707760dd3092",
+          "title": "Strategy Consultant",
+          "phone": "+1-206-555-5461"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:45:35.473Z",
       "updated_at": "2020-12-23T00:45:35.473Z"
@@ -8969,7 +11201,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Strategy Consulting",
+          "manager": "8ad45b6d-8c85-496a-a2d9-78422c4ee663",
+          "title": "Strategy Consultant",
+          "phone": "+1-206-555-6443"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:45:35.111Z",
       "updated_at": "2020-12-23T00:45:35.111Z"
@@ -9017,7 +11261,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Strategy Consulting",
+          "manager": "d856c97a-a02f-4b78-b966-1ea9cb9f28e7",
+          "title": "Strategy Consultant",
+          "phone": "+1-206-555-4484"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:45:34.493Z",
       "updated_at": "2020-12-23T00:45:34.493Z"
@@ -9065,7 +11321,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Strategy Consulting",
+          "manager": "d856c97a-a02f-4b78-b966-1ea9cb9f28e7",
+          "title": "Strategy Consultant",
+          "phone": "+1-206-555-3518"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:45:33.894Z",
       "updated_at": "2020-12-23T00:45:33.894Z"
@@ -9113,7 +11381,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Strategy Consulting",
+          "manager": "22b24470-babd-435b-9349-23c1bcadd849",
+          "title": "Strategy Consultant",
+          "phone": "+1-206-555-5862"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:45:33.475Z",
       "updated_at": "2020-12-23T00:45:33.475Z"
@@ -9161,7 +11441,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Strategy Consulting",
+          "manager": "907dbfd3-298a-4388-8dd9-707760dd3092",
+          "title": "Strategy Consultant",
+          "phone": "+1-206-555-5784"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:45:32.899Z",
       "updated_at": "2020-12-23T00:45:32.899Z"
@@ -9209,7 +11501,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Strategy Consulting",
+          "manager": "f88a171c-b337-4c26-9c4b-824bb74a0729",
+          "title": "Strategy Consultant",
+          "phone": "+1-206-555-8157"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:45:32.513Z",
       "updated_at": "2020-12-23T00:45:32.513Z"
@@ -9257,7 +11561,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "CRM Strategy",
+          "manager": "2cfdb538-a03d-44b1-a0f2-b7ef32b713a7",
+          "title": "CRM Consultant",
+          "phone": "+1-20-5555-6548"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:45:25.957Z",
       "updated_at": "2020-12-23T00:45:25.957Z"
@@ -9305,7 +11621,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Strategy Consulting",
+          "manager": "8ad45b6d-8c85-496a-a2d9-78422c4ee663",
+          "title": "Strategy Consultant",
+          "phone": "+1-206-555-7947"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:45:25.583Z",
       "updated_at": "2020-12-23T00:45:25.583Z"
@@ -9353,7 +11681,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Content Management Consulting",
+          "manager": "e89f603c-3707-49a1-92ad-dc6a231b32f8",
+          "title": "Content Management Consultant",
+          "phone": "+1-206-555-3434"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:45:25.235Z",
       "updated_at": "2020-12-23T00:45:25.235Z"
@@ -9401,7 +11741,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Strategy Consulting",
+          "manager": "f88a171c-b337-4c26-9c4b-824bb74a0729",
+          "title": "Strategy Consultant",
+          "phone": "+1-212-555-1665"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:45:24.870Z",
       "updated_at": "2020-12-23T00:45:24.870Z"
@@ -9449,7 +11801,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Strategy Consulting",
+          "manager": "22b24470-babd-435b-9349-23c1bcadd849",
+          "title": "Strategy Consultant",
+          "phone": "+1-206-555-5499"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:45:24.516Z",
       "updated_at": "2020-12-23T00:45:24.516Z"
@@ -9497,7 +11861,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Strategy Consulting",
+          "manager": "d856c97a-a02f-4b78-b966-1ea9cb9f28e7",
+          "title": "Strategy Consultant",
+          "phone": "+1-212-555-5422"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:45:24.158Z",
       "updated_at": "2020-12-23T00:45:24.158Z"
@@ -9545,7 +11921,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Strategy Consulting",
+          "manager": "8ad45b6d-8c85-496a-a2d9-78422c4ee663",
+          "title": "Strategy Consultant",
+          "phone": "+1-212-555-5864"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:45:23.788Z",
       "updated_at": "2020-12-23T00:45:23.788Z"
@@ -9593,7 +11981,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Strategy Consulting",
+          "manager": "f88a171c-b337-4c26-9c4b-824bb74a0729",
+          "title": "Strategy Consultant",
+          "phone": "+1-212-555-5231"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:45:23.391Z",
       "updated_at": "2020-12-23T00:45:23.391Z"
@@ -9641,7 +12041,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "CRM Strategy",
+          "manager": "2cfdb538-a03d-44b1-a0f2-b7ef32b713a7",
+          "title": "CRM Consultant",
+          "phone": "+1-20-5555-2592"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:45:16.857Z",
       "updated_at": "2020-12-23T00:45:16.857Z"
@@ -9689,7 +12101,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "CRM Strategy",
+          "manager": "2cfdb538-a03d-44b1-a0f2-b7ef32b713a7",
+          "title": "CRM Consultant",
+          "phone": "+1-20-5555-4625"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:45:16.491Z",
       "updated_at": "2020-12-23T00:45:16.492Z"
@@ -9737,7 +12161,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "CRM Strategy",
+          "manager": "2cfdb538-a03d-44b1-a0f2-b7ef32b713a7",
+          "title": "CRM Consultant",
+          "phone": "+1-20-5555-4379"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:45:16.159Z",
       "updated_at": "2020-12-23T00:45:16.159Z"
@@ -9785,7 +12221,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Engineering Operations",
+          "manager": "33d6a6a2-3615-4f0c-aa26-c15016432a24",
+          "title": "Engineer",
+          "phone": "+1-206-555-6127"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:45:15.795Z",
       "updated_at": "2020-12-23T00:45:15.795Z"
@@ -9833,7 +12281,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Creative",
+          "manager": "33d6a6a2-3615-4f0c-aa26-c15016432a24",
+          "title": "Engineer",
+          "phone": "+1-206-555-6699"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:45:15.431Z",
       "updated_at": "2020-12-23T00:45:15.431Z"
@@ -9881,7 +12341,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Engineering Operations",
+          "manager": "33d6a6a2-3615-4f0c-aa26-c15016432a24",
+          "title": "Engineer",
+          "phone": "+1-206-555-7231"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:45:15.044Z",
       "updated_at": "2020-12-23T00:45:15.044Z"
@@ -9929,7 +12401,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Engineering Operations",
+          "manager": "33d6a6a2-3615-4f0c-aa26-c15016432a24",
+          "title": "Engineer",
+          "phone": "+1-206-555-3119"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:45:14.442Z",
       "updated_at": "2020-12-23T00:45:14.442Z"
@@ -9977,7 +12461,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Engineering Operations",
+          "manager": "33d6a6a2-3615-4f0c-aa26-c15016432a24",
+          "title": "Engineer",
+          "phone": "+1-206-555-6173"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:45:13.807Z",
       "updated_at": "2020-12-23T00:45:13.807Z"
@@ -10025,7 +12521,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Engineering Operations",
+          "manager": "33d6a6a2-3615-4f0c-aa26-c15016432a24",
+          "title": "Engineer",
+          "phone": "+1-206-555-3748"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:45:07.252Z",
       "updated_at": "2020-12-23T00:45:07.252Z"
@@ -10073,7 +12581,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Strategy Consulting",
+          "manager": "22b24470-babd-435b-9349-23c1bcadd849",
+          "title": "Strategy Consultant",
+          "phone": "+1-206-555-5292"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:45:06.845Z",
       "updated_at": "2020-12-23T00:45:06.845Z"
@@ -10121,7 +12641,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Content Management Consulting",
+          "manager": "e89f603c-3707-49a1-92ad-dc6a231b32f8",
+          "title": "Content Management Consultant",
+          "phone": "+1-20-5555-8548"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:45:06.463Z",
       "updated_at": "2020-12-23T00:45:06.463Z"
@@ -10169,7 +12701,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Content Management Consulting",
+          "manager": "e89f603c-3707-49a1-92ad-dc6a231b32f8",
+          "title": "Content Management Consultant",
+          "phone": "+1-212-555-9441"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:45:05.799Z",
       "updated_at": "2020-12-23T00:45:05.799Z"
@@ -10217,7 +12761,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Content Management Consulting",
+          "manager": "e89f603c-3707-49a1-92ad-dc6a231b32f8",
+          "title": "Content Management Consultant",
+          "phone": "+1-212-555-9437"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:45:05.346Z",
       "updated_at": "2020-12-23T00:45:05.346Z"
@@ -10265,7 +12821,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Content Management Consulting",
+          "manager": "e89f603c-3707-49a1-92ad-dc6a231b32f8",
+          "title": "Content Management Consultant",
+          "phone": "+1-212-555-4428"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:45:04.982Z",
       "updated_at": "2020-12-23T00:45:04.982Z"
@@ -10313,7 +12881,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Content Management Consulting",
+          "manager": "e89f603c-3707-49a1-92ad-dc6a231b32f8",
+          "title": "Content Management Consultant",
+          "phone": "+1-20-5555-3658"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:45:04.594Z",
       "updated_at": "2020-12-23T00:45:04.594Z"
@@ -10361,7 +12941,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "CRM Strategy",
+          "manager": "2cfdb538-a03d-44b1-a0f2-b7ef32b713a7",
+          "title": "CRM Consultant",
+          "phone": "+1-20-5555-2697"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:45:04.195Z",
       "updated_at": "2020-12-23T00:45:04.195Z"
@@ -10409,7 +13001,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Content Management Consulting",
+          "manager": "e89f603c-3707-49a1-92ad-dc6a231b32f8",
+          "title": "CRM Consultant",
+          "phone": "+1-20-5555-7963"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:44:57.697Z",
       "updated_at": "2020-12-23T00:44:57.697Z"
@@ -10457,7 +13061,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "CRM Strategy",
+          "manager": "2cfdb538-a03d-44b1-a0f2-b7ef32b713a7",
+          "title": "CRM Consultant",
+          "phone": "+1-20-5555-9834"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:44:57.315Z",
       "updated_at": "2020-12-23T00:44:57.315Z"
@@ -10505,7 +13121,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Content Management Consulting",
+          "manager": "e89f603c-3707-49a1-92ad-dc6a231b32f8",
+          "title": "Content Management Consultant",
+          "phone": "+1-20-5555-5894"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:44:56.951Z",
       "updated_at": "2020-12-23T00:44:56.951Z"
@@ -10553,7 +13181,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Content Management Consulting",
+          "manager": "e89f603c-3707-49a1-92ad-dc6a231b32f8",
+          "title": "Content Management Consultant",
+          "phone": "+1-20-5555-1626"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:44:56.575Z",
       "updated_at": "2020-12-23T00:44:56.575Z"
@@ -10601,7 +13241,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Content Management Consulting",
+          "manager": "e89f603c-3707-49a1-92ad-dc6a231b32f8",
+          "title": "Content Management Consultant",
+          "phone": "+1-20-5555-7545"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:44:56.206Z",
       "updated_at": "2020-12-23T00:44:56.206Z"
@@ -10649,7 +13301,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Content Management Consulting",
+          "manager": "e89f603c-3707-49a1-92ad-dc6a231b32f8",
+          "title": "Content Management Consultant",
+          "phone": "+1-20-5555-4594"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:44:55.842Z",
       "updated_at": "2020-12-23T00:44:55.842Z"
@@ -10697,7 +13361,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Content Management Consulting",
+          "manager": "e89f603c-3707-49a1-92ad-dc6a231b32f8",
+          "title": "Content Management Consultant",
+          "phone": "+1-20-5555-7862"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:44:55.451Z",
       "updated_at": "2020-12-23T00:44:55.451Z"
@@ -10745,7 +13421,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "CRM Strategy",
+          "manager": "907dbfd3-298a-4388-8dd9-707760dd3092",
+          "title": "CRM Consulting Manager",
+          "phone": "+1-20-5555-4595"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:44:48.949Z",
       "updated_at": "2020-12-23T00:44:48.949Z"
@@ -10793,7 +13481,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Project Management",
+          "manager": "23072c6f-3814-4be2-b4f1-ea74a3df4e40",
+          "title": "Project Manager",
+          "phone": "+1-206-555-9642"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:44:48.560Z",
       "updated_at": "2020-12-23T00:44:48.560Z"
@@ -10841,7 +13541,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Operations",
+          "manager": "c9b92bc2-af45-453d-a6cf-00ce57cbdc3d",
+          "title": "Manager",
+          "phone": "+1-206-555-1242"
+        },
+        "roles": [
+          "admin"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:44:48.158Z",
       "updated_at": "2020-12-23T00:44:48.158Z"
@@ -10889,7 +13601,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Engineering Operations",
+          "manager": "8b066919-9f6c-4e45-8afe-7be6ab97853c",
+          "title": "Strategy Consulting Manager",
+          "phone": "+1-206-555-7223"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:44:47.578Z",
       "updated_at": "2020-12-23T00:44:47.578Z"
@@ -10937,7 +13661,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Engineering Operations",
+          "manager": "7846c22f-d3d8-4e02-8b62-d055d0284783",
+          "title": "Managing Director",
+          "phone": "+1-206-555-4122"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:44:47.213Z",
       "updated_at": "2020-12-23T00:44:47.213Z"
@@ -10985,7 +13721,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Operations",
+          "manager": "7846c22f-d3d8-4e02-8b62-d055d0284783",
+          "title": "Manager",
+          "phone": "+1-206-555-8216"
+        },
+        "roles": [
+          "admin"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:44:46.806Z",
       "updated_at": "2020-12-23T00:44:46.807Z"
@@ -11033,7 +13781,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Strategy Consulting",
+          "manager": "bfb3de68-ea0c-4087-a0c8-176f83b674e3",
+          "title": "Strategy Consulting Manager",
+          "phone": "+1-212-555-1397"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:44:46.439Z",
       "updated_at": "2020-12-23T00:44:46.439Z"
@@ -11081,7 +13841,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Project Management",
+          "manager": "5ff9eed7-6b0d-4b20-bed5-b0b904191880",
+          "title": "Project Manager",
+          "phone": "+1-206-555-8673"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:44:46.051Z",
       "updated_at": "2020-12-23T00:44:46.051Z"
@@ -11129,7 +13901,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Sales Engagement Management",
+          "manager": "1f666335-b35b-4db6-ad36-a8c93358c611",
+          "title": "Sales Manager",
+          "phone": "+1-701-555-3621"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:44:39.520Z",
       "updated_at": "2020-12-23T00:44:39.520Z"
@@ -11177,7 +13961,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Sales",
+          "manager": "5f35988c-afb1-4107-9b1a-935f91f3bf71",
+          "title": "Sales Manager",
+          "phone": "+1-206-555-9337"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:44:39.144Z",
       "updated_at": "2020-12-23T00:44:39.144Z"
@@ -11225,7 +14021,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Operations",
+          "manager": "7846c22f-d3d8-4e02-8b62-d055d0284783",
+          "title": "Procurement Manager",
+          "phone": "+1-206-555-7436"
+        },
+        "roles": [
+          "admin"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:44:38.759Z",
       "updated_at": "2020-12-23T00:44:38.759Z"
@@ -11273,7 +14081,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Strategy Consulting",
+          "manager": "f88a171c-b337-4c26-9c4b-824bb74a0729",
+          "title": "Strategy Consultant",
+          "phone": "+1-206-555-3965"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:44:38.383Z",
       "updated_at": "2020-12-23T00:44:38.383Z"
@@ -11321,7 +14141,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Project Management",
+          "manager": "5ff9eed7-6b0d-4b20-bed5-b0b904191880",
+          "title": "Senior Project Manager",
+          "phone": "+1-206-555-8148"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:44:37.999Z",
       "updated_at": "2020-12-23T00:44:37.999Z"
@@ -11369,7 +14201,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Content Management Consulting",
+          "manager": "5ff9eed7-6b0d-4b20-bed5-b0b904191880",
+          "title": "Content Management Consulting Manager",
+          "phone": "+1-206-555-6169"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:44:37.621Z",
       "updated_at": "2020-12-23T00:44:37.621Z"
@@ -11417,7 +14261,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Marketing",
+          "manager": "7846c22f-d3d8-4e02-8b62-d055d0284783",
+          "title": "Marketing Manager",
+          "phone": "+1-206-555-6511"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:44:37.249Z",
       "updated_at": "2020-12-23T00:44:37.249Z"
@@ -11465,7 +14321,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Project Management",
+          "manager": "5ff9eed7-6b0d-4b20-bed5-b0b904191880",
+          "title": "Senior Project Manager",
+          "phone": "+1-206-555-9977"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:44:36.869Z",
       "updated_at": "2020-12-23T00:44:36.869Z"
@@ -11513,7 +14381,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Senior Management",
+          "manager": "e644bedd-9b3a-4fa5-be62-f027f2e97dd5",
+          "title": "Sr. Business Development Manager",
+          "phone": "+1-425-555-0184"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:44:30.324Z",
       "updated_at": "2020-12-23T00:44:30.324Z"
@@ -11561,7 +14441,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Sales",
+          "manager": "2a43d793-7367-4a3e-8c6e-5ec955a52038",
+          "title": "Regional Sales Manager",
+          "phone": "+1-619-555-7772"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:44:29.970Z",
       "updated_at": "2020-12-23T00:44:29.970Z"
@@ -11609,7 +14501,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Human Resources",
+          "manager": "09636eb3-0cab-4051-9606-37c549330110",
+          "title": "HR Manager",
+          "phone": "+1-206-555-1346"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:44:29.564Z",
       "updated_at": "2020-12-23T00:44:29.564Z"
@@ -11657,7 +14561,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Strategy Consulting",
+          "manager": "bfb3de68-ea0c-4087-a0c8-176f83b674e3",
+          "title": "Strategy Consulting Manager",
+          "phone": "+1-212-555-9758"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:44:28.907Z",
       "updated_at": "2020-12-23T00:44:28.907Z"
@@ -11705,7 +14621,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Sales Engagement Management",
+          "manager": "72bd066c-d0ac-4e94-af41-11bd70dd7d40",
+          "title": "Sales Manager",
+          "phone": "+1-214-555-3187"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:44:28.529Z",
       "updated_at": "2020-12-23T00:44:28.529Z"
@@ -11753,7 +14681,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Marketing",
+          "manager": "e644bedd-9b3a-4fa5-be62-f027f2e97dd5",
+          "title": "Director of Ad Sales",
+          "phone": "+1-425-555-0164"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:44:28.159Z",
       "updated_at": "2020-12-23T00:44:28.159Z"
@@ -11801,7 +14741,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Project Management",
+          "manager": "5ff9eed7-6b0d-4b20-bed5-b0b904191880",
+          "title": "Senior Project Manager",
+          "phone": "+1-206-555-6345"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:44:27.754Z",
       "updated_at": "2020-12-23T00:44:27.754Z"
@@ -11849,7 +14801,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Strategy Consulting",
+          "manager": "bfb3de68-ea0c-4087-a0c8-176f83b674e3",
+          "title": "Strategy Consulting Manager",
+          "phone": "+1-212-555-8335"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:44:27.132Z",
       "updated_at": "2020-12-23T00:44:27.132Z"
@@ -11897,7 +14861,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Sales",
+          "manager": "37b056d8-f63e-412b-b172-63d60d35ea56",
+          "title": "Sales Manager",
+          "phone": "+1-312-555-5454"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:44:20.594Z",
       "updated_at": "2020-12-23T00:44:20.594Z"
@@ -11945,7 +14921,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Operations",
+          "manager": "50c573a3-0619-4e1b-b433-401a333c7372",
+          "title": "IT Director",
+          "phone": "+1-206-555-3186"
+        },
+        "roles": [
+          "editor"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:44:20.209Z",
       "updated_at": "2020-12-23T00:44:20.209Z"
@@ -11993,7 +14981,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Sales",
+          "manager": "2a43d793-7367-4a3e-8c6e-5ec955a52038",
+          "title": "Regional Sales Manager",
+          "phone": "+1-914-555-7414"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:44:19.826Z",
       "updated_at": "2020-12-23T00:44:19.826Z"
@@ -12041,7 +15041,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Senior Management",
+          "manager": "d70e0bad-9aca-44c7-94cb-12bc7ca5f222",
+          "title": "GM of Online Ad Sales and Affiliate Marketing",
+          "phone": "+1-425-555-0192"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:44:19.490Z",
       "updated_at": "2020-12-23T00:44:19.490Z"
@@ -12089,7 +15101,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Operations",
+          "manager": "7846c22f-d3d8-4e02-8b62-d055d0284783",
+          "title": "CTO of Professional Services",
+          "phone": "+1-206-555-8936"
+        },
+        "roles": [
+          "editor"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:44:19.097Z",
       "updated_at": "2020-12-23T00:44:19.097Z"
@@ -12137,7 +15161,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Sales",
+          "manager": "2a43d793-7367-4a3e-8c6e-5ec955a52038",
+          "title": "Regional Sales Manager",
+          "phone": "+1-253-555-7934"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:44:18.727Z",
       "updated_at": "2020-12-23T00:44:18.727Z"
@@ -12185,7 +15221,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Sales",
+          "manager": "2a43d793-7367-4a3e-8c6e-5ec955a52038",
+          "title": "Regional Sales Manager",
+          "phone": "+1-360-555-4638"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:44:18.315Z",
       "updated_at": "2020-12-23T00:44:18.315Z"
@@ -12233,7 +15281,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Senior Management",
+          "manager": "99612e2d-ea29-44ed-bc7e-bd17d5fd84a7",
+          "title": "SVP of Online Services",
+          "phone": "+1-425-555-0172"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:44:17.933Z",
       "updated_at": "2020-12-23T00:44:17.933Z"
@@ -12281,7 +15341,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Sales Engagement Management",
+          "manager": "9476eed7-4e97-4378-b0be-0d8ca07906fd",
+          "title": "Sales Manager",
+          "phone": "+1-206-555-1123"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:44:11.371Z",
       "updated_at": "2020-12-23T00:44:11.371Z"
@@ -12329,7 +15401,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Sales",
+          "manager": "2a43d793-7367-4a3e-8c6e-5ec955a52038",
+          "title": "Regional Sales Manager",
+          "phone": "+1-804-555-2217"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:44:10.990Z",
       "updated_at": "2020-12-23T00:44:10.991Z"
@@ -12377,7 +15461,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Strategy Consulting",
+          "manager": "bfb3de68-ea0c-4087-a0c8-176f83b674e3",
+          "title": "Strategy Consulting Manager",
+          "phone": "+1-212-555-2867"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:44:10.511Z",
       "updated_at": "2020-12-23T00:44:10.511Z"
@@ -12425,7 +15521,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Sales Engagement Management",
+          "manager": "242f6e15-e469-4e42-9510-0483f6d019c9",
+          "title": "Managing Director",
+          "phone": "+1-206-555-4676"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:44:10.135Z",
       "updated_at": "2020-12-23T00:44:10.135Z"
@@ -12473,7 +15581,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Executive",
+          "manager": "0b23837b-8fdb-4edf-a50b-325ed0625086",
+          "title": "CVP of Online",
+          "phone": "+1-425-555-0177"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:44:09.725Z",
       "updated_at": "2020-12-23T00:44:09.725Z"
@@ -12521,7 +15641,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Strategy Consulting",
+          "manager": "bfb3de68-ea0c-4087-a0c8-176f83b674e3",
+          "title": "Strategy Consulting Manager",
+          "phone": "+1-212-555-4178"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:44:09.250Z",
       "updated_at": "2020-12-23T00:44:09.250Z"
@@ -12569,7 +15701,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Human Resources",
+          "manager": "7db937b4-a31a-448f-bc54-7b871e609506",
+          "title": "HR Manager",
+          "phone": "+1-206-555-8258"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:44:08.903Z",
       "updated_at": "2020-12-23T00:44:08.903Z"
@@ -12617,7 +15761,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Executive",
+          "manager": "8724dd1b-c401-4487-9ea8-4c224ef67710",
+          "title": "CVP of Operations",
+          "phone": "+1-425-555-0187"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:44:08.535Z",
       "updated_at": "2020-12-23T00:44:08.535Z"
@@ -12665,7 +15821,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Sales",
+          "manager": "7846c22f-d3d8-4e02-8b62-d055d0284783",
+          "title": "Vice President NA Sales",
+          "phone": "+1-713-555-6563"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:44:01.999Z",
       "updated_at": "2020-12-23T00:44:01.999Z"
@@ -12713,7 +15881,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Accounting",
+          "manager": "f04f136b-df92-46bf-a161-f2990a823694",
+          "title": "Controller",
+          "phone": "+1-206-555-4156"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:44:01.370Z",
       "updated_at": "2020-12-23T00:44:01.370Z"
@@ -12761,7 +15941,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Executive",
+          "manager": "b7de08a6-8417-491b-be62-85945a538f46",
+          "title": "COO",
+          "phone": "+1-425-555-0121"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:44:00.908Z",
       "updated_at": "2020-12-23T00:44:00.908Z"
@@ -12809,7 +16001,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Engineering",
+          "manager": "7846c22f-d3d8-4e02-8b62-d055d0284783",
+          "title": "Managing Director",
+          "phone": "+1-206-555-2987"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:44:00.443Z",
       "updated_at": "2020-12-23T00:44:00.443Z"
@@ -12857,7 +16061,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Operations",
+          "manager": "7846c22f-d3d8-4e02-8b62-d055d0284783",
+          "title": "CFO of Professional Services",
+          "phone": "+1-206-555-9327"
+        },
+        "roles": [
+          "editor"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:44:00.028Z",
       "updated_at": "2020-12-23T00:44:00.028Z"
@@ -12905,7 +16121,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Project Management",
+          "manager": "5ff9eed7-6b0d-4b20-bed5-b0b904191880",
+          "title": "Project Manager",
+          "phone": "+1-206-555-1931"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:43:59.647Z",
       "updated_at": "2020-12-23T00:43:59.647Z"
@@ -12953,7 +16181,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Project Management",
+          "manager": "7846c22f-d3d8-4e02-8b62-d055d0284783",
+          "title": "Director of Project Management Team",
+          "phone": "+1-206-555-2443"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:43:58.990Z",
       "updated_at": "2020-12-23T00:43:58.990Z"
@@ -13001,7 +16241,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Operations",
+          "manager": "b7de08a6-8417-491b-be62-85945a538f46",
+          "title": "General Manager of Professional Services",
+          "phone": "+1-206-555-5472"
+        },
+        "roles": [
+          "admin"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:43:58.371Z",
       "updated_at": "2020-12-23T00:43:58.371Z"
@@ -13049,7 +16301,19 @@
       ],
       "permissions": []
     },
-    "applications": {},
+    "applications": {
+      "peoplefinder": {
+        "properties": {
+          "department": "Executive",
+          "manager": "",
+          "title": "CEO",
+          "phone": "+1-425-555-0179"
+        },
+        "roles": [
+          "viewer"
+        ]
+      }
+    },
     "metadata": {
       "created_at": "2020-12-23T00:43:57.949Z",
       "updated_at": "2020-12-23T00:43:57.949Z"

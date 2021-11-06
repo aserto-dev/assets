@@ -37,7 +37,7 @@
         "user",
         "acmecorp",
         "sales-engagement-management",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -85,7 +85,7 @@
         "user",
         "acmecorp",
         "sales-engagement-management",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -133,7 +133,7 @@
         "user",
         "acmecorp",
         "engineering-operations",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -181,7 +181,7 @@
         "user",
         "acmecorp",
         "accounting",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -229,7 +229,7 @@
         "user",
         "acmecorp",
         "operations",
-        "Admin"
+        "admin"
       ],
       "permissions": []
     },
@@ -277,7 +277,7 @@
         "user",
         "acmecorp",
         "marketing",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -325,7 +325,7 @@
         "user",
         "acmecorp",
         "sales",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -373,7 +373,7 @@
         "user",
         "acmecorp",
         "marketing",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -421,7 +421,7 @@
         "user",
         "acmecorp",
         "sales",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -469,7 +469,7 @@
         "user",
         "acmecorp",
         "marketing",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -517,7 +517,7 @@
         "user",
         "acmecorp",
         "sales",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -565,7 +565,7 @@
         "user",
         "acmecorp",
         "sales",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -613,7 +613,7 @@
         "user",
         "acmecorp",
         "sales",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -661,7 +661,7 @@
         "user",
         "acmecorp",
         "operations",
-        "Admin"
+        "admin"
       ],
       "permissions": []
     },
@@ -709,7 +709,7 @@
         "user",
         "acmecorp",
         "sales",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -757,7 +757,7 @@
         "user",
         "acmecorp",
         "operations",
-        "Admin"
+        "admin"
       ],
       "permissions": []
     },
@@ -805,7 +805,7 @@
         "user",
         "acmecorp",
         "marketing",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -853,7 +853,7 @@
         "user",
         "acmecorp",
         "marketing",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -901,7 +901,7 @@
         "user",
         "acmecorp",
         "marketing",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -949,7 +949,7 @@
         "user",
         "acmecorp",
         "sales",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -997,7 +997,7 @@
         "user",
         "acmecorp",
         "sales",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -1045,7 +1045,7 @@
         "user",
         "acmecorp",
         "marketing",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -1093,7 +1093,7 @@
         "user",
         "acmecorp",
         "sales",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -1141,7 +1141,7 @@
         "user",
         "acmecorp",
         "operations",
-        "Admin"
+        "admin"
       ],
       "permissions": []
     },
@@ -1189,7 +1189,7 @@
         "user",
         "acmecorp",
         "operations",
-        "Admin"
+        "admin"
       ],
       "permissions": []
     },
@@ -1237,7 +1237,7 @@
         "user",
         "acmecorp",
         "operations",
-        "Admin"
+        "admin"
       ],
       "permissions": []
     },
@@ -1285,7 +1285,7 @@
         "user",
         "acmecorp",
         "operations",
-        "Admin"
+        "admin"
       ],
       "permissions": []
     },
@@ -1333,7 +1333,7 @@
         "user",
         "acmecorp",
         "operations",
-        "Admin"
+        "admin"
       ],
       "permissions": []
     },
@@ -1381,7 +1381,7 @@
         "user",
         "acmecorp",
         "operations",
-        "Admin"
+        "admin"
       ],
       "permissions": []
     },
@@ -1429,7 +1429,7 @@
         "user",
         "acmecorp",
         "operations",
-        "Admin"
+        "admin"
       ],
       "permissions": []
     },
@@ -1477,7 +1477,7 @@
         "user",
         "acmecorp",
         "operations",
-        "Admin"
+        "admin"
       ],
       "permissions": []
     },
@@ -1525,7 +1525,7 @@
         "user",
         "acmecorp",
         "operations",
-        "Admin"
+        "admin"
       ],
       "permissions": []
     },
@@ -1573,7 +1573,7 @@
         "user",
         "acmecorp",
         "operations",
-        "Admin"
+        "admin"
       ],
       "permissions": []
     },
@@ -1621,7 +1621,7 @@
         "user",
         "acmecorp",
         "engineering-operations",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -1669,7 +1669,7 @@
         "user",
         "acmecorp",
         "marketing",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -1717,7 +1717,7 @@
         "user",
         "acmecorp",
         "strategy-consulting",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -1765,7 +1765,7 @@
         "user",
         "acmecorp",
         "engineering-operations",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -1813,7 +1813,7 @@
         "user",
         "acmecorp",
         "engineering-operations",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -1861,7 +1861,7 @@
         "user",
         "acmecorp",
         "engineering-operations",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -1909,7 +1909,7 @@
         "user",
         "acmecorp",
         "engineering-operations",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -1957,7 +1957,7 @@
         "user",
         "acmecorp",
         "engineering-operations",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -2005,7 +2005,7 @@
         "user",
         "acmecorp",
         "engineering-operations",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -2053,7 +2053,7 @@
         "user",
         "acmecorp",
         "engineering-operations",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -2101,7 +2101,7 @@
         "user",
         "acmecorp",
         "engineering-operations",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -2149,7 +2149,7 @@
         "user",
         "acmecorp",
         "engineering-operations",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -2197,7 +2197,7 @@
         "user",
         "acmecorp",
         "sales",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -2245,7 +2245,7 @@
         "user",
         "acmecorp",
         "sales",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -2293,7 +2293,7 @@
         "user",
         "acmecorp",
         "sales",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -2341,7 +2341,7 @@
         "user",
         "acmecorp",
         "sales",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -2389,7 +2389,7 @@
         "user",
         "acmecorp",
         "sales",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -2437,7 +2437,7 @@
         "user",
         "acmecorp",
         "sales",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -2485,7 +2485,7 @@
         "user",
         "acmecorp",
         "human-resources",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -2533,7 +2533,7 @@
         "user",
         "acmecorp",
         "senior-management",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -2581,7 +2581,7 @@
         "user",
         "acmecorp",
         "sales",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -2629,7 +2629,7 @@
         "user",
         "acmecorp",
         "sales",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -2677,7 +2677,7 @@
         "user",
         "acmecorp",
         "sales",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -2725,7 +2725,7 @@
         "user",
         "acmecorp",
         "sales",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -2773,7 +2773,7 @@
         "user",
         "acmecorp",
         "sales",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -2821,7 +2821,7 @@
         "user",
         "acmecorp",
         "sales",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -2869,7 +2869,7 @@
         "user",
         "acmecorp",
         "sales",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -2917,7 +2917,7 @@
         "user",
         "acmecorp",
         "sales",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -2965,7 +2965,7 @@
         "user",
         "acmecorp",
         "operations",
-        "Admin"
+        "admin"
       ],
       "permissions": []
     },
@@ -3013,7 +3013,7 @@
         "user",
         "acmecorp",
         "sales",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -3061,7 +3061,7 @@
         "user",
         "acmecorp",
         "sales-engagement-management",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -3109,7 +3109,7 @@
         "user",
         "acmecorp",
         "operations",
-        "Admin"
+        "admin"
       ],
       "permissions": []
     },
@@ -3157,7 +3157,7 @@
         "user",
         "acmecorp",
         "project-management",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -3205,7 +3205,7 @@
         "user",
         "acmecorp",
         "operations",
-        "Admin"
+        "admin"
       ],
       "permissions": []
     },
@@ -3253,7 +3253,7 @@
         "user",
         "acmecorp",
         "sales",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -3301,7 +3301,7 @@
         "user",
         "acmecorp",
         "sales",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -3349,7 +3349,7 @@
         "user",
         "acmecorp",
         "sales",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -3397,7 +3397,7 @@
         "user",
         "acmecorp",
         "sales-engagement-management",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -3445,7 +3445,7 @@
         "user",
         "acmecorp",
         "sales-engagement-management",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -3493,7 +3493,7 @@
         "user",
         "acmecorp",
         "sales-engagement-management",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -3541,7 +3541,7 @@
         "user",
         "acmecorp",
         "sales-engagement-management",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -3589,7 +3589,7 @@
         "user",
         "acmecorp",
         "sales-engagement-management",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -3637,7 +3637,7 @@
         "user",
         "acmecorp",
         "sales",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -3685,7 +3685,7 @@
         "user",
         "acmecorp",
         "sales-engagement-management",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -3733,7 +3733,7 @@
         "user",
         "acmecorp",
         "sales",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -3781,7 +3781,7 @@
         "user",
         "acmecorp",
         "sales-engagement-management",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -3829,7 +3829,7 @@
         "user",
         "acmecorp",
         "sales-engagement-management",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -3877,7 +3877,7 @@
         "user",
         "acmecorp",
         "sales-engagement-management",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -3925,7 +3925,7 @@
         "user",
         "acmecorp",
         "sales-engagement-management",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -3973,7 +3973,7 @@
         "user",
         "acmecorp",
         "executive",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -4021,7 +4021,7 @@
         "user",
         "acmecorp",
         "executive",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -4069,7 +4069,7 @@
         "user",
         "acmecorp",
         "executive",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -4117,7 +4117,7 @@
         "user",
         "acmecorp",
         "senior-management",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -4165,7 +4165,7 @@
         "user",
         "acmecorp",
         "cvp-of-it",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -4213,7 +4213,7 @@
         "user",
         "acmecorp",
         "senior-management",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -4261,7 +4261,7 @@
         "user",
         "acmecorp",
         "senior-management",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -4309,7 +4309,7 @@
         "user",
         "acmecorp",
         "senior-management",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -4357,7 +4357,7 @@
         "user",
         "acmecorp",
         "sales-engagement-management",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -4405,7 +4405,7 @@
         "user",
         "acmecorp",
         "project-management",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -4453,7 +4453,7 @@
         "user",
         "acmecorp",
         "operations",
-        "Admin"
+        "admin"
       ],
       "permissions": []
     },
@@ -4501,7 +4501,7 @@
         "user",
         "acmecorp",
         "project-management",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -4549,7 +4549,7 @@
         "user",
         "acmecorp",
         "project-management",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -4597,7 +4597,7 @@
         "user",
         "acmecorp",
         "project-management",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -4645,7 +4645,7 @@
         "user",
         "acmecorp",
         "project-management",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -4693,7 +4693,7 @@
         "user",
         "acmecorp",
         "project-management",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -4741,7 +4741,7 @@
         "user",
         "acmecorp",
         "project-management",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -4789,7 +4789,7 @@
         "user",
         "acmecorp",
         "project-management",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -4837,7 +4837,7 @@
         "user",
         "acmecorp",
         "project-management",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -4885,7 +4885,7 @@
         "user",
         "acmecorp",
         "project-management",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -4933,7 +4933,7 @@
         "user",
         "acmecorp",
         "project-management",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -4981,7 +4981,7 @@
         "user",
         "acmecorp",
         "project-management",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -5029,7 +5029,7 @@
         "user",
         "acmecorp",
         "project-management",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -5077,7 +5077,7 @@
         "user",
         "acmecorp",
         "project-management",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -5125,7 +5125,7 @@
         "user",
         "acmecorp",
         "sales",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -5173,7 +5173,7 @@
         "user",
         "acmecorp",
         "project-management",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -5221,7 +5221,7 @@
         "user",
         "acmecorp",
         "project-management",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -5269,7 +5269,7 @@
         "user",
         "acmecorp",
         "project-management",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -5317,7 +5317,7 @@
         "user",
         "acmecorp",
         "project-management",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -5365,7 +5365,7 @@
         "user",
         "acmecorp",
         "project-management",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -5413,7 +5413,7 @@
         "user",
         "acmecorp",
         "sales",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -5461,7 +5461,7 @@
         "user",
         "acmecorp",
         "project-management",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -5509,7 +5509,7 @@
         "user",
         "acmecorp",
         "sales",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -5557,7 +5557,7 @@
         "user",
         "acmecorp",
         "sales",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -5605,7 +5605,7 @@
         "user",
         "acmecorp",
         "project-management",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -5653,7 +5653,7 @@
         "user",
         "acmecorp",
         "sales",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -5701,7 +5701,7 @@
         "user",
         "acmecorp",
         "project-management",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -5749,7 +5749,7 @@
         "user",
         "acmecorp",
         "strategy-consulting",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -5797,7 +5797,7 @@
         "user",
         "acmecorp",
         "content-management-consulting",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -5845,7 +5845,7 @@
         "user",
         "acmecorp",
         "strategy-consulting",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -5893,7 +5893,7 @@
         "user",
         "acmecorp",
         "strategy-consulting",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -5941,7 +5941,7 @@
         "user",
         "acmecorp",
         "strategy-consulting",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -5989,7 +5989,7 @@
         "user",
         "acmecorp",
         "strategy-consulting",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -6037,7 +6037,7 @@
         "user",
         "acmecorp",
         "strategy-consulting",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -6085,7 +6085,7 @@
         "user",
         "acmecorp",
         "strategy-consulting",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -6133,7 +6133,7 @@
         "user",
         "acmecorp",
         "strategy-consulting",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -6181,7 +6181,7 @@
         "user",
         "acmecorp",
         "strategy-consulting",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -6229,7 +6229,7 @@
         "user",
         "acmecorp",
         "strategy-consulting",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -6277,7 +6277,7 @@
         "user",
         "acmecorp",
         "strategy-consulting",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -6325,7 +6325,7 @@
         "user",
         "acmecorp",
         "accounting",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -6373,7 +6373,7 @@
         "user",
         "acmecorp",
         "accounting",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -6421,7 +6421,7 @@
         "user",
         "acmecorp",
         "accounting",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -6469,7 +6469,7 @@
         "user",
         "acmecorp",
         "strategy-consulting",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -6517,7 +6517,7 @@
         "user",
         "acmecorp",
         "1099-contractor",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -6565,7 +6565,7 @@
         "user",
         "acmecorp",
         "strategy-consulting",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -6613,7 +6613,7 @@
         "user",
         "acmecorp",
         "strategy-consulting",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -6661,7 +6661,7 @@
         "user",
         "acmecorp",
         "strategy-consulting",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -6709,7 +6709,7 @@
         "user",
         "acmecorp",
         "sales",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -6757,7 +6757,7 @@
         "user",
         "acmecorp",
         "strategy-consulting",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -6805,7 +6805,7 @@
         "user",
         "acmecorp",
         "engineering-operations",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -6853,7 +6853,7 @@
         "user",
         "acmecorp",
         "content-management-consulting",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -6901,7 +6901,7 @@
         "user",
         "acmecorp",
         "content-management-consulting",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -6949,7 +6949,7 @@
         "user",
         "acmecorp",
         "strategy-consulting",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -6997,7 +6997,7 @@
         "user",
         "acmecorp",
         "crm-strategy",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -7045,7 +7045,7 @@
         "user",
         "acmecorp",
         "content-management-consulting",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -7093,7 +7093,7 @@
         "user",
         "acmecorp",
         "content-management-consulting",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -7141,7 +7141,7 @@
         "user",
         "acmecorp",
         "content-management-consulting",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -7189,7 +7189,7 @@
         "user",
         "acmecorp",
         "strategy-consulting",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -7237,7 +7237,7 @@
         "user",
         "acmecorp",
         "1099-contractor",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -7285,7 +7285,7 @@
         "user",
         "acmecorp",
         "accounting",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -7333,7 +7333,7 @@
         "user",
         "acmecorp",
         "1099-contractor",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -7381,7 +7381,7 @@
         "user",
         "acmecorp",
         "1099-contractor",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -7429,7 +7429,7 @@
         "user",
         "acmecorp",
         "1099-contractor",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -7477,7 +7477,7 @@
         "user",
         "acmecorp",
         "1099-contractor",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -7525,7 +7525,7 @@
         "user",
         "acmecorp",
         "1099-contractor",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -7573,7 +7573,7 @@
         "user",
         "acmecorp",
         "1099-contractor",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -7621,7 +7621,7 @@
         "user",
         "acmecorp",
         "1099-contractor",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -7669,7 +7669,7 @@
         "user",
         "acmecorp",
         "1099-contractor",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -7717,7 +7717,7 @@
         "user",
         "acmecorp",
         "1099-contractor",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -7765,7 +7765,7 @@
         "user",
         "acmecorp",
         "1099-contractor",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -7813,7 +7813,7 @@
         "user",
         "acmecorp",
         "1099-contractor",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -7861,7 +7861,7 @@
         "user",
         "acmecorp",
         "1099-contractor",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -7909,7 +7909,7 @@
         "user",
         "acmecorp",
         "1099-contractor",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -7957,7 +7957,7 @@
         "user",
         "acmecorp",
         "1099-contractor",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -8005,7 +8005,7 @@
         "user",
         "acmecorp",
         "accounting",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -8053,7 +8053,7 @@
         "user",
         "acmecorp",
         "1099-contractor",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -8101,7 +8101,7 @@
         "user",
         "acmecorp",
         "1099-contractor",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -8149,7 +8149,7 @@
         "user",
         "acmecorp",
         "1099-contractor",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -8197,7 +8197,7 @@
         "user",
         "acmecorp",
         "1099-contractor",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -8245,7 +8245,7 @@
         "user",
         "acmecorp",
         "1099-contractor",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -8293,7 +8293,7 @@
         "user",
         "acmecorp",
         "1099-contractor",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -8341,7 +8341,7 @@
         "user",
         "acmecorp",
         "1099-contractor",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -8389,7 +8389,7 @@
         "user",
         "acmecorp",
         "1099-contractor",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -8437,7 +8437,7 @@
         "user",
         "acmecorp",
         "1099-contractor",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -8485,7 +8485,7 @@
         "user",
         "acmecorp",
         "1099-contractor",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -8533,7 +8533,7 @@
         "user",
         "acmecorp",
         "1099-contractor",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -8581,7 +8581,7 @@
         "user",
         "acmecorp",
         "1099-contractor",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -8629,7 +8629,7 @@
         "user",
         "acmecorp",
         "strategy-consulting",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -8677,7 +8677,7 @@
         "user",
         "acmecorp",
         "1099-contractor",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -8725,7 +8725,7 @@
         "user",
         "acmecorp",
         "strategy-consulting",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -8773,7 +8773,7 @@
         "user",
         "acmecorp",
         "content-management-consulting",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -8821,7 +8821,7 @@
         "user",
         "acmecorp",
         "crm-strategy",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -8869,7 +8869,7 @@
         "user",
         "acmecorp",
         "engineering-operations",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -8917,7 +8917,7 @@
         "user",
         "acmecorp",
         "strategy-consulting",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -8965,7 +8965,7 @@
         "user",
         "acmecorp",
         "strategy-consulting",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -9013,7 +9013,7 @@
         "user",
         "acmecorp",
         "strategy-consulting",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -9061,7 +9061,7 @@
         "user",
         "acmecorp",
         "strategy-consulting",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -9109,7 +9109,7 @@
         "user",
         "acmecorp",
         "strategy-consulting",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -9157,7 +9157,7 @@
         "user",
         "acmecorp",
         "strategy-consulting",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -9205,7 +9205,7 @@
         "user",
         "acmecorp",
         "strategy-consulting",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -9253,7 +9253,7 @@
         "user",
         "acmecorp",
         "crm-strategy",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -9301,7 +9301,7 @@
         "user",
         "acmecorp",
         "strategy-consulting",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -9349,7 +9349,7 @@
         "user",
         "acmecorp",
         "content-management-consulting",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -9397,7 +9397,7 @@
         "user",
         "acmecorp",
         "strategy-consulting",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -9445,7 +9445,7 @@
         "user",
         "acmecorp",
         "strategy-consulting",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -9493,7 +9493,7 @@
         "user",
         "acmecorp",
         "strategy-consulting",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -9541,7 +9541,7 @@
         "user",
         "acmecorp",
         "strategy-consulting",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -9589,7 +9589,7 @@
         "user",
         "acmecorp",
         "strategy-consulting",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -9637,7 +9637,7 @@
         "user",
         "acmecorp",
         "crm-strategy",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -9685,7 +9685,7 @@
         "user",
         "acmecorp",
         "crm-strategy",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -9733,7 +9733,7 @@
         "user",
         "acmecorp",
         "crm-strategy",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -9781,7 +9781,7 @@
         "user",
         "acmecorp",
         "engineering-operations",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -9829,7 +9829,7 @@
         "user",
         "acmecorp",
         "creative",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -9877,7 +9877,7 @@
         "user",
         "acmecorp",
         "engineering-operations",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -9925,7 +9925,7 @@
         "user",
         "acmecorp",
         "engineering-operations",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -9973,7 +9973,7 @@
         "user",
         "acmecorp",
         "engineering-operations",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -10021,7 +10021,7 @@
         "user",
         "acmecorp",
         "engineering-operations",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -10069,7 +10069,7 @@
         "user",
         "acmecorp",
         "strategy-consulting",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -10117,7 +10117,7 @@
         "user",
         "acmecorp",
         "content-management-consulting",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -10165,7 +10165,7 @@
         "user",
         "acmecorp",
         "content-management-consulting",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -10213,7 +10213,7 @@
         "user",
         "acmecorp",
         "content-management-consulting",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -10261,7 +10261,7 @@
         "user",
         "acmecorp",
         "content-management-consulting",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -10309,7 +10309,7 @@
         "user",
         "acmecorp",
         "content-management-consulting",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -10357,7 +10357,7 @@
         "user",
         "acmecorp",
         "crm-strategy",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -10405,7 +10405,7 @@
         "user",
         "acmecorp",
         "content-management-consulting",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -10453,7 +10453,7 @@
         "user",
         "acmecorp",
         "crm-strategy",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -10501,7 +10501,7 @@
         "user",
         "acmecorp",
         "content-management-consulting",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -10549,7 +10549,7 @@
         "user",
         "acmecorp",
         "content-management-consulting",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -10597,7 +10597,7 @@
         "user",
         "acmecorp",
         "content-management-consulting",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -10645,7 +10645,7 @@
         "user",
         "acmecorp",
         "content-management-consulting",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -10693,7 +10693,7 @@
         "user",
         "acmecorp",
         "content-management-consulting",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -10741,7 +10741,7 @@
         "user",
         "acmecorp",
         "crm-strategy",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -10789,7 +10789,7 @@
         "user",
         "acmecorp",
         "project-management",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -10837,7 +10837,7 @@
         "user",
         "acmecorp",
         "operations",
-        "Admin"
+        "admin"
       ],
       "permissions": []
     },
@@ -10885,7 +10885,7 @@
         "user",
         "acmecorp",
         "engineering-operations",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -10933,7 +10933,7 @@
         "user",
         "acmecorp",
         "engineering-operations",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -10981,7 +10981,7 @@
         "user",
         "acmecorp",
         "operations",
-        "Admin"
+        "admin"
       ],
       "permissions": []
     },
@@ -11029,7 +11029,7 @@
         "user",
         "acmecorp",
         "strategy-consulting",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -11077,7 +11077,7 @@
         "user",
         "acmecorp",
         "project-management",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -11125,7 +11125,7 @@
         "user",
         "acmecorp",
         "sales-engagement-management",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -11173,7 +11173,7 @@
         "user",
         "acmecorp",
         "sales",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -11221,7 +11221,7 @@
         "user",
         "acmecorp",
         "operations",
-        "Admin"
+        "admin"
       ],
       "permissions": []
     },
@@ -11269,7 +11269,7 @@
         "user",
         "acmecorp",
         "strategy-consulting",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -11317,7 +11317,7 @@
         "user",
         "acmecorp",
         "project-management",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -11365,7 +11365,7 @@
         "user",
         "acmecorp",
         "content-management-consulting",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -11413,7 +11413,7 @@
         "user",
         "acmecorp",
         "marketing",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -11461,7 +11461,7 @@
         "user",
         "acmecorp",
         "project-management",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -11509,7 +11509,7 @@
         "user",
         "acmecorp",
         "senior-management",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -11557,7 +11557,7 @@
         "user",
         "acmecorp",
         "sales",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -11605,7 +11605,7 @@
         "user",
         "acmecorp",
         "human-resources",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -11653,7 +11653,7 @@
         "user",
         "acmecorp",
         "strategy-consulting",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -11701,7 +11701,7 @@
         "user",
         "acmecorp",
         "sales-engagement-management",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -11749,7 +11749,7 @@
         "user",
         "acmecorp",
         "marketing",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -11797,7 +11797,7 @@
         "user",
         "acmecorp",
         "project-management",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -11845,7 +11845,7 @@
         "user",
         "acmecorp",
         "strategy-consulting",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -11893,7 +11893,7 @@
         "user",
         "acmecorp",
         "sales",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -11941,7 +11941,7 @@
         "user",
         "acmecorp",
         "operations",
-        "Editor"
+        "editor"
       ],
       "permissions": []
     },
@@ -11989,7 +11989,7 @@
         "user",
         "acmecorp",
         "sales",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -12037,7 +12037,7 @@
         "user",
         "acmecorp",
         "senior-management",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -12085,7 +12085,7 @@
         "user",
         "acmecorp",
         "operations",
-        "Editor"
+        "editor"
       ],
       "permissions": []
     },
@@ -12133,7 +12133,7 @@
         "user",
         "acmecorp",
         "sales",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -12181,7 +12181,7 @@
         "user",
         "acmecorp",
         "sales",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -12229,7 +12229,7 @@
         "user",
         "acmecorp",
         "senior-management",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -12277,7 +12277,7 @@
         "user",
         "acmecorp",
         "sales-engagement-management",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -12325,7 +12325,7 @@
         "user",
         "acmecorp",
         "sales",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -12373,7 +12373,7 @@
         "user",
         "acmecorp",
         "strategy-consulting",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -12421,7 +12421,7 @@
         "user",
         "acmecorp",
         "sales-engagement-management",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -12469,7 +12469,7 @@
         "user",
         "acmecorp",
         "executive",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -12517,7 +12517,7 @@
         "user",
         "acmecorp",
         "strategy-consulting",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -12565,7 +12565,7 @@
         "user",
         "acmecorp",
         "human-resources",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -12613,7 +12613,7 @@
         "user",
         "acmecorp",
         "executive",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -12661,7 +12661,7 @@
         "user",
         "acmecorp",
         "sales",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -12709,7 +12709,7 @@
         "user",
         "acmecorp",
         "accounting",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -12757,7 +12757,7 @@
         "user",
         "acmecorp",
         "executive",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -12805,7 +12805,7 @@
         "user",
         "acmecorp",
         "engineering",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -12853,7 +12853,7 @@
         "user",
         "acmecorp",
         "operations",
-        "Editor"
+        "editor"
       ],
       "permissions": []
     },
@@ -12901,7 +12901,7 @@
         "user",
         "acmecorp",
         "project-management",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -12949,7 +12949,7 @@
         "user",
         "acmecorp",
         "project-management",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },
@@ -12997,7 +12997,7 @@
         "user",
         "acmecorp",
         "operations",
-        "Admin"
+        "admin"
       ],
       "permissions": []
     },
@@ -13045,7 +13045,7 @@
         "user",
         "acmecorp",
         "executive",
-        "Viewer"
+        "viewer"
       ],
       "permissions": []
     },

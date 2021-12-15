@@ -1,0 +1,101 @@
+[
+  {
+    "id": "64ad27a1-34fa-442a-85d4-b23d1eb36a3b",
+    "enabled": true,
+    "display_name": "Mort",
+    "email": "mort@macrofirm.dev",
+    "identities": {
+      "mort@aserto.com": {
+        "kind": "IDENTITY_KIND_EMAIL",
+        "provider": "auth0",
+        "verified": true
+      },
+      "demo001": {
+        "kind": "IDENTITY_KIND_PID",
+        "provider": "demo",
+        "verified": true
+      }
+    },
+    "attributes": {
+      "properties": {
+        "department": "Executive",
+        "manager": ""
+      },
+      "roles": [
+        "viewer"
+      ],
+      "permissions": []
+    },
+    "applications": {},
+    "metadata": {
+      "created_at": "2020-12-25T00:00:00.000Z",
+      "updated_at": "2020-12-25T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "5e0d8d9f-86a4-46f6-86c2-3e9216f67213",
+    "enabled": true,
+    "display_name": "Elvis",
+    "email": "elvis@macrofirm.dev",
+    "identities": {
+      "elvis@macrofirm.dev": {
+        "kind": "IDENTITY_KIND_EMAIL",
+        "provider": "auth0",
+        "verified": true
+      },
+      "demo002": {
+        "kind": "IDENTITY_KIND_PID",
+        "provider": "demo",
+        "verified": true
+      }
+    },
+    "attributes": {
+      "properties": {
+        "department": "Management",
+        "manager": "64ad27a1-34fa-442a-85d4-b23d1eb36a3b"
+      },
+      "roles": [
+        "editor"
+      ],
+      "permissions": []
+    },
+    "applications": {},
+    "metadata": {
+      "created_at": "2020-12-25T00:00:00.000Z",
+      "updated_at": "2020-12-25T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "71415375-1546-43ec-b5d2-3842e9ac6544",
+    "enabled": true,
+    "display_name": "Einstein",
+    "email": "einstein@macrofirm.dev",
+    "identities": {
+      "einstein@macrofirm.dev": {
+        "kind": "IDENTITY_KIND_EMAIL",
+        "provider": "auth0",
+        "verified": true
+      },
+      "demo003": {
+        "kind": "IDENTITY_KIND_PID",
+        "provider": "demo",
+        "verified": true
+      }
+    },
+    "attributes": {
+      "properties": {
+        "department": "Development",
+        "manager": "5e0d8d9f-86a4-46f6-86c2-3e9216f67213"
+      },
+      "roles": [
+        "admin"
+      ],
+      "permissions": []
+    },
+    "applications": {},
+    "metadata": {
+      "created_at": "2020-12-25T00:00:00.000Z",
+      "updated_at": "2020-12-25T00:00:00.000Z"
+    }
+  }
+]

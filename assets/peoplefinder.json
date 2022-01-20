@@ -34,12 +34,7 @@
         "title": "Salesperson",
         "phone": "+1-804-555-3383"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "sales-engagement-management",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "sales-engagement-management", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -83,12 +78,7 @@
         "title": "Salesperson",
         "phone": "+1-206-555-9004"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "sales-engagement-management",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "sales-engagement-management", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -132,12 +122,7 @@
         "title": "Senior Engineer",
         "phone": "+1-206-555-9003"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "engineering-operations",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "engineering-operations", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -181,12 +166,7 @@
         "title": "Accountant",
         "phone": "+1-206-555-9002"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "accounting",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "accounting", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -230,12 +210,7 @@
         "title": "IT Manager",
         "phone": "+1-206-555-9001"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "operations",
-        "admin"
-      ],
+      "roles": ["user", "acmecorp", "operations", "admin"],
       "permissions": []
     },
     "applications": {},
@@ -279,12 +254,7 @@
         "title": "Marketing Specialist",
         "phone": "+1-206-555-9000"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "marketing",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "marketing", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -328,12 +298,7 @@
         "title": "Salesperson",
         "phone": "+1-026-555-8454"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "sales",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "sales", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -377,12 +342,7 @@
         "title": "Marketing Specialist",
         "phone": "+1-206-555-6811"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "marketing",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "marketing", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -426,12 +386,7 @@
         "title": "Salesperson",
         "phone": "+1-860-555-4516"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "sales",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "sales", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -475,12 +430,7 @@
         "title": "Marketing Specialist",
         "phone": "+1-206-555-1214"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "marketing",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "marketing", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -524,12 +474,7 @@
         "title": "Salesperson",
         "phone": "+1-404-555-2693"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "sales",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "sales", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -573,12 +518,7 @@
         "title": "Salesperson",
         "phone": "+1-617-555-2429"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "sales",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "sales", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -622,12 +562,7 @@
         "title": "Salesperson",
         "phone": "+1-312-555-9181"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "sales",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "sales", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -671,12 +606,7 @@
         "title": "Procurement Manager",
         "phone": "+1-206-555-4515"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "operations",
-        "admin"
-      ],
+      "roles": ["user", "acmecorp", "operations", "admin"],
       "permissions": []
     },
     "applications": {},
@@ -720,12 +650,7 @@
         "title": "Salesperson",
         "phone": "+1-91-555-8595"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "sales",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "sales", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -769,12 +694,7 @@
         "title": "IT Manager",
         "phone": "+1-206-555-3325"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "operations",
-        "admin"
-      ],
+      "roles": ["user", "acmecorp", "operations", "admin"],
       "permissions": []
     },
     "applications": {},
@@ -818,12 +738,7 @@
         "title": "Marketing Specialist",
         "phone": "+1-206-555-8951"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "marketing",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "marketing", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -867,12 +782,7 @@
         "title": "Marketing Specialist",
         "phone": "+1-206-555-2312"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "marketing",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "marketing", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -916,12 +826,7 @@
         "title": "Marketing Specialist",
         "phone": "+1-206-555-8834"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "marketing",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "marketing", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -965,12 +870,7 @@
         "title": "Salesperson",
         "phone": "+1-206-555-3654"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "sales",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "sales", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -1014,12 +914,7 @@
         "title": "Salesperson",
         "phone": "+1-108-5-7862"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "sales",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "sales", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -1063,12 +958,7 @@
         "title": "Public Relations Specialist",
         "phone": "+1-206-555-2416"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "marketing",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "marketing", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -1112,12 +1002,7 @@
         "title": "Salesperson",
         "phone": "+1-413-555-3855"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "sales",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "sales", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -1161,12 +1046,7 @@
         "title": "IT Manager",
         "phone": "+1-206-555-9541"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "operations",
-        "admin"
-      ],
+      "roles": ["user", "acmecorp", "operations", "admin"],
       "permissions": []
     },
     "applications": {},
@@ -1210,12 +1090,7 @@
         "title": "IT Manager",
         "phone": "+1-206-555-7455"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "operations",
-        "admin"
-      ],
+      "roles": ["user", "acmecorp", "operations", "admin"],
       "permissions": []
     },
     "applications": {},
@@ -1259,12 +1134,7 @@
         "title": "IT Manager",
         "phone": "+1-206-555-5567"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "operations",
-        "admin"
-      ],
+      "roles": ["user", "acmecorp", "operations", "admin"],
       "permissions": []
     },
     "applications": {},
@@ -1308,12 +1178,7 @@
         "title": "Manager",
         "phone": "+1-206-555-5934"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "operations",
-        "admin"
-      ],
+      "roles": ["user", "acmecorp", "operations", "admin"],
       "permissions": []
     },
     "applications": {},
@@ -1357,12 +1222,7 @@
         "title": "Manager",
         "phone": "+1-206-555-1298"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "operations",
-        "admin"
-      ],
+      "roles": ["user", "acmecorp", "operations", "admin"],
       "permissions": []
     },
     "applications": {},
@@ -1406,12 +1266,7 @@
         "title": "Manager",
         "phone": "+1-206-555-9867"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "operations",
-        "admin"
-      ],
+      "roles": ["user", "acmecorp", "operations", "admin"],
       "permissions": []
     },
     "applications": {},
@@ -1455,12 +1310,7 @@
         "title": "Manager",
         "phone": "+1-206-555-7649"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "operations",
-        "admin"
-      ],
+      "roles": ["user", "acmecorp", "operations", "admin"],
       "permissions": []
     },
     "applications": {},
@@ -1504,12 +1354,7 @@
         "title": "Manager",
         "phone": "+1-206-555-1393"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "operations",
-        "admin"
-      ],
+      "roles": ["user", "acmecorp", "operations", "admin"],
       "permissions": []
     },
     "applications": {},
@@ -1553,12 +1398,7 @@
         "title": "Manager",
         "phone": "+1-206-555-7698"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "operations",
-        "admin"
-      ],
+      "roles": ["user", "acmecorp", "operations", "admin"],
       "permissions": []
     },
     "applications": {},
@@ -1602,12 +1442,7 @@
         "title": "Manager",
         "phone": "+1-206-555-3556"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "operations",
-        "admin"
-      ],
+      "roles": ["user", "acmecorp", "operations", "admin"],
       "permissions": []
     },
     "applications": {},
@@ -1651,12 +1486,7 @@
         "title": "Engineer",
         "phone": "+1-206-555-8835"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "engineering-operations",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "engineering-operations", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -1700,12 +1530,7 @@
         "title": "Marketing Specialist",
         "phone": "+1-206-555-9269"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "marketing",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "marketing", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -1749,12 +1574,7 @@
         "title": "Strategy Consultant",
         "phone": "+1-206-555-9538"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "strategy-consulting",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "strategy-consulting", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -1798,12 +1618,7 @@
         "title": "Engineer",
         "phone": "+1-206-555-6132"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "engineering-operations",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "engineering-operations", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -1847,12 +1662,7 @@
         "title": "Engineer",
         "phone": "+1-206-555-7444"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "engineering-operations",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "engineering-operations", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -1896,12 +1706,7 @@
         "title": "Engineer",
         "phone": "+1-206-555-1211"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "engineering-operations",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "engineering-operations", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -1945,12 +1750,7 @@
         "title": "Senior Engineer",
         "phone": "+1-206-555-9244"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "engineering-operations",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "engineering-operations", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -1994,12 +1794,7 @@
         "title": "Senior Engineer",
         "phone": "+1-206-555-2732"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "engineering-operations",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "engineering-operations", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -2043,12 +1838,7 @@
         "title": "Senior Engineer",
         "phone": "+1-206-555-9351"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "engineering-operations",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "engineering-operations", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -2092,12 +1882,7 @@
         "title": "Senior Engineer",
         "phone": "+1-206-555-2318"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "engineering-operations",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "engineering-operations", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -2141,12 +1926,7 @@
         "title": "Senior Engineer",
         "phone": "+1-206-555-5651"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "engineering-operations",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "engineering-operations", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -2190,12 +1970,7 @@
         "title": "Senior Engineer",
         "phone": "+1-206-555-6941"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "engineering-operations",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "engineering-operations", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -2239,12 +2014,7 @@
         "title": "Salesperson",
         "phone": "+1-206-555-1785"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "sales",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "sales", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -2288,12 +2058,7 @@
         "title": "Salesperson",
         "phone": "+1-714-555-4825"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "sales",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "sales", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -2337,12 +2102,7 @@
         "title": "Salesperson",
         "phone": "+1-206-555-1422"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "sales",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "sales", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -2386,12 +2146,7 @@
         "title": "Salesperson",
         "phone": "+1-2555-4845"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "sales",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "sales", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -2435,12 +2190,7 @@
         "title": "Salesperson",
         "phone": "+1-509-555-3766"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "sales",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "sales", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -2484,12 +2234,7 @@
         "title": "Salesperson",
         "phone": "+1-201-555-8474"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "sales",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "sales", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -2533,12 +2278,7 @@
         "title": "HR Specialist",
         "phone": "+1-206-555-1437"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "human-resources",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "human-resources", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -2582,12 +2322,7 @@
         "title": "Sr. Account Manager",
         "phone": "+1-425-555-0174"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "senior-management",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "senior-management", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -2631,12 +2366,7 @@
         "title": "Salesperson",
         "phone": "+1-541-555-2668"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "sales",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "sales", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -2680,12 +2410,7 @@
         "title": "Salesperson",
         "phone": "+1-213-555-3269"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "sales",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "sales", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -2729,12 +2454,7 @@
         "title": "Salesperson",
         "phone": "+1-850-555-5277"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "sales",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "sales", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -2778,12 +2498,7 @@
         "title": "Salesperson",
         "phone": "+1-214-555-1812"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "sales",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "sales", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -2827,12 +2542,7 @@
         "title": "Salesperson",
         "phone": "+1-607-555-6337"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "sales",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "sales", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -2876,12 +2586,7 @@
         "title": "Salesperson",
         "phone": "+1-607-555-4568"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "sales",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "sales", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -2925,12 +2630,7 @@
         "title": "Salesperson",
         "phone": "+1-212-555-2538"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "sales",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "sales", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -2974,12 +2674,7 @@
         "title": "Salesperson",
         "phone": "+1-425-555-9296"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "sales",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "sales", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -3023,12 +2718,7 @@
         "title": "Procurement Manager",
         "phone": "+1-206-555-4932"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "operations",
-        "admin"
-      ],
+      "roles": ["user", "acmecorp", "operations", "admin"],
       "permissions": []
     },
     "applications": {},
@@ -3072,12 +2762,7 @@
         "title": "Salesperson",
         "phone": "+1-206-555-4629"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "sales",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "sales", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -3121,12 +2806,7 @@
         "title": "Salesperson",
         "phone": "+1-214-555-4151"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "sales-engagement-management",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "sales-engagement-management", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -3170,12 +2850,7 @@
         "title": "Manager",
         "phone": "+1-206-555-4542"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "operations",
-        "admin"
-      ],
+      "roles": ["user", "acmecorp", "operations", "admin"],
       "permissions": []
     },
     "applications": {},
@@ -3219,12 +2894,7 @@
         "title": "Project Manager",
         "phone": "+1-206-555-3164"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "project-management",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "project-management", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -3268,12 +2938,7 @@
         "title": "IT Manager",
         "phone": "+1-206-555-1739"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "operations",
-        "admin"
-      ],
+      "roles": ["user", "acmecorp", "operations", "admin"],
       "permissions": []
     },
     "applications": {},
@@ -3317,12 +2982,7 @@
         "title": "Salesperson",
         "phone": "+1-410-555-3839"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "sales",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "sales", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -3366,12 +3026,7 @@
         "title": "Salesperson",
         "phone": "+1-201-555-5625"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "sales",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "sales", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -3415,12 +3070,7 @@
         "title": "Salesperson",
         "phone": "+1-213-555-1265"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "sales",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "sales", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -3464,12 +3114,7 @@
         "title": "Salesperson",
         "phone": "+1-804-555-3648"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "sales-engagement-management",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "sales-engagement-management", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -3513,12 +3158,7 @@
         "title": "Salesperson",
         "phone": "+1-804-555-5958"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "sales-engagement-management",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "sales-engagement-management", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -3562,12 +3202,7 @@
         "title": "Salesperson",
         "phone": "+1-804-555-2465"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "sales-engagement-management",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "sales-engagement-management", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -3611,12 +3246,7 @@
         "title": "Salesperson",
         "phone": "+1-701-555-7818"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "sales-engagement-management",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "sales-engagement-management", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -3660,12 +3290,7 @@
         "title": "Salesperson",
         "phone": "+1-701-555-6828"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "sales-engagement-management",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "sales-engagement-management", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -3709,12 +3334,7 @@
         "title": "Salesperson",
         "phone": "+1-06-5555-1284"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "sales",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "sales", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -3758,12 +3378,7 @@
         "title": "Salesperson",
         "phone": "+1-214-555-8815"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "sales-engagement-management",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "sales-engagement-management", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -3807,12 +3422,7 @@
         "title": "Salesperson",
         "phone": "+1-09-5555-3784"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "sales",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "sales", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -3856,12 +3466,7 @@
         "title": "Salesperson",
         "phone": "+1-214-555-7757"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "sales-engagement-management",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "sales-engagement-management", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -3905,12 +3510,7 @@
         "title": "Salesperson",
         "phone": "+1-206-555-2363"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "sales-engagement-management",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "sales-engagement-management", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -3954,12 +3554,7 @@
         "title": "Salesperson",
         "phone": "+1-206-555-5661"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "sales-engagement-management",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "sales-engagement-management", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -4003,12 +3598,7 @@
         "title": "Salesperson",
         "phone": "+1-206-555-4331"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "sales-engagement-management",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "sales-engagement-management", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -4052,12 +3642,7 @@
         "title": "CFO",
         "phone": "+1-425-555-0116"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "executive",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "executive", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -4101,12 +3686,7 @@
         "title": "Chief of Partnerships and Strategy",
         "phone": "+1-425-555-0196"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "executive",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "executive", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -4150,12 +3730,7 @@
         "title": "Chief of Technical Strategy",
         "phone": "+1-425-555-0107"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "executive",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "executive", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -4199,12 +3774,7 @@
         "title": "President of Management",
         "phone": "+1-425-555-0140"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "senior-management",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "senior-management", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -4248,12 +3818,7 @@
         "title": "President of Services",
         "phone": "+1-425-555-0131"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "cvp-of-it",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "cvp-of-it", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -4297,12 +3862,7 @@
         "title": "Sr. Media Planner",
         "phone": "+1-425-555-0124"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "senior-management",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "senior-management", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -4346,12 +3906,7 @@
         "title": "Director of Affiliate Marketing and Partnerships",
         "phone": "+1-425-555-0193"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "senior-management",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "senior-management", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -4395,12 +3950,7 @@
         "title": "Director of Client Services",
         "phone": "+1-425-555-0129"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "senior-management",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "senior-management", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -4444,12 +3994,7 @@
         "title": "Salesperson",
         "phone": "+1-701-555-4446"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "sales-engagement-management",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "sales-engagement-management", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -4493,12 +4038,7 @@
         "title": "Senior Project Manager",
         "phone": "+1-206-555-8185"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "project-management",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "project-management", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -4542,12 +4082,7 @@
         "title": "Procurement Manager",
         "phone": "+1-206-555-4539"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "operations",
-        "admin"
-      ],
+      "roles": ["user", "acmecorp", "operations", "admin"],
       "permissions": []
     },
     "applications": {},
@@ -4591,12 +4126,7 @@
         "title": "Senior Project Manager",
         "phone": "+1-206-555-4262"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "project-management",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "project-management", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -4640,12 +4170,7 @@
         "title": "Senior Project Manager",
         "phone": "+1-206-555-6667"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "project-management",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "project-management", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -4689,12 +4214,7 @@
         "title": "Project Manager",
         "phone": "+1-206-555-1783"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "project-management",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "project-management", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -4738,12 +4258,7 @@
         "title": "Business Process Manager",
         "phone": "+1-206-555-2918"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "project-management",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "project-management", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -4787,12 +4302,7 @@
         "title": "Business Process Manager",
         "phone": "+1-206-555-6552"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "project-management",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "project-management", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -4836,12 +4346,7 @@
         "title": "Senior Project Manager",
         "phone": "+1-206-555-1471"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "project-management",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "project-management", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -4885,12 +4390,7 @@
         "title": "Business Process Manager",
         "phone": "+1-206-555-6953"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "project-management",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "project-management", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -4934,12 +4434,7 @@
         "title": "Business Process Manager",
         "phone": "+1-206-555-3874"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "project-management",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "project-management", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -4983,12 +4478,7 @@
         "title": "Project Manager",
         "phone": "+1-206-555-5488"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "project-management",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "project-management", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -5032,12 +4522,7 @@
         "title": "Project Manager",
         "phone": "+1-206-555-9299"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "project-management",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "project-management", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -5081,12 +4566,7 @@
         "title": "Project Manager",
         "phone": "+1-206-555-6561"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "project-management",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "project-management", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -5130,12 +4610,7 @@
         "title": "Project Manager",
         "phone": "+1-206-555-1694"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "project-management",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "project-management", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -5179,12 +4654,7 @@
         "title": "Project Manager",
         "phone": "+1-206-555-8382"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "project-management",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "project-management", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -5228,12 +4698,7 @@
         "title": "Salesperson",
         "phone": "+1-707-555-3823"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "sales",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "sales", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -5277,12 +4742,7 @@
         "title": "Project Manager",
         "phone": "+1-206-555-2474"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "project-management",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "project-management", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -5326,12 +4786,7 @@
         "title": "Senior Project Manager",
         "phone": "+1-206-555-9848"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "project-management",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "project-management", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -5375,12 +4830,7 @@
         "title": "Project Manager",
         "phone": "+1-206-555-4738"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "project-management",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "project-management", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -5424,12 +4874,7 @@
         "title": "Project Manager",
         "phone": "+1-206-555-3448"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "project-management",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "project-management", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -5473,12 +4918,7 @@
         "title": "Project Manager",
         "phone": "+1-206-555-9267"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "project-management",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "project-management", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -5522,12 +4962,7 @@
         "title": "Salesperson",
         "phone": "+1-404-555-9264"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "sales",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "sales", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -5571,12 +5006,7 @@
         "title": "Project Manager",
         "phone": "+1-206-555-6492"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "project-management",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "project-management", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -5620,12 +5050,7 @@
         "title": "Salesperson",
         "phone": "+1-617-555-7395"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "sales",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "sales", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -5669,12 +5094,7 @@
         "title": "Salesperson",
         "phone": "+1-20-5555-6851"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "sales",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "sales", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -5718,12 +5138,7 @@
         "title": "Project Manager",
         "phone": "+1-206-555-2699"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "project-management",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "project-management", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -5767,12 +5182,7 @@
         "title": "Salesperson",
         "phone": "+1-06-5555-8461"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "sales",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "sales", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -5816,12 +5226,7 @@
         "title": "Senior Project Manager",
         "phone": "+1-206-555-2246"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "project-management",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "project-management", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -5865,12 +5270,7 @@
         "title": "Strategy Consultant",
         "phone": "+1-206-555-8879"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "strategy-consulting",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "strategy-consulting", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -5914,12 +5314,7 @@
         "title": "Content Management Consultant",
         "phone": "+1-212-555-3984"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "content-management-consulting",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "content-management-consulting", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -5963,12 +5358,7 @@
         "title": "Strategy Consultant",
         "phone": "+1-206-555-5295"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "strategy-consulting",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "strategy-consulting", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -6012,12 +5402,7 @@
         "title": "Strategy Consultant",
         "phone": "+1-206-555-8398"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "strategy-consulting",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "strategy-consulting", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -6061,12 +5446,7 @@
         "title": "Strategy Consultant",
         "phone": "+1-206-555-4295"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "strategy-consulting",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "strategy-consulting", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -6110,12 +5490,7 @@
         "title": "Strategy Consultant",
         "phone": "+1-206-555-6621"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "strategy-consulting",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "strategy-consulting", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -6159,12 +5534,7 @@
         "title": "Strategy Consultant",
         "phone": "+1-206-555-8223"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "strategy-consulting",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "strategy-consulting", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -6208,12 +5578,7 @@
         "title": "Strategy Consultant",
         "phone": "+1-206-555-4557"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "strategy-consulting",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "strategy-consulting", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -6257,12 +5622,7 @@
         "title": "Strategy Consultant",
         "phone": "+1-206-555-4886"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "strategy-consulting",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "strategy-consulting", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -6306,12 +5666,7 @@
         "title": "Strategy Consultant",
         "phone": "+1-206-555-4595"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "strategy-consulting",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "strategy-consulting", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -6355,12 +5710,7 @@
         "title": "Strategy Consultant",
         "phone": "+1-206-555-3449"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "strategy-consulting",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "strategy-consulting", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -6404,12 +5754,7 @@
         "title": "Strategy Consultant",
         "phone": "+1-206-555-5846"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "strategy-consulting",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "strategy-consulting", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -6453,12 +5798,7 @@
         "title": "Accountant",
         "phone": "+1-206-555-6848"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "accounting",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "accounting", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -6502,12 +5842,7 @@
         "title": "Accountant",
         "phone": "+1-425-555-9559"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "accounting",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "accounting", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -6551,12 +5886,7 @@
         "title": "Accounting Manager",
         "phone": "+1-415-555-7777"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "accounting",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "accounting", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -6600,12 +5930,7 @@
         "title": "Strategy Consultant",
         "phone": "+1-206-555-1913"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "strategy-consulting",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "strategy-consulting", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -6649,12 +5974,7 @@
         "title": "Project Manager",
         "phone": "+1-206-555-4112"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "1099-contractor",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "1099-contractor", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -6698,12 +6018,7 @@
         "title": "Strategy Consultant",
         "phone": "+1-206-555-4747"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "strategy-consulting",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "strategy-consulting", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -6747,12 +6062,7 @@
         "title": "Strategy Consultant",
         "phone": "+1-206-555-1443"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "strategy-consulting",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "strategy-consulting", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -6796,12 +6106,7 @@
         "title": "Strategy Consultant",
         "phone": "+1-206-555-8454"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "strategy-consulting",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "strategy-consulting", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -6845,12 +6150,7 @@
         "title": "Salesperson",
         "phone": "+1-214-555-8332"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "sales",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "sales", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -6894,12 +6194,7 @@
         "title": "Strategy Consultant",
         "phone": "+1-206-555-2297"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "strategy-consulting",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "strategy-consulting", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -6943,12 +6238,7 @@
         "title": "Engineer",
         "phone": "+1-206-555-9821"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "engineering-operations",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "engineering-operations", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -6992,12 +6282,7 @@
         "title": "Content Management Consultant",
         "phone": "+1-206-555-6448"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "content-management-consulting",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "content-management-consulting", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -7041,12 +6326,7 @@
         "title": "Business Process Manager",
         "phone": "+1-206-555-7213"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "content-management-consulting",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "content-management-consulting", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -7090,12 +6370,7 @@
         "title": "Strategy Consultant",
         "phone": "+1-206-555-7167"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "strategy-consulting",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "strategy-consulting", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -7139,12 +6414,7 @@
         "title": "CRM Consultant",
         "phone": "+1-20-5555-8569"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "crm-strategy",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "crm-strategy", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -7188,12 +6458,7 @@
         "title": "Content Management Consultant",
         "phone": "+1-206-555-4157"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "content-management-consulting",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "content-management-consulting", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -7237,12 +6502,7 @@
         "title": "Content Management Consultant",
         "phone": "+1-206-555-1659"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "content-management-consulting",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "content-management-consulting", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -7286,12 +6546,7 @@
         "title": "Content Management Consultant",
         "phone": "+1-212-555-3889"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "content-management-consulting",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "content-management-consulting", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -7335,12 +6590,7 @@
         "title": "Strategy Consultant",
         "phone": "+1-206-555-6864"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "strategy-consulting",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "strategy-consulting", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -7384,12 +6634,7 @@
         "title": "Strategy Consultant",
         "phone": "+1-206-555-8452"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "1099-contractor",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "1099-contractor", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -7433,12 +6678,7 @@
         "title": "Accountant",
         "phone": "+1-415-555-2597"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "accounting",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "accounting", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -7482,12 +6722,7 @@
         "title": "Project Manager",
         "phone": "+1-206-555-8793"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "1099-contractor",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "1099-contractor", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -7531,12 +6766,7 @@
         "title": "Project Manager",
         "phone": "+1-206-555-2464"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "1099-contractor",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "1099-contractor", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -7580,12 +6810,7 @@
         "title": "Project Manager",
         "phone": "+1-206-555-1833"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "1099-contractor",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "1099-contractor", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -7629,12 +6854,7 @@
         "title": "Project Manager",
         "phone": "+1-206-555-4536"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "1099-contractor",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "1099-contractor", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -7678,12 +6898,7 @@
         "title": "Project Manager",
         "phone": "+1-206-555-1413"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "1099-contractor",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "1099-contractor", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -7727,12 +6942,7 @@
         "title": "Project Manager",
         "phone": "+1-206-555-7139"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "1099-contractor",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "1099-contractor", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -7776,12 +6986,7 @@
         "title": "Strategy Consultant",
         "phone": "+1-206-555-3155"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "1099-contractor",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "1099-contractor", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -7825,12 +7030,7 @@
         "title": "Project Manager",
         "phone": "+1-206-555-6963"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "1099-contractor",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "1099-contractor", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -7874,12 +7074,7 @@
         "title": "Strategy Consultant",
         "phone": "+1-206-555-7794"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "1099-contractor",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "1099-contractor", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -7923,12 +7118,7 @@
         "title": "Strategy Consultant",
         "phone": "+1-206-555-4666"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "1099-contractor",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "1099-contractor", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -7972,12 +7162,7 @@
         "title": "Strategy Consultant",
         "phone": "+1-206-555-6235"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "1099-contractor",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "1099-contractor", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -8021,12 +7206,7 @@
         "title": "Strategy Consultant",
         "phone": "+1-206-555-8792"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "1099-contractor",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "1099-contractor", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -8070,12 +7250,7 @@
         "title": "Strategy Consultant",
         "phone": "+1-206-555-6852"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "1099-contractor",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "1099-contractor", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -8119,12 +7294,7 @@
         "title": "Strategy Consultant",
         "phone": "+1-206-555-1678"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "1099-contractor",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "1099-contractor", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -8168,12 +7338,7 @@
         "title": "Accountant",
         "phone": "+1-206-555-9764"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "accounting",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "accounting", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -8217,12 +7382,7 @@
         "title": "Project Manager",
         "phone": "+1-206-555-3415"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "1099-contractor",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "1099-contractor", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -8266,12 +7426,7 @@
         "title": "Project Manager",
         "phone": "+1-206-555-4724"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "1099-contractor",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "1099-contractor", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -8315,12 +7470,7 @@
         "title": "Project Manager",
         "phone": "+1-206-555-3382"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "1099-contractor",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "1099-contractor", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -8364,12 +7514,7 @@
         "title": "Project Manager",
         "phone": "+1-206-555-7177"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "1099-contractor",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "1099-contractor", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -8413,12 +7558,7 @@
         "title": "Project Manager",
         "phone": "+1-206-555-1577"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "1099-contractor",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "1099-contractor", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -8462,12 +7602,7 @@
         "title": "Project Manager",
         "phone": "+1-206-555-2342"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "1099-contractor",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "1099-contractor", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -8511,12 +7646,7 @@
         "title": "Project Manager",
         "phone": "+1-206-555-9366"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "1099-contractor",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "1099-contractor", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -8560,12 +7690,7 @@
         "title": "Project Manager",
         "phone": "+1-206-555-5413"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "1099-contractor",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "1099-contractor", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -8609,12 +7734,7 @@
         "title": "Project Manager",
         "phone": "+1-206-555-7593"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "1099-contractor",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "1099-contractor", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -8658,12 +7778,7 @@
         "title": "Project Manager",
         "phone": "+1-206-555-1459"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "1099-contractor",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "1099-contractor", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -8707,12 +7822,7 @@
         "title": "Project Manager",
         "phone": "+1-206-555-9549"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "1099-contractor",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "1099-contractor", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -8756,12 +7866,7 @@
         "title": "Project Manager",
         "phone": "+1-206-555-5233"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "1099-contractor",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "1099-contractor", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -8805,12 +7910,7 @@
         "title": "Strategy Consultant",
         "phone": "+1-206-555-8147"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "strategy-consulting",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "strategy-consulting", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -8854,12 +7954,7 @@
         "title": "Project Manager",
         "phone": "+1-206-555-7749"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "1099-contractor",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "1099-contractor", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -8903,12 +7998,7 @@
         "title": "Strategy Consultant",
         "phone": "+1-212-555-8236"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "strategy-consulting",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "strategy-consulting", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -8952,12 +8042,7 @@
         "title": "Content Management Consultant",
         "phone": "+1-206-555-5542"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "content-management-consulting",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "content-management-consulting", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -9001,12 +8086,7 @@
         "title": "CRM Consultant",
         "phone": "+1-20-5555-1394"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "crm-strategy",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "crm-strategy", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -9050,12 +8130,7 @@
         "title": "Engineer",
         "phone": "+1-206-555-3599"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "engineering-operations",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "engineering-operations", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -9099,12 +8174,7 @@
         "title": "Strategy Consultant",
         "phone": "+1-206-555-5461"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "strategy-consulting",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "strategy-consulting", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -9148,12 +8218,7 @@
         "title": "Strategy Consultant",
         "phone": "+1-206-555-6443"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "strategy-consulting",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "strategy-consulting", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -9197,12 +8262,7 @@
         "title": "Strategy Consultant",
         "phone": "+1-206-555-4484"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "strategy-consulting",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "strategy-consulting", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -9246,12 +8306,7 @@
         "title": "Strategy Consultant",
         "phone": "+1-206-555-3518"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "strategy-consulting",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "strategy-consulting", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -9295,12 +8350,7 @@
         "title": "Strategy Consultant",
         "phone": "+1-206-555-5862"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "strategy-consulting",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "strategy-consulting", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -9344,12 +8394,7 @@
         "title": "Strategy Consultant",
         "phone": "+1-206-555-5784"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "strategy-consulting",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "strategy-consulting", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -9393,12 +8438,7 @@
         "title": "Strategy Consultant",
         "phone": "+1-206-555-8157"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "strategy-consulting",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "strategy-consulting", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -9442,12 +8482,7 @@
         "title": "CRM Consultant",
         "phone": "+1-20-5555-6548"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "crm-strategy",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "crm-strategy", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -9491,12 +8526,7 @@
         "title": "Strategy Consultant",
         "phone": "+1-206-555-7947"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "strategy-consulting",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "strategy-consulting", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -9540,12 +8570,7 @@
         "title": "Content Management Consultant",
         "phone": "+1-206-555-3434"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "content-management-consulting",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "content-management-consulting", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -9589,12 +8614,7 @@
         "title": "Strategy Consultant",
         "phone": "+1-212-555-1665"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "strategy-consulting",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "strategy-consulting", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -9638,12 +8658,7 @@
         "title": "Strategy Consultant",
         "phone": "+1-206-555-5499"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "strategy-consulting",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "strategy-consulting", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -9687,12 +8702,7 @@
         "title": "Strategy Consultant",
         "phone": "+1-212-555-5422"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "strategy-consulting",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "strategy-consulting", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -9736,12 +8746,7 @@
         "title": "Strategy Consultant",
         "phone": "+1-212-555-5864"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "strategy-consulting",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "strategy-consulting", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -9785,12 +8790,7 @@
         "title": "Strategy Consultant",
         "phone": "+1-212-555-5231"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "strategy-consulting",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "strategy-consulting", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -9834,12 +8834,7 @@
         "title": "CRM Consultant",
         "phone": "+1-20-5555-2592"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "crm-strategy",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "crm-strategy", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -9883,12 +8878,7 @@
         "title": "CRM Consultant",
         "phone": "+1-20-5555-4625"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "crm-strategy",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "crm-strategy", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -9932,12 +8922,7 @@
         "title": "CRM Consultant",
         "phone": "+1-20-5555-4379"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "crm-strategy",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "crm-strategy", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -9981,12 +8966,7 @@
         "title": "Engineer",
         "phone": "+1-206-555-6127"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "engineering-operations",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "engineering-operations", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -10030,12 +9010,7 @@
         "title": "Engineer",
         "phone": "+1-206-555-6699"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "creative",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "creative", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -10079,12 +9054,7 @@
         "title": "Engineer",
         "phone": "+1-206-555-7231"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "engineering-operations",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "engineering-operations", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -10128,12 +9098,7 @@
         "title": "Engineer",
         "phone": "+1-206-555-3119"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "engineering-operations",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "engineering-operations", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -10177,12 +9142,7 @@
         "title": "Engineer",
         "phone": "+1-206-555-6173"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "engineering-operations",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "engineering-operations", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -10226,12 +9186,7 @@
         "title": "Engineer",
         "phone": "+1-206-555-3748"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "engineering-operations",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "engineering-operations", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -10275,12 +9230,7 @@
         "title": "Strategy Consultant",
         "phone": "+1-206-555-5292"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "strategy-consulting",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "strategy-consulting", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -10324,12 +9274,7 @@
         "title": "Content Management Consultant",
         "phone": "+1-20-5555-8548"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "content-management-consulting",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "content-management-consulting", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -10373,12 +9318,7 @@
         "title": "Content Management Consultant",
         "phone": "+1-212-555-9441"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "content-management-consulting",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "content-management-consulting", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -10422,12 +9362,7 @@
         "title": "Content Management Consultant",
         "phone": "+1-212-555-9437"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "content-management-consulting",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "content-management-consulting", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -10471,12 +9406,7 @@
         "title": "Content Management Consultant",
         "phone": "+1-212-555-4428"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "content-management-consulting",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "content-management-consulting", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -10520,12 +9450,7 @@
         "title": "Content Management Consultant",
         "phone": "+1-20-5555-3658"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "content-management-consulting",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "content-management-consulting", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -10569,12 +9494,7 @@
         "title": "CRM Consultant",
         "phone": "+1-20-5555-2697"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "crm-strategy",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "crm-strategy", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -10618,12 +9538,7 @@
         "title": "CRM Consultant",
         "phone": "+1-20-5555-7963"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "content-management-consulting",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "content-management-consulting", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -10667,12 +9582,7 @@
         "title": "CRM Consultant",
         "phone": "+1-20-5555-9834"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "crm-strategy",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "crm-strategy", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -10716,12 +9626,7 @@
         "title": "Content Management Consultant",
         "phone": "+1-20-5555-5894"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "content-management-consulting",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "content-management-consulting", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -10765,12 +9670,7 @@
         "title": "Content Management Consultant",
         "phone": "+1-20-5555-1626"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "content-management-consulting",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "content-management-consulting", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -10814,12 +9714,7 @@
         "title": "Content Management Consultant",
         "phone": "+1-20-5555-7545"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "content-management-consulting",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "content-management-consulting", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -10863,12 +9758,7 @@
         "title": "Content Management Consultant",
         "phone": "+1-20-5555-4594"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "content-management-consulting",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "content-management-consulting", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -10912,12 +9802,7 @@
         "title": "Content Management Consultant",
         "phone": "+1-20-5555-7862"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "content-management-consulting",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "content-management-consulting", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -10961,12 +9846,7 @@
         "title": "CRM Consulting Manager",
         "phone": "+1-20-5555-4595"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "crm-strategy",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "crm-strategy", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -11010,12 +9890,7 @@
         "title": "Project Manager",
         "phone": "+1-206-555-9642"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "project-management",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "project-management", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -11059,12 +9934,7 @@
         "title": "Manager",
         "phone": "+1-206-555-1242"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "operations",
-        "admin"
-      ],
+      "roles": ["user", "acmecorp", "operations", "admin"],
       "permissions": []
     },
     "applications": {},
@@ -11108,12 +9978,7 @@
         "title": "Strategy Consulting Manager",
         "phone": "+1-206-555-7223"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "engineering-operations",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "engineering-operations", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -11157,12 +10022,7 @@
         "title": "Managing Director",
         "phone": "+1-206-555-4122"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "engineering-operations",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "engineering-operations", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -11206,12 +10066,7 @@
         "title": "Manager",
         "phone": "+1-206-555-8216"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "operations",
-        "admin"
-      ],
+      "roles": ["user", "acmecorp", "operations", "admin"],
       "permissions": []
     },
     "applications": {},
@@ -11255,12 +10110,7 @@
         "title": "Strategy Consulting Manager",
         "phone": "+1-212-555-1397"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "strategy-consulting",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "strategy-consulting", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -11304,12 +10154,7 @@
         "title": "Project Manager",
         "phone": "+1-206-555-8673"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "project-management",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "project-management", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -11353,12 +10198,7 @@
         "title": "Sales Manager",
         "phone": "+1-701-555-3621"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "sales-engagement-management",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "sales-engagement-management", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -11402,12 +10242,7 @@
         "title": "Sales Manager",
         "phone": "+1-206-555-9337"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "sales",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "sales", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -11451,12 +10286,7 @@
         "title": "Procurement Manager",
         "phone": "+1-206-555-7436"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "operations",
-        "admin"
-      ],
+      "roles": ["user", "acmecorp", "operations", "admin"],
       "permissions": []
     },
     "applications": {},
@@ -11500,12 +10330,7 @@
         "title": "Strategy Consultant",
         "phone": "+1-206-555-3965"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "strategy-consulting",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "strategy-consulting", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -11549,12 +10374,7 @@
         "title": "Senior Project Manager",
         "phone": "+1-206-555-8148"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "project-management",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "project-management", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -11598,12 +10418,7 @@
         "title": "Content Management Consulting Manager",
         "phone": "+1-206-555-6169"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "content-management-consulting",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "content-management-consulting", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -11647,12 +10462,7 @@
         "title": "Marketing Manager",
         "phone": "+1-206-555-6511"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "marketing",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "marketing", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -11696,12 +10506,7 @@
         "title": "Senior Project Manager",
         "phone": "+1-206-555-9977"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "project-management",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "project-management", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -11745,12 +10550,7 @@
         "title": "Sr. Business Development Manager",
         "phone": "+1-425-555-0184"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "senior-management",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "senior-management", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -11794,12 +10594,7 @@
         "title": "Regional Sales Manager",
         "phone": "+1-619-555-7772"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "sales",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "sales", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -11843,12 +10638,7 @@
         "title": "HR Manager",
         "phone": "+1-206-555-1346"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "human-resources",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "human-resources", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -11892,12 +10682,7 @@
         "title": "Strategy Consulting Manager",
         "phone": "+1-212-555-9758"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "strategy-consulting",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "strategy-consulting", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -11941,12 +10726,7 @@
         "title": "Sales Manager",
         "phone": "+1-214-555-3187"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "sales-engagement-management",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "sales-engagement-management", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -11990,12 +10770,7 @@
         "title": "Director of Ad Sales",
         "phone": "+1-425-555-0164"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "marketing",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "marketing", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -12039,12 +10814,7 @@
         "title": "Senior Project Manager",
         "phone": "+1-206-555-6345"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "project-management",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "project-management", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -12088,12 +10858,7 @@
         "title": "Strategy Consulting Manager",
         "phone": "+1-212-555-8335"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "strategy-consulting",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "strategy-consulting", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -12137,12 +10902,7 @@
         "title": "Sales Manager",
         "phone": "+1-312-555-5454"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "sales",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "sales", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -12186,12 +10946,7 @@
         "title": "IT Director",
         "phone": "+1-206-555-3186"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "operations",
-        "editor"
-      ],
+      "roles": ["user", "acmecorp", "operations", "editor"],
       "permissions": []
     },
     "applications": {},
@@ -12235,12 +10990,7 @@
         "title": "Regional Sales Manager",
         "phone": "+1-914-555-7414"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "sales",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "sales", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -12284,12 +11034,7 @@
         "title": "GM of Online Ad Sales and Affiliate Marketing",
         "phone": "+1-425-555-0192"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "senior-management",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "senior-management", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -12333,12 +11078,7 @@
         "title": "CTO of Professional Services",
         "phone": "+1-206-555-8936"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "operations",
-        "editor"
-      ],
+      "roles": ["user", "acmecorp", "operations", "editor"],
       "permissions": []
     },
     "applications": {},
@@ -12382,12 +11122,7 @@
         "title": "Regional Sales Manager",
         "phone": "+1-253-555-7934"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "sales",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "sales", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -12431,12 +11166,7 @@
         "title": "Regional Sales Manager",
         "phone": "+1-360-555-4638"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "sales",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "sales", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -12480,12 +11210,7 @@
         "title": "SVP of Online Services",
         "phone": "+1-425-555-0172"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "senior-management",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "senior-management", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -12529,12 +11254,7 @@
         "title": "Sales Manager",
         "phone": "+1-206-555-1123"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "sales-engagement-management",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "sales-engagement-management", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -12578,12 +11298,7 @@
         "title": "Regional Sales Manager",
         "phone": "+1-804-555-2217"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "sales",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "sales", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -12627,12 +11342,7 @@
         "title": "Strategy Consulting Manager",
         "phone": "+1-212-555-2867"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "strategy-consulting",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "strategy-consulting", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -12676,12 +11386,7 @@
         "title": "Managing Director",
         "phone": "+1-206-555-4676"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "sales-engagement-management",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "sales-engagement-management", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -12725,12 +11430,7 @@
         "title": "CVP of Online",
         "phone": "+1-425-555-0177"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "executive",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "executive", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -12774,12 +11474,7 @@
         "title": "Strategy Consulting Manager",
         "phone": "+1-212-555-4178"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "strategy-consulting",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "strategy-consulting", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -12823,12 +11518,7 @@
         "title": "HR Manager",
         "phone": "+1-206-555-8258"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "human-resources",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "human-resources", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -12872,12 +11562,7 @@
         "title": "CVP of Operations",
         "phone": "+1-425-555-0187"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "executive",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "executive", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -12921,12 +11606,7 @@
         "title": "Vice President NA Sales",
         "phone": "+1-713-555-6563"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "sales",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "sales", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -12970,12 +11650,7 @@
         "title": "Controller",
         "phone": "+1-206-555-4156"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "accounting",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "accounting", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -13019,12 +11694,7 @@
         "title": "COO",
         "phone": "+1-425-555-0121"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "executive",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "executive", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -13068,12 +11738,7 @@
         "title": "Managing Director",
         "phone": "+1-206-555-2987"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "engineering",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "engineering", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -13117,12 +11782,7 @@
         "title": "CFO of Professional Services",
         "phone": "+1-206-555-9327"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "operations",
-        "editor"
-      ],
+      "roles": ["user", "acmecorp", "operations", "editor"],
       "permissions": []
     },
     "applications": {},
@@ -13166,12 +11826,7 @@
         "title": "Project Manager",
         "phone": "+1-206-555-1931"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "project-management",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "project-management", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -13215,12 +11870,7 @@
         "title": "Director of Project Management Team",
         "phone": "+1-206-555-2443"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "project-management",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "project-management", "viewer"],
       "permissions": []
     },
     "applications": {},
@@ -13264,12 +11914,7 @@
         "title": "General Manager of Professional Services",
         "phone": "+1-206-555-5472"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "operations",
-        "admin"
-      ],
+      "roles": ["user", "acmecorp", "operations", "admin"],
       "permissions": []
     },
     "applications": {},
@@ -13313,12 +11958,227 @@
         "title": "CEO",
         "phone": "+1-425-555-0179"
       },
-      "roles": [
-        "user",
-        "acmecorp",
-        "executive",
-        "viewer"
-      ],
+      "roles": ["user", "acmecorp", "executive", "viewer"],
+      "permissions": []
+    },
+    "applications": {},
+    "metadata": {
+      "created_at": "2020-12-23T00:43:57.949Z",
+      "updated_at": "2020-12-23T00:43:57.949Z"
+    }
+  },
+  {
+    "id": "fd0614d3-c39a-4781-b7bd-8b96f5a5100d",
+    "enabled": true,
+    "display_name": "Rick Sanchez",
+    "email": "rick@the-citadel.com",
+    "picture": "https://github.com/aserto-demo/contoso-ad-sample/raw/main/UserImages/Rick%20Sanchez.jpg",
+    "identities": {
+      "+1-844-667-3743": {
+        "kind": "IDENTITY_KIND_PHONE",
+        "provider": "",
+        "verified": false
+      },
+      "auth0|fd0614d3-c39a-4781-b7bd-8b96f5a5100d": {
+        "kind": "IDENTITY_KIND_PID",
+        "provider": "auth0",
+        "verified": true
+      },
+      "rick": {
+        "kind": "IDENTITY_KIND_USERNAME",
+        "provider": "",
+        "verified": false
+      },
+      "rick@the-citadel.com": {
+        "kind": "IDENTITY_KIND_EMAIL",
+        "provider": "auth0",
+        "verified": true
+      }
+    },
+    "attributes": {
+      "properties": {
+        "department": "Mad Science",
+        "manager": "",
+        "title": "Chief Mad Scientist",
+        "phone": "+1-844-667-3742"
+      },
+      "roles": ["evil_genius", "squanch", "grandpa", "admin"],
+      "permissions": []
+    },
+    "applications": {},
+    "metadata": {
+      "created_at": "2020-12-23T00:43:57.949Z",
+      "updated_at": "2020-12-23T00:43:57.949Z"
+    }
+  },
+  {
+    "id": "fd1614d3-c39a-4781-b7bd-8b96f5a5100d",
+    "enabled": true,
+    "display_name": "Morty Smith",
+    "email": "morty@the-citadel.com",
+    "picture": "https://github.com/aserto-demo/contoso-ad-sample/raw/main/UserImages/Morty%20Smith.jpg",
+    "identities": {
+      "+1-844-667-3743": {
+        "kind": "IDENTITY_KIND_PHONE",
+        "provider": "",
+        "verified": false
+      },
+      "auth0|fd1614d3-c39a-4781-b7bd-8b96f5a5100d": {
+        "kind": "IDENTITY_KIND_PID",
+        "provider": "auth0",
+        "verified": true
+      },
+      "morty": {
+        "kind": "IDENTITY_KIND_USERNAME",
+        "provider": "",
+        "verified": false
+      },
+      "morty@the-citadel.com": {
+        "kind": "IDENTITY_KIND_EMAIL",
+        "provider": "auth0",
+        "verified": true
+      }
+    },
+    "attributes": {
+      "properties": {
+        "department": "Sidekicks",
+        "manager": "fd0614d3-c39a-4781-b7bd-8b96f5a5100d",
+        "title": "Sidekick",
+        "phone": "+1-844-667-3743"
+      },
+      "roles": ["sideckick", "little_helper", "grandson", "son", "brother"],
+      "permissions": []
+    },
+    "applications": {},
+    "metadata": {
+      "created_at": "2020-12-23T00:43:57.949Z",
+      "updated_at": "2020-12-23T00:43:57.949Z"
+    }
+  },
+  {
+    "id": "fd2614d3-c39a-4781-b7bd-8b96f5a5100d",
+    "enabled": true,
+    "display_name": "Summer Smith",
+    "email": "summer@smiths.com",
+    "picture": "https://github.com/aserto-demo/contoso-ad-sample/raw/main/UserImages/Summer%20Smith.jpg",
+    "identities": {
+      "+1-844-667-3744": {
+        "kind": "IDENTITY_KIND_PHONE",
+        "provider": "",
+        "verified": false
+      },
+      "auth0|fd2614d3-c39a-4781-b7bd-8b96f5a5100d": {
+        "kind": "IDENTITY_KIND_PID",
+        "provider": "auth0",
+        "verified": true
+      },
+      "morty": {
+        "kind": "IDENTITY_KIND_USERNAME",
+        "provider": "",
+        "verified": false
+      },
+      "morty@the-citadel.com": {
+        "kind": "IDENTITY_KIND_EMAIL",
+        "provider": "auth0",
+        "verified": true
+      }
+    },
+    "attributes": {
+      "properties": {
+        "department": "Sidekicks",
+        "manager": "fd0614d3-c39a-4781-b7bd-8b96f5a5100d",
+        "title": "Sidekick",
+        "phone": "+1-844-667-3744"
+      },
+      "roles": ["sideckick", "squanch", "granddaughter", "daughter", "sister"],
+      "permissions": []
+    },
+    "applications": {},
+    "metadata": {
+      "created_at": "2020-12-23T00:43:57.949Z",
+      "updated_at": "2020-12-23T00:43:57.949Z"
+    }
+  },
+  {
+    "id": "fd3614d3-c39a-4781-b7bd-8b96f5a5100d",
+    "enabled": true,
+    "display_name": "Beth Smith",
+    "email": "beth@smiths.com",
+    "picture": "https://github.com/aserto-demo/contoso-ad-sample/raw/main/UserImages/Beth%20Smith.jpg",
+    "identities": {
+      "+1-844-667-3745": {
+        "kind": "IDENTITY_KIND_PHONE",
+        "provider": "",
+        "verified": false
+      },
+      "auth0|fd3614d3-c39a-4781-b7bd-8b96f5a5100d": {
+        "kind": "IDENTITY_KIND_PID",
+        "provider": "auth0",
+        "verified": true
+      },
+      "morty": {
+        "kind": "IDENTITY_KIND_USERNAME",
+        "provider": "",
+        "verified": false
+      },
+      "morty@the-citadel.com": {
+        "kind": "IDENTITY_KIND_EMAIL",
+        "provider": "auth0",
+        "verified": true
+      }
+    },
+    "attributes": {
+      "properties": {
+        "department": "Parenting",
+        "manager": "",
+        "title": "Mom",
+        "phone": "+1-844-667-3745"
+      },
+      "roles": ["clone", "daughter", "mom"],
+      "permissions": []
+    },
+    "applications": {},
+    "metadata": {
+      "created_at": "2020-12-23T00:43:57.949Z",
+      "updated_at": "2020-12-23T00:43:57.949Z"
+    }
+  },
+  {
+    "id": "fd4614d3-c39a-4781-b7bd-8b96f5a5100d",
+    "enabled": true,
+    "display_name": "Jerry Smith",
+    "email": "jerry@smiths.com",
+    "picture": "https://github.com/aserto-demo/contoso-ad-sample/raw/main/UserImages/Jerry%20Smith.jpg",
+    "identities": {
+      "+1-844-667-3746": {
+        "kind": "IDENTITY_KIND_PHONE",
+        "provider": "",
+        "verified": false
+      },
+      "auth0|fd4614d3-c39a-4781-b7bd-8b96f5a5100d": {
+        "kind": "IDENTITY_KIND_PID",
+        "provider": "auth0",
+        "verified": true
+      },
+      "morty": {
+        "kind": "IDENTITY_KIND_USERNAME",
+        "provider": "",
+        "verified": false
+      },
+      "morty@the-citadel.com": {
+        "kind": "IDENTITY_KIND_EMAIL",
+        "provider": "auth0",
+        "verified": true
+      }
+    },
+    "attributes": {
+      "properties": {
+        "department": "Parenting",
+        "manager": "fd3614d3-c39a-4781-b7bd-8b96f5a5100d",
+        "title": "Dad",
+        "phone": "+1-844-667-3746"
+      },
+      "roles": ["looser", "dad"],
       "permissions": []
     },
     "applications": {},

@@ -13412,6 +13412,7 @@
         "phone": "+1-844-667-3743"
       },
       "roles": [
+        "editor",
         "sidekick",
         "little_helper",
         "grandson",
@@ -13462,6 +13463,7 @@
         "phone": "+1-844-667-3744"
       },
       "roles": [
+        "editor",
         "sidekick",
         "squanch",
         "granddaughter",
@@ -13512,6 +13514,7 @@
         "phone": "+1-844-667-3745"
       },
       "roles": [
+        "viewer",
         "clone",
         "daughter",
         "mom"
@@ -13560,6 +13563,7 @@
         "phone": "+1-844-667-3746"
       },
       "roles": [
+        "viewer",
         "looser",
         "dad"
       ],

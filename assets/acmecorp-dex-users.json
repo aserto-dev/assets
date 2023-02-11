@@ -13334,7 +13334,7 @@
     "email": "rick@the-citadel.com",
     "picture": "https://github.com/aserto-demo/contoso-ad-sample/raw/main/UserImages/Rick%20Sanchez.jpg",
     "identities": {
-      "+1-844-667-3743": {
+      "+1-844-667-3742": {
         "kind": "IDENTITY_KIND_PHONE",
         "provider": "",
         "verified": false

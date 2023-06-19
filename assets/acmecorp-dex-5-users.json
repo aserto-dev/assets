@@ -1,0 +1,251 @@
+[
+    {
+        "id": "fd1614d3-c39a-4781-b7bd-8b96f5a5100d",
+        "enabled": true,
+        "display_name": "Morty Smith",
+        "email": "morty@the-citadel.com",
+        "picture": "https://github.com/aserto-demo/contoso-ad-sample/raw/main/UserImages/Morty%20Smith.jpg",
+        "identities": {
+          "+1-844-667-3743": {
+            "kind": "IDENTITY_KIND_PHONE",
+            "provider": "",
+            "verified": false
+          },
+          "CiRmZDE2MTRkMy1jMzlhLTQ3ODEtYjdiZC04Yjk2ZjVhNTEwMGQSBWxvY2Fs": {
+            "kind": "IDENTITY_KIND_PID",
+            "provider": "local",
+            "verified": true
+          },
+          "morty": {
+            "kind": "IDENTITY_KIND_USERNAME",
+            "provider": "",
+            "verified": false
+          },
+          "morty@the-citadel.com": {
+            "kind": "IDENTITY_KIND_EMAIL",
+            "provider": "local",
+            "verified": true
+          }
+        },
+        "attributes": {
+          "properties": {
+            "department": "Sidekicks",
+            "manager": "fd0614d3-c39a-4781-b7bd-8b96f5a5100d",
+            "title": "Sidekick",
+            "phone": "+1-844-667-3743"
+          },
+          "roles": [
+            "editor",
+            "sidekick",
+            "little_helper",
+            "grandson",
+            "son",
+            "brother"
+          ],
+          "permissions": []
+        },
+        "applications": {},
+        "metadata": {
+          "created_at": "2020-12-23T00:43:57.949Z",
+          "updated_at": "2020-12-23T00:43:57.949Z"
+        }
+    },
+    {
+        "id": "fd0614d3-c39a-4781-b7bd-8b96f5a5100d",
+        "enabled": true,
+        "display_name": "Rick Sanchez",
+        "email": "rick@the-citadel.com",
+        "picture": "https://github.com/aserto-demo/contoso-ad-sample/raw/main/UserImages/Rick%20Sanchez.jpg",
+        "identities": {
+          "+1-844-667-3742": {
+            "kind": "IDENTITY_KIND_PHONE",
+            "provider": "",
+            "verified": false
+          },
+          "CiRmZDA2MTRkMy1jMzlhLTQ3ODEtYjdiZC04Yjk2ZjVhNTEwMGQSBWxvY2Fs": {
+            "kind": "IDENTITY_KIND_PID",
+            "provider": "local",
+            "verified": true
+          },
+          "rick": {
+            "kind": "IDENTITY_KIND_USERNAME",
+            "provider": "",
+            "verified": false
+          },
+          "rick@the-citadel.com": {
+            "kind": "IDENTITY_KIND_EMAIL",
+            "provider": "local",
+            "verified": true
+          }
+        },
+        "attributes": {
+          "properties": {
+            "department": "Mad Science",
+            "manager": "",
+            "title": "Chief Mad Scientist",
+            "phone": "+1-844-667-3742"
+          },
+          "roles": [
+            "evil_genius",
+            "squanch",
+            "grandpa",
+            "admin"
+          ],
+          "permissions": []
+        },
+        "applications": {},
+        "metadata": {
+          "created_at": "2020-12-23T00:43:57.949Z",
+          "updated_at": "2020-12-23T00:43:57.949Z"
+        }
+    },
+    {
+        "id": "fd2614d3-c39a-4781-b7bd-8b96f5a5100d",
+        "enabled": true,
+        "display_name": "Summer Smith",
+        "email": "summer@the-smiths.com",
+        "picture": "https://github.com/aserto-demo/contoso-ad-sample/raw/main/UserImages/Summer%20Smith.jpg",
+        "identities": {
+          "+1-844-667-3744": {
+            "kind": "IDENTITY_KIND_PHONE",
+            "provider": "",
+            "verified": false
+          },
+          "CiRmZDI2MTRkMy1jMzlhLTQ3ODEtYjdiZC04Yjk2ZjVhNTEwMGQSBWxvY2Fs": {
+            "kind": "IDENTITY_KIND_PID",
+            "provider": "local",
+            "verified": true
+          },
+          "summer": {
+            "kind": "IDENTITY_KIND_USERNAME",
+            "provider": "",
+            "verified": false
+          },
+          "summer@the-smiths.com": {
+            "kind": "IDENTITY_KIND_EMAIL",
+            "provider": "local",
+            "verified": true
+          }
+        },
+        "attributes": {
+          "properties": {
+            "department": "Sidekicks",
+            "manager": "fd0614d3-c39a-4781-b7bd-8b96f5a5100d",
+            "title": "Sidekick",
+            "phone": "+1-844-667-3744"
+          },
+          "roles": [
+            "editor",
+            "sidekick",
+            "squanch",
+            "granddaughter",
+            "daughter",
+            "sister"
+          ],
+          "permissions": []
+        },
+        "applications": {},
+        "metadata": {
+          "created_at": "2020-12-23T00:43:57.949Z",
+          "updated_at": "2020-12-23T00:43:57.949Z"
+        }
+    },
+    {
+        "id": "fd3614d3-c39a-4781-b7bd-8b96f5a5100d",
+        "enabled": true,
+        "display_name": "Beth Smith",
+        "email": "beth@the-smiths.com",
+        "picture": "https://github.com/aserto-demo/contoso-ad-sample/raw/main/UserImages/Beth%20Smith.jpg",
+        "identities": {
+          "+1-844-667-3745": {
+            "kind": "IDENTITY_KIND_PHONE",
+            "provider": "",
+            "verified": false
+          },
+          "CiRmZDM2MTRkMy1jMzlhLTQ3ODEtYjdiZC04Yjk2ZjVhNTEwMGQSBWxvY2Fs": {
+            "kind": "IDENTITY_KIND_PID",
+            "provider": "local",
+            "verified": true
+          },
+          "beth": {
+            "kind": "IDENTITY_KIND_USERNAME",
+            "provider": "",
+            "verified": false
+          },
+          "beth@the-smiths.com": {
+            "kind": "IDENTITY_KIND_EMAIL",
+            "provider": "local",
+            "verified": true
+          }
+        },
+        "attributes": {
+          "properties": {
+            "department": "Parenting",
+            "manager": "",
+            "title": "Mom",
+            "phone": "+1-844-667-3745"
+          },
+          "roles": [
+            "viewer",
+            "clone",
+            "daughter",
+            "mom"
+          ],
+          "permissions": []
+        },
+        "applications": {},
+        "metadata": {
+          "created_at": "2020-12-23T00:43:57.949Z",
+          "updated_at": "2020-12-23T00:43:57.949Z"
+        }
+    },
+    {
+        "id": "fd4614d3-c39a-4781-b7bd-8b96f5a5100d",
+        "enabled": true,
+        "display_name": "Jerry Smith",
+        "email": "jerry@the-smiths.com",
+        "picture": "https://github.com/aserto-demo/contoso-ad-sample/raw/main/UserImages/Jerry%20Smith.jpg",
+        "identities": {
+          "+1-844-667-3746": {
+            "kind": "IDENTITY_KIND_PHONE",
+            "provider": "",
+            "verified": false
+          },
+          "CiRmZDQ2MTRkMy1jMzlhLTQ3ODEtYjdiZC04Yjk2ZjVhNTEwMGQSBWxvY2Fs": {
+            "kind": "IDENTITY_KIND_PID",
+            "provider": "local",
+            "verified": true
+          },
+          "jerry": {
+            "kind": "IDENTITY_KIND_USERNAME",
+            "provider": "",
+            "verified": false
+          },
+          "jerry@the-smiths.com": {
+            "kind": "IDENTITY_KIND_EMAIL",
+            "provider": "local",
+            "verified": true
+          }
+        },
+        "attributes": {
+          "properties": {
+            "department": "Parenting",
+            "manager": "fd3614d3-c39a-4781-b7bd-8b96f5a5100d",
+            "title": "Dad",
+            "phone": "+1-844-667-3746"
+          },
+          "roles": [
+            "viewer",
+            "looser",
+            "dad"
+          ],
+          "permissions": []
+        },
+        "applications": {},
+        "metadata": {
+          "created_at": "2020-12-23T00:43:57.949Z",
+          "updated_at": "2020-12-23T00:43:57.949Z"
+        }
+    }
+]
+
